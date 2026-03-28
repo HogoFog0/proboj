@@ -1,7 +1,7 @@
 # ksp-proboj-2026-jar
 I am your father
 # Čo je Proboj a ako funguje?
-
+I am your mother
 Proboj, skratka pre programátorský boj, je aktivita z KSP sústredení, kde hráči
 (vy) programujú vlastného bota, ktorý súťaží v predom pripravenej hre. K hre je
 taktiež pripravený template bota, ktorý zvláda komunikáciu so serverom a nejaké
