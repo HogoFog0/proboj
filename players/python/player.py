@@ -4,7 +4,7 @@ from typing import List
 from data import World, Move, Person, World, Map, Shade, Tombstone, Point
 from game import Game, PlayerInterface
 from random import shuffle
-
+from Moving import A_to_B
 
 class Player(PlayerInterface):
     @staticmethod
@@ -24,6 +24,8 @@ class Player(PlayerInterface):
                 if world.map.can_move_to(ngb):
                     moves.append(Move(id, ngb))
                     break
+        self.log("grerggg")
+        A_to_B(self, world, (1,))
         return moves
 
 if __name__ == "__main__":
