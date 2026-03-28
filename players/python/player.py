@@ -5,6 +5,12 @@ from data import World, Move, Person, World, Map, Shade, Tombstone, Point
 from game import Game, PlayerInterface
 from random import shuffle
 from Moving import A_to_B
+from farming import *
+
+def GoTo(self, shade : Shade, end : Point):
+    self.log(shade,end,A_to_B(self,shade.position,end))
+    if(A_to_B(self,shade.position,end) is not None):
+        self.moves.append(Move(shade.id,A_to_B(self,shade.position,end)))
 
 class Player(PlayerInterface):
     @staticmethod
@@ -16,17 +22,15 @@ class Player(PlayerInterface):
         pass
 
     def get_turn(self, world: World) -> List[Move]:
-        moves = []
-        for id, ant in world.alive_shades.items():
-            neighbours = ant.position.get_neighbouring()
-            shuffle(neighbours)
-            for ngb in neighbours:
-                if world.map.can_move_to(ngb):
-                    moves.append(Move(id, ngb))
-                    break
-        self.log("grerggg")
-        A_to_B(self, world, (1,))
-        return moves
+        self.my_shades = [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].owner == world.my_id]
+        self.moves = []
+        self.world = world
+        # self.log(self.my_shades)
+        assignment = singleassign(self)
+        for i in assignment:
+            GoTo(self, i,assignment[i].position)
+
+        return self.moves
 
 if __name__ == "__main__":
     game = Game(Player())

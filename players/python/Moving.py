@@ -2,7 +2,9 @@ from data import *
 from collections import deque
 from collections import defaultdict
 
-def A_to_B(self, world: World, A, B):
+def A_to_B(self, A, B):
+    if(A==B): return None
+    world : World = self.world
     q = deque()
     q.append(A)
     dist = defaultdict(int)
@@ -15,11 +17,10 @@ def A_to_B(self, world: World, A, B):
 
         for ngb in neighbours: 
             if ngb == B:
-                parent[B] = X
-                move = parent[B]
-                while parent[move] != A:
-                    move = parent[move]
-                return move
+                parent[ngb] = X
+                while parent[ngb] != A:
+                    ngb = parent[ngb]
+                return ngb
             
             elif world.map.can_move_to(ngb) and ngb not in dist:
                 dist[ngb] = dist[X]+1

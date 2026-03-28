@@ -81,42 +81,6 @@ STARTING TURN: 25
 [proboj] 
 STARTING TURN: 26
 
-[proboj] 
-STARTING TURN: 27
-
-[proboj] 
-STARTING TURN: 28
-
-[proboj] 
-STARTING TURN: 29
-
-[proboj] 
-STARTING TURN: 30
-
-[proboj] 
-STARTING TURN: 31
-
-[proboj] 
-STARTING TURN: 32
-
-[proboj] 
-STARTING TURN: 33
-
-[proboj] 
-STARTING TURN: 34
-
-[proboj] 
-STARTING TURN: 35
-
-[proboj] 
-STARTING TURN: 36
-
-[proboj] 
-STARTING TURN: 37
-
-[proboj] 
-STARTING TURN: 38
-
 [proboj] process terminated
  exit: -1
  err: <nil>
