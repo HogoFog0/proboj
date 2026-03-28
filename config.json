@@ -3,7 +3,7 @@
   "game_root": ".",
   "players": {
     "py": {
-      "command": "./players/python/player.py",
+      "command": "/usr/bin/python3 ../players/python/player.py",
       "language": "py"
     },
     "windows": {

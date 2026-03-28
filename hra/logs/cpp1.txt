@@ -1,0 +1,47 @@
+[proboj] 
+This appears in the log file
+[proboj] 
+STARTING TURN: 0
+
+[proboj] 
+STARTING TURN: 1
+
+[proboj] 
+STARTING TURN: 2
+
+[proboj] 
+STARTING TURN: 3
+
+[proboj] 
+STARTING TURN: 4
+
+[proboj] 
+STARTING TURN: 5
+
+[proboj] 
+STARTING TURN: 6
+
+[proboj] 
+STARTING TURN: 7
+
+[proboj] 
+STARTING TURN: 8
+
+[proboj] 
+STARTING TURN: 9
+
+[proboj] 
+STARTING TURN: 10
+
+[proboj] 
+STARTING TURN: 11
+
+[proboj] 
+STARTING TURN: 12
+
+[proboj] 
+STARTING TURN: 13
+
+[proboj] process terminated
+ exit: -1
+ err: <nil>
