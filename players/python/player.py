@@ -29,9 +29,9 @@ class Player(PlayerInterface):
     def get_turn(self, world: World) -> List[Move]:
         self.world = world
 
-        CalcMyShades(self)
-
+        self.ememy_stones = [i for i in world.alive_tombstones if i.owner != self.world.my_id]
         self.my_stones = [i for i in world.alive_tombstones if i.owner == self.world.my_id]
+        self.my_shades = [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].id == world.my_id]
 
         self.moves = []
         self.collisions = set()
