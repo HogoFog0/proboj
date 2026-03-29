@@ -11,6 +11,14 @@ def A_to_B(self, A, B):
     parent = {}
     dist[A] = 0
     
+    shade_positions = self.pointshades
+
+    friends = 0
+    for dx in [-1,0,1]:
+        for dy in [-1.0,1]:
+            if(A+Point(dx,dy) in shade_positions and shade_positions[A+Point(dx,dy)].owner == self.world.my_id):
+                friends+=1
+    self.log(friends)
     while len(q):
         X = q.popleft()
         neighbours = X.get_neighbouring()
@@ -26,7 +34,7 @@ def A_to_B(self, A, B):
             elif (world.map.can_move_to(self,ngb) 
                   and ngb not in dist 
                   and not (ngb in self.collisions and dist[X] == 0)
-                  and not(ngb.will_i_die_at(self.pointshades, self) and dist[X]<3)):
+                  and not(ngb.will_i_die_at(self.pointshades, self,friends) and dist[X]<3)):
                 dist[ngb] = dist[X]+1
                 q.append(ngb)
                 parent[ngb] = X
