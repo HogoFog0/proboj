@@ -4,11 +4,31 @@ import math
 from dataclasses import dataclass, field
 from typing import Dict, FrozenSet, Set, List
 from constants import SHADE_BATTLE_RADIUS2
+from functools import wraps
 
 ShadeID = int
 PlayerID = int
 TombstoneID = int
 PersonID = int
+
+def cache_on_first_arg(func):
+    cache = {}  # separate cache per function
+
+    @wraps(func)
+    def wrapper(*args, **kwargs):
+        if not args:
+            while True:
+                pass
+            raise ValueError("Function must have at least one positional argument")
+
+        key = args[0]
+
+        if key not in cache:
+            cache[key] = func(*args, **kwargs)
+
+        return cache[key]
+
+    return wrapper
 
 # Porovnavanie funguje ako porovnavanie tuplov (x, y)
 @dataclass(frozen=True, order=True)
@@ -49,23 +69,25 @@ class Point:
                     view.append(p)
         return view
     
-    def get_fear_at(self, shade_positions: Dict[Point, Shade], id) -> int:
+    @cache_on_first_arg
+    def get_my_fear_at(self, other, shade_positions: Dict[Point, Shade]) -> int:
         """
         Vrati pocet dusi z nepriatelskych timov vo vyhlade tejto duse.
         """
         fear = 0
         for pos in self.get_visible():
-            if pos in shade_positions and shade_positions[pos].owner != id:
+            if pos in shade_positions and shade_positions[pos].owner != other.world.my_id:
                 fear += 1
         return fear
 
-    def get_enemy_fears_at(self, shade_positions: Dict[Point, Shade], id) -> Dict[Shade, int]:
+    @cache_on_first_arg
+    def get_my_enemy_fears_at(self, other, shade_positions: Dict[Point, Shade]) -> Dict[Shade, int]:
         """
         Vrati slovnik so strachmi dusi z nepriatelskych timov v dohlade tejto duse.
         """
         fears = {}
         for pos in self.get_visible():
-            if pos in shade_positions and shade_positions[pos].owner != id:
+            if pos in shade_positions and shade_positions[pos].owner != other.world.my_id:
                 fears[shade_positions[pos]] = shade_positions[pos].get_fear(shade_positions)
         return fears
 
@@ -98,6 +120,7 @@ class Shade:
     owner: PlayerID
     id: ShadeID
 
+    @cache_on_first_arg
     def get_fear(self, shade_positions: Dict[Point, Shade]) -> int:
         """
         Vrati pocet dusi z nepriatelskych timov vo vyhlade tejto duse.
@@ -108,6 +131,7 @@ class Shade:
                 fear += 1
         return fear
 
+    @cache_on_first_arg
     def get_enemy_fears(self, shade_positions: Dict[Point, Shade]) -> Dict[Shade, int]:
         """
         Vrati slovnik so strachmi dusi z nepriatelskych timov v dohlade tejto duse.
@@ -117,7 +141,8 @@ class Shade:
             if pos in shade_positions and shade_positions[pos].owner != self.owner:
                 fears[shade_positions[pos]] = shade_positions[pos].get_fear(shade_positions)
         return fears
-
+    
+    @cache_on_first_arg    
     def will_i_die(self, shade_positions: Dict[Point, Shade]) -> bool:
         """
         True, ak sa dusa nedozije dalsieho kola, inac False.

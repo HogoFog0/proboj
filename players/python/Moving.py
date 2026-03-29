@@ -22,6 +22,7 @@ def A_to_B(self, A, B):
                     ngb = parent[ngb]
                 return ngb
             
+
             elif (world.map.can_move_to(self,ngb) 
                   and ngb not in dist 
                   and not (ngb in self.collisions and dist[X] == 0)):

@@ -39,6 +39,10 @@ class Player(PlayerInterface):
         self.blocked.add(i for i in self.my_stones)
         self.job = dict()
 
+        for i in range(5000):
+            for i in world.alive_shades:
+                world.alive_shades[i].will_i_die(world.alive_shades)
+
         # self.log(self.my_shades)
         assignpeople(self)
         assigntombs(self)
