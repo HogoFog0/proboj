@@ -125,10 +125,12 @@ class Point:
         my_fear = self.get_fear_at(shade_positions, other)
         
 
-        if(friends > 3):        
-            return mn_enemy_fear + 10 <= my_fear
-        if(friends == 2):
-            return mn_enemy_fear + 3 <= my_fear
+        if(friends > 3):
+            return mn_enemy_fear + 8 <= my_fear
+        if(friends == 3):        
+            return mn_enemy_fear + 4 <= my_fear
+        elif(friends == 2):
+            return mn_enemy_fear + 2 <= my_fear
         else:
             return mn_enemy_fear <= my_fear
         

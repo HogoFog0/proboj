@@ -15,7 +15,7 @@ def A_to_B(self, A, B):
 
     friends = 0
     for dx in [-1,0,1]:
-        for dy in [-1.0,1]:
+        for dy in [-1,0,1]:
             if(A+Point(dx,dy) in shade_positions and shade_positions[A+Point(dx,dy)].owner == self.world.my_id):
                 friends+=1
     self.log(friends)
