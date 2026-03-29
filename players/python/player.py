@@ -7,6 +7,7 @@ from random import shuffle
 from Moving import *
 from assign import *
 from utils import *
+from collections import defaultdict
 
 def GoTo(self, shade : Shade, end : Point):
     move = A_to_B(self,shade.position,end)
@@ -26,12 +27,20 @@ class Player(PlayerInterface):
 
     def init(self, world: World) -> None:
         Player.log("init")
+        self.turn = 0
+        self.calced = 0
+        self.dists = defaultdict(dict)
+        self.calceddict = dict()
         pass
 
     def get_turn(self, world: World) -> List[Move]:
         self.world = world
+        self.turn += 1
+
+
 
         self.log(self.world.my_id)
+
 
         self.ememy_stones = [i for i in world.alive_tombstones if i.owner != self.world.my_id]
         self.my_stones = [i for i in world.alive_tombstones if i.owner == self.world.my_id]
@@ -51,11 +60,12 @@ class Player(PlayerInterface):
         self.closestenemy = dict()
 
         ClearCaches(self)
+        self.calclimit = 10
 
         # self.log(self.my_shades)
         assignpeople(self)
         assigntombs(self)
-        self.log(self.job)
+        # self.log(self.job)
         for i in self.my_shades:
             if(i not in self.job):
                 self.collisions.add(i.position)

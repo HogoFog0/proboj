@@ -124,7 +124,20 @@ class Point:
     def will_i_die_at(self, shade_positions: Dict[Point, Shade], other) -> bool:
         enemy_fears = self.get_enemy_fears_at(shade_positions, other)
         mn_enemy_fear = min(enemy_fears.values()) if enemy_fears else math.inf
-        return mn_enemy_fear <= self.get_fear_at(shade_positions, other)
+        my_fear = self.get_fear_at(shade_positions, other)
+        friends = 0
+        for dx in [-1,0,1]:
+            for dy in [-1.0,1]:
+                if(self+Point(dx,dy) in shade_positions and shade_positions[self+Point(dx,dy)].owner == other.world.my_id):
+                    friends+=1
+
+        if(friends > 3):        
+            return mn_enemy_fear + 2 <= my_fear
+        if(friends == 2):
+            return mn_enemy_fear + 1 <= my_fear
+        else:
+            return mn_enemy_fear <= my_fear
+        
 
 
 @dataclass(frozen=True)
