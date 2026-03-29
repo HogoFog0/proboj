@@ -14,7 +14,6 @@ STARTING TURN: 3
 
 [proboj] 
 STARTING TURN: 4
-No path found
 
 [proboj] 
 STARTING TURN: 5
@@ -27,16 +26,18 @@ STARTING TURN: 7
 
 [proboj] 
 STARTING TURN: 8
+No path found
+No path found
 
 [proboj] 
 STARTING TURN: 9
+No path found
 
 [proboj] 
 STARTING TURN: 10
 
 [proboj] 
 STARTING TURN: 11
-No path found
 
 [proboj] 
 STARTING TURN: 12
@@ -124,7 +125,6 @@ STARTING TURN: 39
 
 [proboj] 
 STARTING TURN: 40
-No path found
 
 [proboj] 
 STARTING TURN: 41
@@ -155,11 +155,9 @@ STARTING TURN: 49
 
 [proboj] 
 STARTING TURN: 50
-No path found
 
 [proboj] 
 STARTING TURN: 51
-No path found
 
 [proboj] 
 STARTING TURN: 52
@@ -172,7 +170,6 @@ STARTING TURN: 54
 
 [proboj] 
 STARTING TURN: 55
-No path found
 
 [proboj] 
 STARTING TURN: 56
@@ -182,7 +179,6 @@ STARTING TURN: 57
 
 [proboj] 
 STARTING TURN: 58
-No path found
 
 [proboj] 
 STARTING TURN: 59
@@ -192,7 +188,6 @@ STARTING TURN: 60
 
 [proboj] 
 STARTING TURN: 61
-No path found
 
 [proboj] 
 STARTING TURN: 62
@@ -205,11 +200,9 @@ STARTING TURN: 64
 
 [proboj] 
 STARTING TURN: 65
-No path found
 
 [proboj] 
 STARTING TURN: 66
-No path found
 
 [proboj] 
 STARTING TURN: 67
@@ -222,7 +215,6 @@ STARTING TURN: 69
 
 [proboj] 
 STARTING TURN: 70
-No path found
 
 [proboj] 
 STARTING TURN: 71
@@ -253,19 +245,15 @@ STARTING TURN: 79
 
 [proboj] 
 STARTING TURN: 80
-No path found
 
 [proboj] 
 STARTING TURN: 81
 
 [proboj] 
 STARTING TURN: 82
-No path found
 
 [proboj] 
 STARTING TURN: 83
-No path found
-No path found
 
 [proboj] 
 STARTING TURN: 84
@@ -275,7 +263,6 @@ STARTING TURN: 85
 
 [proboj] 
 STARTING TURN: 86
-No path found
 
 [proboj] 
 STARTING TURN: 87
@@ -303,7 +290,6 @@ STARTING TURN: 94
 
 [proboj] 
 STARTING TURN: 95
-No path found
 
 [proboj] 
 STARTING TURN: 96
@@ -313,7 +299,6 @@ STARTING TURN: 97
 
 [proboj] 
 STARTING TURN: 98
-No path found
 
 [proboj] 
 STARTING TURN: 99
@@ -323,24 +308,114 @@ STARTING TURN: 100
 
 [proboj] 
 STARTING TURN: 101
-No path found
 
 [proboj] 
 STARTING TURN: 102
 
 [proboj] 
 STARTING TURN: 103
-No path found
 
 [proboj] 
 STARTING TURN: 104
-No path found
-No path found
 
 [proboj] 
 STARTING TURN: 105
-No path found
-No path found
+
+[proboj] 
+STARTING TURN: 106
+
+[proboj] 
+STARTING TURN: 107
+
+[proboj] 
+STARTING TURN: 108
+
+[proboj] 
+STARTING TURN: 109
+
+[proboj] 
+STARTING TURN: 110
+
+[proboj] 
+STARTING TURN: 111
+
+[proboj] 
+STARTING TURN: 112
+
+[proboj] 
+STARTING TURN: 113
+
+[proboj] 
+STARTING TURN: 114
+
+[proboj] 
+STARTING TURN: 115
+
+[proboj] 
+STARTING TURN: 116
+
+[proboj] 
+STARTING TURN: 117
+
+[proboj] 
+STARTING TURN: 118
+
+[proboj] 
+STARTING TURN: 119
+
+[proboj] 
+STARTING TURN: 120
+
+[proboj] 
+STARTING TURN: 121
+
+[proboj] 
+STARTING TURN: 122
+
+[proboj] 
+STARTING TURN: 123
+
+[proboj] 
+STARTING TURN: 124
+
+[proboj] 
+STARTING TURN: 125
+
+[proboj] 
+STARTING TURN: 126
+
+[proboj] 
+STARTING TURN: 127
+
+[proboj] 
+STARTING TURN: 128
+
+[proboj] 
+STARTING TURN: 129
+
+[proboj] 
+STARTING TURN: 130
+
+[proboj] 
+STARTING TURN: 131
+
+[proboj] 
+STARTING TURN: 132
+
+[proboj] 
+STARTING TURN: 133
+
+[proboj] 
+STARTING TURN: 134
+
+[proboj] 
+STARTING TURN: 135
+
+[proboj] 
+STARTING TURN: 136
+
+[proboj] 
+STARTING TURN: 137
 
 [proboj] process terminated
  exit: -1

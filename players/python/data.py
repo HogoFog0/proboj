@@ -51,7 +51,7 @@ class Point:
     
     def get_fear_at(self, shade_positions: Dict[Point, Shade], id) -> int:
         """
-        Vrati pocet dusi z nepriatelskych timov vo vyhlade tejto duse.
+        Vrati pocet dusi z nepriatelskych timov vo vyhlade tejto bodu.
         """
         fear = 0
         for pos in self.get_visible():
@@ -61,7 +61,7 @@ class Point:
 
     def get_enemy_fears_at(self, shade_positions: Dict[Point, Shade], id) -> Dict[Shade, int]:
         """
-        Vrati slovnik so strachmi dusi z nepriatelskych timov v dohlade tejto duse.
+        Vrati slovnik so strachmi dusi z nepriatelskych timov v dohlade tejto bodu.
         """
         fears = {}
         for pos in self.get_visible():
