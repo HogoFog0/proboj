@@ -40,6 +40,10 @@ class Player(PlayerInterface):
         self.job = dict()
         self.closestenemy = dict()
 
+        for i in range(5000):
+            for i in world.alive_shades:
+                world.alive_shades[i].will_i_die(world.alive_shades)
+
         # self.log(self.my_shades)
         assignpeople(self)
         assigntombs(self)
@@ -47,15 +51,13 @@ class Player(PlayerInterface):
             if(i not in self.job):
                 self.collisions.add(i.position)
                 self.log(i)
-                
+
         for i in self.job:
             GoTo(self, i,self.job[i].position)
 
         #---Fear Counter---
-        fear_map = {}
-        for y in range(world.map.height):
-            for x in range(world.map.width):
-                fear_map[Point(x, y)] = Point(x, y).get_fear_at()
+        # CalcFearMap(self)
+        # CalcMaxEnemyFearMap(self)
 
         return self.moves
 
