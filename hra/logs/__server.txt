@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 Max food count is: 7
+=======
+<<<<<<< HEAD
+Max food count is: 5
+=======
+Max food count is: 3
+>>>>>>> 49c6a175d210642e6e34af67b07a12c419338cc8
+>>>>>>> 72cf85d737bd05dadd9a20ca66e510a605124499
 STARTING TURN: 0
 Can not move ant 2: ant does not belong to vrcholnik
 Can not move ant 3: ant does not belong to py
@@ -411,8 +419,21 @@ STARTING TURN: 136
 Can not move ant 2: ant does not belong to vrcholnik
 Can not move ant 3: ant does not belong to py
 STARTING TURN: 137
+<<<<<<< HEAD
 Can not move ant 2: ant does not belong to vrcholnik
 Can not move ant 3: ant does not belong to py
+=======
+<<<<<<< HEAD
+Can not move ant 2: ant does not belong to vrcholnik
+Can not move ant 3: ant does not belong to py
+=======
+<<<<<<< HEAD
+Player vrcholnik has not enough resources to continue playing
+Player vrcholnik has been killed
+=======
+>>>>>>> 4255595a13a3c466003be31a4a3b268b0b1c0bfd
+>>>>>>> 49c6a175d210642e6e34af67b07a12c419338cc8
+>>>>>>> 72cf85d737bd05dadd9a20ca66e510a605124499
 STARTING TURN: 138
 Can not move ant 2: ant does not belong to vrcholnik
 Can not move ant 3: ant does not belong to py
@@ -429,8 +450,21 @@ STARTING TURN: 142
 Can not move ant 2: ant does not belong to vrcholnik
 Can not move ant 3: ant does not belong to py
 STARTING TURN: 143
+<<<<<<< HEAD
 Can not move ant 2: ant does not belong to vrcholnik
 Can not move ant 3: ant does not belong to py
+=======
+<<<<<<< HEAD
+Can not move ant 2: ant does not belong to vrcholnik
+Can not move ant 3: ant does not belong to py
+=======
+<<<<<<< HEAD
+Player py has not enough resources to continue playing
+Player py has been killed
+Game end: Last player alive
+=======
+>>>>>>> 49c6a175d210642e6e34af67b07a12c419338cc8
+>>>>>>> 72cf85d737bd05dadd9a20ca66e510a605124499
 STARTING TURN: 144
 Can not move ant 2: ant does not belong to vrcholnik
 Can not move ant 3: ant does not belong to py
@@ -531,8 +565,13 @@ STARTING TURN: 176
 Can not move ant 2: ant does not belong to vrcholnik
 Can not move ant 3: ant does not belong to py
 STARTING TURN: 177
+<<<<<<< HEAD
 Can not move ant 2: ant does not belong to vrcholnik
 Can not move ant 3: ant does not belong to py
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 72cf85d737bd05dadd9a20ca66e510a605124499
 STARTING TURN: 178
 Can not move ant 2: ant does not belong to vrcholnik
 Can not move ant 3: ant does not belong to py
@@ -901,6 +940,7 @@ Can not move ant 2: ant does not belong to vrcholnik
 Can not move ant 3: ant does not belong to py
 Game end: Max turn count reached
 Sending scores
+>>>>>>> 49c6a175d210642e6e34af67b07a12c419338cc8
 [proboj] process terminated
  exit: -1
  err: <nil>
