@@ -4,6 +4,7 @@ import math
 from dataclasses import dataclass, field
 from typing import Dict, FrozenSet, Set, List
 from constants import SHADE_BATTLE_RADIUS2
+from functools import cache
 
 ShadeID = int
 PlayerID = int
@@ -49,6 +50,7 @@ class Point:
                     view.append(p)
         return view
     
+    @cache
     def get_fear_at(self, shade_positions: Dict[Point, Shade], id) -> int:
         """
         Vrati pocet dusi z nepriatelskych timov vo vyhlade tejto bodu.
@@ -59,16 +61,17 @@ class Point:
                 fear += 1
         return fear
 
-    def get_enemy_fears_at(self, shade_positions: Dict[Point, Shade], id) -> Dict[Shade, int]:
+    @cache
+    def get_enemy_fears_at(self, shade_positions: Dict[Point, Shade], other) -> Dict[Shade, int]:
         """
         Vrati slovnik so strachmi dusi z nepriatelskych timov v dohlade tejto bodu.
         """
         fears = {}
         for pos in self.get_visible():
-            if pos in shade_positions and shade_positions[pos].owner != id:
+            if pos in shade_positions and shade_positions[pos].owner != other.world_my_id:
                 fears[shade_positions[pos]] = shade_positions[pos].get_fear(shade_positions)
         return fears
-
+        
 @dataclass(frozen=True)
 class Move:
     id: ShadeID
@@ -91,6 +94,7 @@ class Map:
     def can_move_to(self, other, p : Point) -> bool:
         return p not in other.blocked and self.is_inside(p) and p not in self.water_tiles
     
+    
 
 @dataclass(frozen=True)
 class Shade:
@@ -98,6 +102,7 @@ class Shade:
     owner: PlayerID
     id: ShadeID
 
+    @cache
     def get_fear(self, shade_positions: Dict[Point, Shade]) -> int:
         """
         Vrati pocet dusi z nepriatelskych timov vo vyhlade tejto duse.
@@ -106,12 +111,15 @@ class Shade:
         for pos in self.position.get_visible():
             if pos in shade_positions and shade_positions[pos].owner != self.owner:
                 fear += 1
-        return fear
 
+        return fear
+         
+    @cache
     def get_enemy_fears(self, shade_positions: Dict[Point, Shade]) -> Dict[Shade, int]:
         """
         Vrati slovnik so strachmi dusi z nepriatelskych timov v dohlade tejto duse.
         """
+        
         fears = {}
         for pos in self.position.get_visible():
             if pos in shade_positions and shade_positions[pos].owner != self.owner:
@@ -125,6 +133,11 @@ class Shade:
         enemy_fears = self.get_enemy_fears(shade_positions)
         mn_enemy_fear = min(enemy_fears.values()) if enemy_fears else math.inf
         return mn_enemy_fear <= self.get_fear(shade_positions)
+    
+    def will_i_die_at(self, point: Point, shade_positions: Dict[Point, Shade]) -> bool:
+        enemy_fears = point.get_enemy_fears_at(shade_positions, self.owner)
+        mn_enemy_fear = min(enemy_fears.values()) if enemy_fears else math.inf
+        return True if mn_enemy_fear <= point.get_fear_at(shade_positions, self.owner) else False
 
 @dataclass(frozen=True)
 class Tombstone:

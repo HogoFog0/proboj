@@ -26,27 +26,21 @@ STARTING TURN: 7
 
 [proboj] 
 STARTING TURN: 8
-No path found
 
 [proboj] 
 STARTING TURN: 9
-No path found
 
 [proboj] 
 STARTING TURN: 10
-No path found
 
 [proboj] 
 STARTING TURN: 11
-No path found
 
 [proboj] 
 STARTING TURN: 12
-No path found
 
 [proboj] 
 STARTING TURN: 13
-No path found
 
 [proboj] 
 STARTING TURN: 14
@@ -116,11 +110,9 @@ STARTING TURN: 35
 
 [proboj] 
 STARTING TURN: 36
-No path found
 
 [proboj] 
 STARTING TURN: 37
-No path found
 
 [proboj] 
 STARTING TURN: 38
@@ -148,7 +140,6 @@ STARTING TURN: 45
 
 [proboj] 
 STARTING TURN: 46
-No path found
 
 [proboj] 
 STARTING TURN: 47
@@ -209,7 +200,6 @@ STARTING TURN: 65
 
 [proboj] 
 STARTING TURN: 66
-No path found
 
 [proboj] 
 STARTING TURN: 67
@@ -378,10 +368,6 @@ STARTING TURN: 121
 
 [proboj] 
 STARTING TURN: 122
-<<<<<<< HEAD
-=======
-No path found
->>>>>>> 4255595a13a3c466003be31a4a3b268b0b1c0bfd
 
 [proboj] 
 STARTING TURN: 123
@@ -433,35 +419,6 @@ STARTING TURN: 138
 
 [proboj] 
 STARTING TURN: 139
-<<<<<<< HEAD
-Shade(position=Point(x=36, y=45), owner=1, id=44)
-Shade(position=Point(x=25, y=27), owner=1, id=49)
-Shade(position=Point(x=18, y=3), owner=1, id=51)
-
-[proboj] 
-STARTING TURN: 140
-Shade(position=Point(x=36, y=45), owner=1, id=44)
-Shade(position=Point(x=25, y=27), owner=1, id=49)
-Shade(position=Point(x=18, y=3), owner=1, id=51)
-
-[proboj] 
-STARTING TURN: 141
-Shade(position=Point(x=36, y=45), owner=1, id=44)
-Shade(position=Point(x=25, y=27), owner=1, id=49)
-Shade(position=Point(x=18, y=3), owner=1, id=51)
-
-[proboj] 
-STARTING TURN: 142
-Shade(position=Point(x=36, y=45), owner=1, id=44)
-Shade(position=Point(x=25, y=27), owner=1, id=49)
-Shade(position=Point(x=18, y=3), owner=1, id=51)
-
-[proboj] 
-STARTING TURN: 143
-Shade(position=Point(x=36, y=45), owner=1, id=44)
-Shade(position=Point(x=25, y=27), owner=1, id=49)
-Shade(position=Point(x=18, y=3), owner=1, id=51)
-=======
 
 [proboj] 
 STARTING TURN: 140
@@ -807,7 +764,141 @@ STARTING TURN: 253
 
 [proboj] 
 STARTING TURN: 254
->>>>>>> 4255595a13a3c466003be31a4a3b268b0b1c0bfd
+
+[proboj] 
+STARTING TURN: 255
+
+[proboj] 
+STARTING TURN: 256
+
+[proboj] 
+STARTING TURN: 257
+
+[proboj] 
+STARTING TURN: 258
+
+[proboj] 
+STARTING TURN: 259
+
+[proboj] 
+STARTING TURN: 260
+
+[proboj] 
+STARTING TURN: 261
+
+[proboj] 
+STARTING TURN: 262
+
+[proboj] 
+STARTING TURN: 263
+
+[proboj] 
+STARTING TURN: 264
+
+[proboj] 
+STARTING TURN: 265
+
+[proboj] 
+STARTING TURN: 266
+
+[proboj] 
+STARTING TURN: 267
+
+[proboj] 
+STARTING TURN: 268
+
+[proboj] 
+STARTING TURN: 269
+
+[proboj] 
+STARTING TURN: 270
+
+[proboj] 
+STARTING TURN: 271
+
+[proboj] 
+STARTING TURN: 272
+
+[proboj] 
+STARTING TURN: 273
+
+[proboj] 
+STARTING TURN: 274
+
+[proboj] 
+STARTING TURN: 275
+
+[proboj] 
+STARTING TURN: 276
+
+[proboj] 
+STARTING TURN: 277
+
+[proboj] 
+STARTING TURN: 278
+
+[proboj] 
+STARTING TURN: 279
+
+[proboj] 
+STARTING TURN: 280
+
+[proboj] 
+STARTING TURN: 281
+
+[proboj] 
+STARTING TURN: 282
+
+[proboj] 
+STARTING TURN: 283
+
+[proboj] 
+STARTING TURN: 284
+
+[proboj] 
+STARTING TURN: 285
+
+[proboj] 
+STARTING TURN: 286
+
+[proboj] 
+STARTING TURN: 287
+
+[proboj] 
+STARTING TURN: 288
+
+[proboj] 
+STARTING TURN: 289
+
+[proboj] 
+STARTING TURN: 290
+
+[proboj] 
+STARTING TURN: 291
+
+[proboj] 
+STARTING TURN: 292
+
+[proboj] 
+STARTING TURN: 293
+
+[proboj] 
+STARTING TURN: 294
+
+[proboj] 
+STARTING TURN: 295
+
+[proboj] 
+STARTING TURN: 296
+
+[proboj] 
+STARTING TURN: 297
+
+[proboj] 
+STARTING TURN: 298
+
+[proboj] 
+STARTING TURN: 299
 
 [proboj] process terminated
  exit: -1

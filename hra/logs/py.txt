@@ -26,33 +26,18 @@ STARTING TURN: 7
 
 [proboj] 
 STARTING TURN: 8
-No path found
-No path found
-No path found
 
 [proboj] 
 STARTING TURN: 9
-No path found
-No path found
-No path found
 
 [proboj] 
 STARTING TURN: 10
-No path found
-No path found
-No path found
 
 [proboj] 
 STARTING TURN: 11
-<<<<<<< HEAD
-No path found
-No path found
-=======
->>>>>>> 4255595a13a3c466003be31a4a3b268b0b1c0bfd
 
 [proboj] 
 STARTING TURN: 12
-No path found
 
 [proboj] 
 STARTING TURN: 13
@@ -447,8 +432,6 @@ STARTING TURN: 142
 [proboj] 
 STARTING TURN: 143
 
-<<<<<<< HEAD
-=======
 [proboj] 
 STARTING TURN: 144
 
@@ -592,7 +575,6 @@ STARTING TURN: 190
 
 [proboj] 
 STARTING TURN: 191
-No path found
 
 [proboj] 
 STARTING TURN: 192
@@ -710,7 +692,6 @@ STARTING TURN: 229
 
 [proboj] 
 STARTING TURN: 230
-No path found
 
 [proboj] 
 STARTING TURN: 231
@@ -735,7 +716,6 @@ STARTING TURN: 237
 
 [proboj] 
 STARTING TURN: 238
-No path found
 
 [proboj] 
 STARTING TURN: 239
@@ -814,7 +794,6 @@ STARTING TURN: 263
 
 [proboj] 
 STARTING TURN: 264
-No path found
 
 [proboj] 
 STARTING TURN: 265
@@ -921,7 +900,6 @@ STARTING TURN: 298
 [proboj] 
 STARTING TURN: 299
 
->>>>>>> 4255595a13a3c466003be31a4a3b268b0b1c0bfd
 [proboj] process terminated
  exit: -1
  err: <nil>
