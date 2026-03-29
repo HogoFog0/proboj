@@ -115,7 +115,7 @@ class Point:
         Vrati slovnik so strachmi dusi z nepriatelskych timov v dohlade tejto bodu.
         """
         fears = {}
-        for pos in self.get_visibleplus():
+        for pos in self.get_visible():
             if pos in shade_positions and shade_positions[pos].owner != other.world.my_id:
                 fears[shade_positions[pos]] = shade_positions[pos].get_fear(shade_positions)
         return fears

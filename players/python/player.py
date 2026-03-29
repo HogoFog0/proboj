@@ -13,7 +13,7 @@ def GoTo(self, shade : Shade, end : Point):
     # self.log(move,shade.position,end)
     if(move is not None):
         self.moves.append(Move(shade.id, move))
-        self.log(move,move.will_i_die_at(self.pointshades,self))
+        # self.log(move,move.will_i_die_at(self.pointshades,self))
         self.collisions.add(move)
     else:
         self.collisions.add(shade.position)
