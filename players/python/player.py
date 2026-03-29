@@ -44,7 +44,7 @@ class Player(PlayerInterface):
         self.log(self.world.my_id)
 
         start = time.time()
-        self.ememy_stones = [i for i in world.alive_tombstones if i.owner != self.world.my_id]
+        self.enemy_stones = [i for i in world.alive_tombstones if i.owner != self.world.my_id]
         self.my_stones = [i for i in world.alive_tombstones if i.owner == self.world.my_id]
         self.my_shades = [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].owner == world.my_id]
         self.enemy_shades = [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].owner != world.my_id]
@@ -68,7 +68,9 @@ class Player(PlayerInterface):
         assignpeople(self)
         assigndefence(self)
         assigntombs(self)
+        assignenemy(self)
         if(not len(self.enemy_stones)):
+            assignenemy(self)
             try:
                 assignenemy(self)
             except:

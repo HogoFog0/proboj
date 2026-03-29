@@ -106,8 +106,8 @@ def assignenemy(self):
         i : Shade
         if(i not in self.job):
             cur = [None,float('inf')]
-            for j in world.alive_shades:
-                j : Shade
+            for z in world.alive_shades:
+                j : Shade = world.alive_shades[z]
                 if(j.owner == self.world.my_id): continue
                 val = j.position.manhattan_dist(i.position)
                 if(val < cur[1]):
