@@ -26,9 +26,12 @@ STARTING TURN: 7
 
 [proboj] 
 STARTING TURN: 8
+No path found
+No path found
 
 [proboj] 
 STARTING TURN: 9
+No path found
 
 [proboj] 
 STARTING TURN: 10
@@ -314,6 +317,7 @@ STARTING TURN: 103
 
 [proboj] 
 STARTING TURN: 104
+<<<<<<< HEAD
 
 [proboj] 
 STARTING TURN: 105
@@ -400,6 +404,94 @@ STARTING TURN: 131
 STARTING TURN: 132
 
 [proboj] 
+=======
+
+[proboj] 
+STARTING TURN: 105
+
+[proboj] 
+STARTING TURN: 106
+
+[proboj] 
+STARTING TURN: 107
+
+[proboj] 
+STARTING TURN: 108
+
+[proboj] 
+STARTING TURN: 109
+
+[proboj] 
+STARTING TURN: 110
+
+[proboj] 
+STARTING TURN: 111
+
+[proboj] 
+STARTING TURN: 112
+
+[proboj] 
+STARTING TURN: 113
+
+[proboj] 
+STARTING TURN: 114
+
+[proboj] 
+STARTING TURN: 115
+
+[proboj] 
+STARTING TURN: 116
+
+[proboj] 
+STARTING TURN: 117
+
+[proboj] 
+STARTING TURN: 118
+
+[proboj] 
+STARTING TURN: 119
+
+[proboj] 
+STARTING TURN: 120
+
+[proboj] 
+STARTING TURN: 121
+
+[proboj] 
+STARTING TURN: 122
+
+[proboj] 
+STARTING TURN: 123
+
+[proboj] 
+STARTING TURN: 124
+
+[proboj] 
+STARTING TURN: 125
+
+[proboj] 
+STARTING TURN: 126
+
+[proboj] 
+STARTING TURN: 127
+
+[proboj] 
+STARTING TURN: 128
+
+[proboj] 
+STARTING TURN: 129
+
+[proboj] 
+STARTING TURN: 130
+
+[proboj] 
+STARTING TURN: 131
+
+[proboj] 
+STARTING TURN: 132
+
+[proboj] 
+>>>>>>> 4255595a13a3c466003be31a4a3b268b0b1c0bfd
 STARTING TURN: 133
 
 [proboj] 
@@ -413,6 +505,8 @@ STARTING TURN: 136
 
 [proboj] 
 STARTING TURN: 137
+<<<<<<< HEAD
+=======
 
 [proboj] 
 STARTING TURN: 138
@@ -425,6 +519,11 @@ STARTING TURN: 140
 
 [proboj] 
 STARTING TURN: 141
+<<<<<<< HEAD
+=======
+No path found
+>>>>>>> 4255595a13a3c466003be31a4a3b268b0b1c0bfd
+>>>>>>> 49c6a175d210642e6e34af67b07a12c419338cc8
 
 [proboj] 
 STARTING TURN: 142

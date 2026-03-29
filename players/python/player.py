@@ -50,8 +50,15 @@ class Player(PlayerInterface):
             if(i not in self.job):
                 self.collisions.add(i.position)
                 self.log(i)
+                
         for i in self.job:
             GoTo(self, i,self.job[i].position)
+
+        #---Fear Counter---
+        fear_map = {}
+        for y in range(world.map.height):
+            for x in range(world.map.width):
+                fear_map[Point(x, y)] = Point(x, y).get_fear_at()
 
         return self.moves
 
