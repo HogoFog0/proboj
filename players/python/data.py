@@ -4,7 +4,24 @@ import math
 from dataclasses import dataclass, field
 from typing import Dict, FrozenSet, Set, List
 from constants import SHADE_BATTLE_RADIUS2
-from functools import cache
+from functools import wraps
+
+def cache_on_first_arg(func):
+    cache = {}  # separate cache per function
+
+    @wraps(func)
+    def wrapper(*args, **kwargs):
+        if not args:
+            raise ValueError("Function must have at least one positional argument")
+
+        key = args[0]
+
+        if key not in cache:
+            cache[key] = func(*args, **kwargs)
+
+        return cache[key]
+
+    return wrapper
 
 ShadeID = int
 PlayerID = int
@@ -50,7 +67,7 @@ class Point:
                     view.append(p)
         return view
     
-    @cache
+    @cache_on_first_arg
     def get_fear_at(self, shade_positions: Dict[Point, Shade], id) -> int:
         """
         Vrati pocet dusi z nepriatelskych timov vo vyhlade tejto bodu.
@@ -61,7 +78,7 @@ class Point:
                 fear += 1
         return fear
 
-    @cache
+    @cache_on_first_arg
     def get_enemy_fears_at(self, shade_positions: Dict[Point, Shade], other) -> Dict[Shade, int]:
         """
         Vrati slovnik so strachmi dusi z nepriatelskych timov v dohlade tejto bodu.
@@ -72,6 +89,13 @@ class Point:
                 fears[shade_positions[pos]] = shade_positions[pos].get_fear(shade_positions)
         return fears
         
+    @cache_on_first_arg
+    def will_i_die_at(self, shade_positions: Dict[Point, Shade]) -> bool:
+        enemy_fears = self.get_enemy_fears_at(shade_positions, self.owner)
+        mn_enemy_fear = min(enemy_fears.values()) if enemy_fears else math.inf
+        return True if mn_enemy_fear <= self.get_fear_at(shade_positions, self.owner) else False
+
+
 @dataclass(frozen=True)
 class Move:
     id: ShadeID
@@ -102,7 +126,7 @@ class Shade:
     owner: PlayerID
     id: ShadeID
 
-    @cache
+    @cache_on_first_arg
     def get_fear(self, shade_positions: Dict[Point, Shade]) -> int:
         """
         Vrati pocet dusi z nepriatelskych timov vo vyhlade tejto duse.
@@ -114,7 +138,7 @@ class Shade:
 
         return fear
          
-    @cache
+    @cache_on_first_arg
     def get_enemy_fears(self, shade_positions: Dict[Point, Shade]) -> Dict[Shade, int]:
         """
         Vrati slovnik so strachmi dusi z nepriatelskych timov v dohlade tejto duse.
@@ -126,6 +150,7 @@ class Shade:
                 fears[shade_positions[pos]] = shade_positions[pos].get_fear(shade_positions)
         return fears
 
+    @cache_on_first_arg
     def will_i_die(self, shade_positions: Dict[Point, Shade]) -> bool:
         """
         True, ak sa dusa nedozije dalsieho kola, inac False.
@@ -133,11 +158,6 @@ class Shade:
         enemy_fears = self.get_enemy_fears(shade_positions)
         mn_enemy_fear = min(enemy_fears.values()) if enemy_fears else math.inf
         return mn_enemy_fear <= self.get_fear(shade_positions)
-    
-    def will_i_die_at(self, point: Point, shade_positions: Dict[Point, Shade]) -> bool:
-        enemy_fears = point.get_enemy_fears_at(shade_positions, self.owner)
-        mn_enemy_fear = min(enemy_fears.values()) if enemy_fears else math.inf
-        return True if mn_enemy_fear <= point.get_fear_at(shade_positions, self.owner) else False
 
 @dataclass(frozen=True)
 class Tombstone:
