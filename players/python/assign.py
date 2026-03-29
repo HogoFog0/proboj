@@ -8,7 +8,7 @@ def eval(self,objective : Person | Tombstone, shade : Shade): #
     if self.closestenemak[objective] < objective.position.manhattan_dist(shade.position):
         res = 0
     else:
-        res = 100-objective.position.manhattan_dist(shade.position)
+        res = 10000-objective.position.manhattan_dist(shade.position)
     return res - random.random()
 
 def calcclosestenemy(self,objective : Person | Tombstone):
@@ -33,6 +33,7 @@ def assignpeople(self):
             for j in self.my_shades:
                 if j in self.job: continue
                 heappush(heaps[i],(-eval(self,i,j),j))
+                # self.log(eval(self,i,j) , i , j)
             heappush(bigheap,(heappop(heaps[i]),i))
 
         while(len(bigheap)):

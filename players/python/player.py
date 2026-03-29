@@ -10,6 +10,7 @@ from utils import *
 
 def GoTo(self, shade : Shade, end : Point):
     move = A_to_B(self,shade.position,end)
+    # self.log(move,shade.position,end)
     if(move is not None):
         self.moves.append(Move(shade.id, move))
         self.collisions.add(move)
@@ -29,10 +30,12 @@ class Player(PlayerInterface):
     def get_turn(self, world: World) -> List[Move]:
         self.world = world
 
+        # self.log(self.world.my_id)
+
         self.ememy_stones = [i for i in world.alive_tombstones if i.owner != self.world.my_id]
         self.my_stones = [i for i in world.alive_tombstones if i.owner == self.world.my_id]
-        self.my_shades = [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].id == world.my_id]
-        self.enemy_shades = [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].id != world.my_id]
+        self.my_shades = [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].owner == world.my_id]
+        self.enemy_shades = [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].owner != world.my_id]
 
         self.moves = []
         self.collisions = set()
@@ -41,13 +44,10 @@ class Player(PlayerInterface):
         self.job = dict()
         self.closestenemy = dict()
 
-        for i in range(5000):
-            for i in world.alive_shades:
-                world.alive_shades[i].will_i_die(world.alive_shades)
-
         # self.log(self.my_shades)
         assignpeople(self)
         assigntombs(self)
+        self.log(self.job)
         for i in self.my_shades:
             if(i not in self.job):
                 self.collisions.add(i.position)
@@ -59,7 +59,7 @@ class Player(PlayerInterface):
         #---Fear Counter---
         # CalcFearMap(self)
         # CalcMaxEnemyFearMap(self)
-
+        self.log(self.moves)
         return self.moves
 
 if __name__ == "__main__":
