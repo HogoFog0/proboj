@@ -6,6 +6,6 @@
       "vrcholnik",
       "py"
     ],
-    "args": "../maps/grid.ppm"
+    "args": "../maps/bracket.ppm"
   }
 ]
