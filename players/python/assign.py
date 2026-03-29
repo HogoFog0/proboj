@@ -82,7 +82,7 @@ def assigndefence(self):
     
     if(len(self.my_shades)):
         for x in self.my_stones:
-            for i in [x.position+Point(1,0),x.position+Point(0,1)]:
+            for i in [x.position+Point(1,0),x.position+Point(-1,0)]:
                 if self.world.map.can_move_to(self,i):
                     for j in self.my_shades:
                         if j in self.job: continue
@@ -99,3 +99,19 @@ def assigndefence(self):
                             heappush(bigheap,(heappop(heaps[cur[1]]),cur[1]))
                     else:
                         self.job[cur[0][1]] = cur[1]
+
+def assignenemy(self):
+    world : World = self.world
+    for i in self.my_shades:
+        i : Shade
+        if(i not in self.job):
+            cur = [None,float('inf')]
+            for j in world.alive_shades:
+                j : Shade
+                if(j.owner == self.world.my_id): continue
+                val = j.position.manhattan_dist(i.position)
+                if(val < cur[1]):
+                    cur[1] = val
+                    cur[0] = j
+            if(cur[0] is not None):
+                self.job[i] = cur[0]

@@ -68,6 +68,12 @@ class Player(PlayerInterface):
         assignpeople(self)
         assigndefence(self)
         assigntombs(self)
+        if(not len(self.enemy_stones)):
+            try:
+                assignenemy(self)
+            except:
+                self.log("lolol")
+                pass
         # self.log(self.job)
         for i in self.my_shades:
             if(i not in self.job):
