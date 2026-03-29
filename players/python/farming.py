@@ -7,38 +7,48 @@ def GetMyShades(self,world:World):
     return [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].id == world.my_id]
 
 def eval(objective : Person | Tombstone, shade : Shade):
-    return -objective.position.manhattan_dist(shade.position) + random.random()
+    return 100-objective.position.manhattan_dist(shade.position) + random.random()
 
-def singleassign(self):
+def assignpeople(self):
+
     world : World = self.world
-    assigned = defaultdict(int)
     heaps = defaultdict(list)
     bigheap = []
     
     if(len(self.my_shades)):
         for i in world.alive_people:
             for j in self.my_shades:
-                heappush(heaps[i],(-eval(j,i),j))
-            heappush(bigheap,(heappop(heaps[i]),i))
-
-        for i in world.alive_tombstones:
-            if(i.owner == self.world.my_id): continue
-            for j in self.my_shades:
+                if j in self.job: continue
                 heappush(heaps[i],(-eval(j,i),j))
             heappush(bigheap,(heappop(heaps[i]),i))
 
         while(len(bigheap)):
+
             cur = heappop(bigheap)
-            if(assigned[cur[0][1]]):
+            if -cur[0][0] < 0:
+                break
+            if(cur[0][1] in self.job):
                 if(len(heaps[cur[1]])):
                     heappush(bigheap,(heappop(heaps[cur[1]]),cur[1]))
             else:
-                assigned[cur[0][1]] = cur[1]
-    return assigned
+                self.job[cur[0][1]] = cur[1]
 
 
-
-
+def assigntombs(self):
+        world : World = self.world
+        for i in self.my_shades:
+            i : Shade
+            if(i not in self.job):
+                cur = [None,float('inf')]
+                for j in world.alive_tombstones:
+                    j : Tombstone
+                    if(j.owner == self.world.my_id): continue
+                    dist = i.position.manhattan_dist(j.position) 
+                    if(dist < cur[1]):
+                        cur[1] = dist
+                        cur[0] = j
+                if(cur[0] is not None):
+                    self.job[i] = cur[0]
 
 
 

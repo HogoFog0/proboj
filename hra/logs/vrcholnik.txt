@@ -1,0 +1,347 @@
+[proboj] 
+init
+[proboj] 
+STARTING TURN: 0
+
+[proboj] 
+STARTING TURN: 1
+
+[proboj] 
+STARTING TURN: 2
+
+[proboj] 
+STARTING TURN: 3
+
+[proboj] 
+STARTING TURN: 4
+No path found
+
+[proboj] 
+STARTING TURN: 5
+
+[proboj] 
+STARTING TURN: 6
+
+[proboj] 
+STARTING TURN: 7
+
+[proboj] 
+STARTING TURN: 8
+
+[proboj] 
+STARTING TURN: 9
+
+[proboj] 
+STARTING TURN: 10
+
+[proboj] 
+STARTING TURN: 11
+No path found
+
+[proboj] 
+STARTING TURN: 12
+
+[proboj] 
+STARTING TURN: 13
+
+[proboj] 
+STARTING TURN: 14
+
+[proboj] 
+STARTING TURN: 15
+
+[proboj] 
+STARTING TURN: 16
+
+[proboj] 
+STARTING TURN: 17
+
+[proboj] 
+STARTING TURN: 18
+
+[proboj] 
+STARTING TURN: 19
+
+[proboj] 
+STARTING TURN: 20
+
+[proboj] 
+STARTING TURN: 21
+
+[proboj] 
+STARTING TURN: 22
+
+[proboj] 
+STARTING TURN: 23
+
+[proboj] 
+STARTING TURN: 24
+
+[proboj] 
+STARTING TURN: 25
+
+[proboj] 
+STARTING TURN: 26
+
+[proboj] 
+STARTING TURN: 27
+
+[proboj] 
+STARTING TURN: 28
+
+[proboj] 
+STARTING TURN: 29
+
+[proboj] 
+STARTING TURN: 30
+
+[proboj] 
+STARTING TURN: 31
+
+[proboj] 
+STARTING TURN: 32
+
+[proboj] 
+STARTING TURN: 33
+
+[proboj] 
+STARTING TURN: 34
+
+[proboj] 
+STARTING TURN: 35
+
+[proboj] 
+STARTING TURN: 36
+
+[proboj] 
+STARTING TURN: 37
+
+[proboj] 
+STARTING TURN: 38
+
+[proboj] 
+STARTING TURN: 39
+
+[proboj] 
+STARTING TURN: 40
+No path found
+
+[proboj] 
+STARTING TURN: 41
+
+[proboj] 
+STARTING TURN: 42
+
+[proboj] 
+STARTING TURN: 43
+
+[proboj] 
+STARTING TURN: 44
+
+[proboj] 
+STARTING TURN: 45
+
+[proboj] 
+STARTING TURN: 46
+
+[proboj] 
+STARTING TURN: 47
+
+[proboj] 
+STARTING TURN: 48
+
+[proboj] 
+STARTING TURN: 49
+
+[proboj] 
+STARTING TURN: 50
+No path found
+
+[proboj] 
+STARTING TURN: 51
+No path found
+
+[proboj] 
+STARTING TURN: 52
+
+[proboj] 
+STARTING TURN: 53
+
+[proboj] 
+STARTING TURN: 54
+
+[proboj] 
+STARTING TURN: 55
+No path found
+
+[proboj] 
+STARTING TURN: 56
+
+[proboj] 
+STARTING TURN: 57
+
+[proboj] 
+STARTING TURN: 58
+No path found
+
+[proboj] 
+STARTING TURN: 59
+
+[proboj] 
+STARTING TURN: 60
+
+[proboj] 
+STARTING TURN: 61
+No path found
+
+[proboj] 
+STARTING TURN: 62
+
+[proboj] 
+STARTING TURN: 63
+
+[proboj] 
+STARTING TURN: 64
+
+[proboj] 
+STARTING TURN: 65
+No path found
+
+[proboj] 
+STARTING TURN: 66
+No path found
+
+[proboj] 
+STARTING TURN: 67
+
+[proboj] 
+STARTING TURN: 68
+
+[proboj] 
+STARTING TURN: 69
+
+[proboj] 
+STARTING TURN: 70
+No path found
+
+[proboj] 
+STARTING TURN: 71
+
+[proboj] 
+STARTING TURN: 72
+
+[proboj] 
+STARTING TURN: 73
+
+[proboj] 
+STARTING TURN: 74
+
+[proboj] 
+STARTING TURN: 75
+
+[proboj] 
+STARTING TURN: 76
+
+[proboj] 
+STARTING TURN: 77
+
+[proboj] 
+STARTING TURN: 78
+
+[proboj] 
+STARTING TURN: 79
+
+[proboj] 
+STARTING TURN: 80
+No path found
+
+[proboj] 
+STARTING TURN: 81
+
+[proboj] 
+STARTING TURN: 82
+No path found
+
+[proboj] 
+STARTING TURN: 83
+No path found
+No path found
+
+[proboj] 
+STARTING TURN: 84
+
+[proboj] 
+STARTING TURN: 85
+
+[proboj] 
+STARTING TURN: 86
+No path found
+
+[proboj] 
+STARTING TURN: 87
+
+[proboj] 
+STARTING TURN: 88
+
+[proboj] 
+STARTING TURN: 89
+
+[proboj] 
+STARTING TURN: 90
+
+[proboj] 
+STARTING TURN: 91
+
+[proboj] 
+STARTING TURN: 92
+
+[proboj] 
+STARTING TURN: 93
+
+[proboj] 
+STARTING TURN: 94
+
+[proboj] 
+STARTING TURN: 95
+No path found
+
+[proboj] 
+STARTING TURN: 96
+
+[proboj] 
+STARTING TURN: 97
+
+[proboj] 
+STARTING TURN: 98
+No path found
+
+[proboj] 
+STARTING TURN: 99
+
+[proboj] 
+STARTING TURN: 100
+
+[proboj] 
+STARTING TURN: 101
+No path found
+
+[proboj] 
+STARTING TURN: 102
+
+[proboj] 
+STARTING TURN: 103
+No path found
+
+[proboj] 
+STARTING TURN: 104
+No path found
+No path found
+
+[proboj] 
+STARTING TURN: 105
+No path found
+No path found
+
+[proboj] process terminated
+ exit: -1
+ err: <nil>

@@ -6,6 +6,14 @@
       "command": "/usr/bin/python3 ../players/python/player.py",
       "language": "py"
     },
+    "vrcholnik": {
+      "command": "/usr/bin/python3 ../players/python/player.py",
+      "language": "py"
+    },
+    "dolnik": {
+      "command": "/usr/bin/python3 ../players/python/player.py",
+      "language": "py"
+    },
     "windows": {
       "command": "C:/absolutna/cesta/ku/python.exe ../python/player.py",
       "language": "py"

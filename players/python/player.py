@@ -12,6 +12,9 @@ def GoTo(self, shade : Shade, end : Point):
     if(move is not None):
         self.moves.append(Move(shade.id, move))
         self.collisions.add(move)
+    else:
+        self.collisions.add(shade.position)
+        self.log("No path found")
 
 class Player(PlayerInterface):
     @staticmethod
@@ -23,14 +26,26 @@ class Player(PlayerInterface):
         pass
 
     def get_turn(self, world: World) -> List[Move]:
+        self.world = world
+
         self.my_shades = [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].owner == world.my_id]
+        self.my_stones = [i for i in world.alive_tombstones if i.owner == self.world.my_id]
+
         self.moves = []
         self.collisions = set()
-        self.world = world
+        self.blocked = set()
+        self.blocked.add(i for i in self.my_stones)
+        self.job = dict()
+
         # self.log(self.my_shades)
-        assignment = singleassign(self)
-        for i in assignment:
-            GoTo(self, i,assignment[i].position)
+        assignpeople(self)
+        assigntombs(self)
+        for i in self.my_shades:
+            if(i not in self.job):
+                self.collisions.add(i.position)
+                self.log(i)
+        for i in self.job:
+            GoTo(self, i,self.job[i].position)
 
         return self.moves
 

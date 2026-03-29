@@ -87,13 +87,9 @@ class Map:
 
     def can_move_to(self, p: Point) -> bool:
         return self.is_inside(p) and p not in self.water_tiles
-    ###
-    # def can_move_to(self, other, p : Point) -> bool:
-    #     # dicts = p.get_enemy_fears_at(other.world.alive_shades,other.world.my_id)
-    #     # if not dicts:
-    #     #     return self.is_inside(p) and p not in self.water_tiles
-        
-    #     return p.get_fear_at(other.world.alive_shades,other.world.my_id) < 3 and self.is_inside(p) and p not in self.water_tiles
+    ##
+    def can_move_to(self, other, p : Point) -> bool:
+        return p not in other.blocked and self.is_inside(p) and p not in self.water_tiles
     
 
 @dataclass(frozen=True)

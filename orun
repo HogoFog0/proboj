@@ -1,0 +1,3 @@
+#!/bin/bash
+./runner_linux && python3 run_observer.py
+

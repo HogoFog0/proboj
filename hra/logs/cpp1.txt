@@ -330,27 +330,6 @@ STARTING TURN: 108
 [proboj] 
 STARTING TURN: 109
 
-[proboj] 
-STARTING TURN: 110
-
-[proboj] 
-STARTING TURN: 111
-
-[proboj] 
-STARTING TURN: 112
-
-[proboj] 
-STARTING TURN: 113
-
-[proboj] 
-STARTING TURN: 114
-
-[proboj] 
-STARTING TURN: 115
-
-[proboj] 
-STARTING TURN: 116
-
 [proboj] process terminated
  exit: -1
  err: <nil>

@@ -2,10 +2,10 @@
   {
     "gamefolder": "hra",
     "players": [
-      "cpp1",
-      "cpp2",
+      "dolnik",
+      "vrcholnik",
       "py"
     ],
-    "args": "../maps/bracket.ppm"
+    "args": "../maps/grid.ppm"
   }
 ]

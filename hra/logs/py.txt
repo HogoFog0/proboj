@@ -35,6 +35,7 @@ STARTING TURN: 10
 
 [proboj] 
 STARTING TURN: 11
+No path found
 
 [proboj] 
 STARTING TURN: 12
@@ -152,6 +153,7 @@ STARTING TURN: 49
 
 [proboj] 
 STARTING TURN: 50
+No path found
 
 [proboj] 
 STARTING TURN: 51
@@ -269,6 +271,7 @@ STARTING TURN: 88
 
 [proboj] 
 STARTING TURN: 89
+No path found
 
 [proboj] 
 STARTING TURN: 90
@@ -317,201 +320,6 @@ STARTING TURN: 104
 
 [proboj] 
 STARTING TURN: 105
-
-[proboj] 
-STARTING TURN: 106
-
-[proboj] 
-STARTING TURN: 107
-
-[proboj] 
-STARTING TURN: 108
-
-[proboj] 
-STARTING TURN: 109
-
-[proboj] 
-STARTING TURN: 110
-
-[proboj] 
-STARTING TURN: 111
-
-[proboj] 
-STARTING TURN: 112
-
-[proboj] 
-STARTING TURN: 113
-
-[proboj] 
-STARTING TURN: 114
-
-[proboj] 
-STARTING TURN: 115
-
-[proboj] 
-STARTING TURN: 116
-
-[proboj] 
-STARTING TURN: 117
-
-[proboj] 
-STARTING TURN: 118
-
-[proboj] 
-STARTING TURN: 119
-
-[proboj] 
-STARTING TURN: 120
-
-[proboj] 
-STARTING TURN: 121
-
-[proboj] 
-STARTING TURN: 122
-
-[proboj] 
-STARTING TURN: 123
-
-[proboj] 
-STARTING TURN: 124
-
-[proboj] 
-STARTING TURN: 125
-
-[proboj] 
-STARTING TURN: 126
-
-[proboj] 
-STARTING TURN: 127
-
-[proboj] 
-STARTING TURN: 128
-
-[proboj] 
-STARTING TURN: 129
-
-[proboj] 
-STARTING TURN: 130
-
-[proboj] 
-STARTING TURN: 131
-
-[proboj] 
-STARTING TURN: 132
-
-[proboj] 
-STARTING TURN: 133
-
-[proboj] 
-STARTING TURN: 134
-
-[proboj] 
-STARTING TURN: 135
-
-[proboj] 
-STARTING TURN: 136
-
-[proboj] 
-STARTING TURN: 137
-
-[proboj] 
-STARTING TURN: 138
-
-[proboj] 
-STARTING TURN: 139
-
-[proboj] 
-STARTING TURN: 140
-
-[proboj] 
-STARTING TURN: 141
-
-[proboj] 
-STARTING TURN: 142
-
-[proboj] 
-STARTING TURN: 143
-
-[proboj] 
-STARTING TURN: 144
-
-[proboj] 
-STARTING TURN: 145
-
-[proboj] 
-STARTING TURN: 146
-
-[proboj] 
-STARTING TURN: 147
-
-[proboj] 
-STARTING TURN: 148
-
-[proboj] 
-STARTING TURN: 149
-
-[proboj] 
-STARTING TURN: 150
-
-[proboj] 
-STARTING TURN: 151
-
-[proboj] 
-STARTING TURN: 152
-
-[proboj] 
-STARTING TURN: 153
-
-[proboj] 
-STARTING TURN: 154
-
-[proboj] 
-STARTING TURN: 155
-
-[proboj] 
-STARTING TURN: 156
-
-[proboj] 
-STARTING TURN: 157
-
-[proboj] 
-STARTING TURN: 158
-
-[proboj] 
-STARTING TURN: 159
-
-[proboj] 
-STARTING TURN: 160
-
-[proboj] 
-STARTING TURN: 161
-
-[proboj] 
-STARTING TURN: 162
-
-[proboj] 
-STARTING TURN: 163
-
-[proboj] 
-STARTING TURN: 164
-
-[proboj] 
-STARTING TURN: 165
-
-[proboj] 
-STARTING TURN: 166
-
-[proboj] 
-STARTING TURN: 167
-
-[proboj] 
-STARTING TURN: 168
-
-[proboj] 
-STARTING TURN: 169
-
-[proboj] 
-STARTING TURN: 170
 
 [proboj] process terminated
  exit: -1
