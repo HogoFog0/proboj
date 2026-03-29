@@ -9,8 +9,10 @@ from assign import *
 from utils import *
 from collections import defaultdict
 
+import time
+
 def GoTo(self, shade : Shade, end : Point):
-    move = A_to_B(self,shade.position,end)
+    move = Astar(self,shade.position,end)
     # self.log(move,shade.position,end)
     if(move is not None):
         self.moves.append(Move(shade.id, move))
@@ -41,7 +43,7 @@ class Player(PlayerInterface):
 
         self.log(self.world.my_id)
 
-
+        start = time.time()
         self.ememy_stones = [i for i in world.alive_tombstones if i.owner != self.world.my_id]
         self.my_stones = [i for i in world.alive_tombstones if i.owner == self.world.my_id]
         self.my_shades = [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].owner == world.my_id]
@@ -64,21 +66,38 @@ class Player(PlayerInterface):
 
         # self.log(self.my_shades)
         assignpeople(self)
+        assigndefence(self)
         assigntombs(self)
         # self.log(self.job)
         for i in self.my_shades:
             if(i not in self.job):
                 self.collisions.add(i.position)
                 self.log(i)
+            else:
+                try:
+                    if(i.position == self.job[i].position):
+                        self.collisions.add(i.position)
+                        self.log(i)
+                except:
+                    pass
 
         for i in self.job:
-            GoTo(self, i,self.job[i].position)
+            try:
+                GoTo(self, i,self.job[i].position)
+            except:
+                GoTo(self, i,self.job[i])
 
         #---Fear Counter---
         # CalcFearMap(self)
         # CalcMaxEnemyFearMap(self)
         # self.log(self.moves)
 
+        end = time.time()
+
+        elapsed = end-start
+
+        self.log("TIME")
+        self.log(f"Elapsed time: {elapsed:.3f} seconds")
 
         return self.moves
 
