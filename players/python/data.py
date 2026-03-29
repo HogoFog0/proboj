@@ -66,6 +66,18 @@ class Point:
                 if self.dist2(p) <= SHADE_BATTLE_RADIUS2:
                     view.append(p)
         return view
+    def get_visibleplus(self) -> List[Point]:
+        """
+        Vrati policka, na ktore by dusa z tejto pozicie dovidela.
+        """
+        view = []
+        max_abs_delta = math.ceil(math.sqrt(SHADE_BATTLE_RADIUS2+5))
+        for i in range(-max_abs_delta, max_abs_delta + 1):
+            for j in range(-max_abs_delta, max_abs_delta + 1):
+                p = Point(self.x + i, self.y + j)
+                if self.dist2(p) <= SHADE_BATTLE_RADIUS2:
+                    view.append(p)
+        return view
     
     @cache_on_first_arg
     def get_fear_at(self, shade_positions: Dict[Point, Shade], id) -> int:
@@ -79,21 +91,21 @@ class Point:
         return fear
 
     @cache_on_first_arg
-    def get_enemy_fears_at(self, shade_positions: Dict[Point, Shade], other) -> Dict[Shade, int]:
+    def get_enemy_fears_at(self, shade_positions: Dict[Point, Shade], id) -> Dict[Shade, int]:
         """
         Vrati slovnik so strachmi dusi z nepriatelskych timov v dohlade tejto bodu.
         """
         fears = {}
-        for pos in self.get_visible():
-            if pos in shade_positions and shade_positions[pos].owner != other.world_my_id:
+        for pos in self.get_visibleplus():
+            if pos in shade_positions and shade_positions[pos].owner != id:
                 fears[shade_positions[pos]] = shade_positions[pos].get_fear(shade_positions)
         return fears
         
     @cache_on_first_arg
-    def will_i_die_at(self, shade_positions: Dict[Point, Shade]) -> bool:
-        enemy_fears = self.get_enemy_fears_at(shade_positions, self.owner)
+    def will_i_die_at(self, shade_positions: Dict[Point, Shade], id) -> bool:
+        enemy_fears = self.get_enemy_fears_at(shade_positions, id)
         mn_enemy_fear = min(enemy_fears.values()) if enemy_fears else math.inf
-        return True if mn_enemy_fear <= self.get_fear_at(shade_positions, self.owner) else False
+        return mn_enemy_fear - 1<= self.get_fear_at(shade_positions, id)
 
 
 @dataclass(frozen=True)

@@ -13,6 +13,7 @@ def GoTo(self, shade : Shade, end : Point):
     # self.log(move,shade.position,end)
     if(move is not None):
         self.moves.append(Move(shade.id, move))
+        self.log(move,move.will_i_die_at(self.pointshades,self.world.my_id))
         self.collisions.add(move)
     else:
         self.collisions.add(shade.position)
@@ -30,12 +31,17 @@ class Player(PlayerInterface):
     def get_turn(self, world: World) -> List[Move]:
         self.world = world
 
-        # self.log(self.world.my_id)
+        self.log(self.world.my_id)
 
         self.ememy_stones = [i for i in world.alive_tombstones if i.owner != self.world.my_id]
         self.my_stones = [i for i in world.alive_tombstones if i.owner == self.world.my_id]
         self.my_shades = [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].owner == world.my_id]
         self.enemy_shades = [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].owner != world.my_id]
+        # self.log(world.alive_shades)
+        self.pointshades = dict()
+        for i in world.alive_shades:
+            this = world.alive_shades[i]
+            self.pointshades[this.position] = this
 
         self.moves = []
         self.collisions = set()
@@ -59,7 +65,9 @@ class Player(PlayerInterface):
         #---Fear Counter---
         # CalcFearMap(self)
         # CalcMaxEnemyFearMap(self)
-        self.log(self.moves)
+        # self.log(self.moves)
+
+
         return self.moves
 
 if __name__ == "__main__":
