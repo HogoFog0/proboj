@@ -3,10 +3,8 @@ from collections import defaultdict
 from heapq import *
 import random
 
-def GetMyShades(self,world:World):
-    return [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].id == world.my_id]
 
-def eval(objective : Person | Tombstone, shade : Shade):
+def eval(objective : Person | Tombstone, shade : Shade): #
     return 100-objective.position.manhattan_dist(shade.position) + random.random()
 
 def assignpeople(self):
@@ -19,7 +17,7 @@ def assignpeople(self):
         for i in world.alive_people:
             for j in self.my_shades:
                 if j in self.job: continue
-                heappush(heaps[i],(-eval(j,i),j))
+                heappush(heaps[i],(-eval(i,j),j))
             heappush(bigheap,(heappop(heaps[i]),i))
 
         while(len(bigheap)):
@@ -43,9 +41,9 @@ def assigntombs(self):
                 for j in world.alive_tombstones:
                     j : Tombstone
                     if(j.owner == self.world.my_id): continue
-                    dist = i.position.manhattan_dist(j.position) 
-                    if(dist < cur[1]):
-                        cur[1] = dist
+                    val = eval(j,i)
+                    if(val < cur[1]):
+                        cur[1] = val
                         cur[0] = j
                 if(cur[0] is not None):
                     self.job[i] = cur[0]

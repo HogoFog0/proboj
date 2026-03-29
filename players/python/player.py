@@ -4,8 +4,9 @@ from typing import List
 from data import World, Move, Person, World, Map, Shade, Tombstone, Point
 from game import Game, PlayerInterface
 from random import shuffle
-from Moving import A_to_B
-from farming import *
+from Moving import *
+from assign import *
+from utils import *
 
 def GoTo(self, shade : Shade, end : Point):
     move = A_to_B(self,shade.position,end)
@@ -28,7 +29,8 @@ class Player(PlayerInterface):
     def get_turn(self, world: World) -> List[Move]:
         self.world = world
 
-        self.my_shades = [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].owner == world.my_id]
+        CalcMyShades(self)
+
         self.my_stones = [i for i in world.alive_tombstones if i.owner == self.world.my_id]
 
         self.moves = []
