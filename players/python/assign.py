@@ -1,20 +1,21 @@
 from data import *
 from collections import defaultdict
 from heapq import *
+from Moving import *
 import random
 
 
 def eval(self,objective : Person | Tombstone, shade : Shade): #
-    if self.closestenemak[objective] < objective.position.manhattan_dist(shade.position):
+    if self.closestenemak[objective] < self.dists[objective][shade.position]:
         res = 0
     else:
-        res = 10000-objective.position.manhattan_dist(shade.position)
+        res = 100-self.dists[objective][shade.position]
     return res - random.random()
 
 def calcclosestenemy(self,objective : Person | Tombstone):
     mn = float('inf')
     for o in self.enemy_shades:
-        cur = objective.position.manhattan_dist(o.position)
+        cur = self.dists[objective][o.position]
         if cur<mn:
                 mn = cur
     self.closestenemak[objective] = mn
@@ -26,14 +27,15 @@ def assignpeople(self):
     heaps = defaultdict(list)
     bigheap = []
     self.closestenemak = dict()
+    self.dists = dict()
     
     if(len(self.my_shades)):
         for i in world.alive_people:
+            self.dists[i] = BFS(self,i.position)
             calcclosestenemy(self,i)
             for j in self.my_shades:
                 if j in self.job: continue
                 heappush(heaps[i],(-eval(self,i,j),j))
-                # self.log(eval(self,i,j) , i , j)
             heappush(bigheap,(heappop(heaps[i]),i))
 
         while(len(bigheap)):
@@ -63,32 +65,4 @@ def assigntombs(self):
                         cur[0] = j
                 if(cur[0] is not None):
                     self.job[i] = cur[0]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
