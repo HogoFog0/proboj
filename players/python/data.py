@@ -7,7 +7,7 @@ from constants import SHADE_BATTLE_RADIUS2
 from functools import wraps
 
 def cache_on_first_arg(func):
-    cache = {}  # separate cache per function
+    cache = {}
 
     @wraps(func)
     def wrapper(*args, **kwargs):
@@ -20,6 +20,12 @@ def cache_on_first_arg(func):
             cache[key] = func(*args, **kwargs)
 
         return cache[key]
+
+    def clear_cache():
+        cache.clear()
+
+    wrapper.clear_cache = clear_cache
+    wrapper._cache = cache
 
     return wrapper
 
@@ -71,7 +77,7 @@ class Point:
         Vrati policka, na ktore by dusa z tejto pozicie dovidela.
         """
         view = []
-        max_abs_delta = math.ceil(math.sqrt(SHADE_BATTLE_RADIUS2+5))
+        max_abs_delta = math.ceil(math.sqrt(SHADE_BATTLE_RADIUS2+12))
         for i in range(-max_abs_delta, max_abs_delta + 1):
             for j in range(-max_abs_delta, max_abs_delta + 1):
                 p = Point(self.x + i, self.y + j)
@@ -80,32 +86,45 @@ class Point:
         return view
     
     @cache_on_first_arg
-    def get_fear_at(self, shade_positions: Dict[Point, Shade], id) -> int:
+    def get_fear_at(self, shade_positions: Dict[Point, Shade], other) -> int:
         """
         Vrati pocet dusi z nepriatelskych timov vo vyhlade tejto bodu.
         """
         fear = 0
         for pos in self.get_visible():
-            if pos in shade_positions and shade_positions[pos].owner != id:
+            if pos in shade_positions and shade_positions[pos].owner != other.world.my_id:
                 fear += 1
         return fear
 
     @cache_on_first_arg
-    def get_enemy_fears_at(self, shade_positions: Dict[Point, Shade], id) -> Dict[Shade, int]:
+    def get_fear_atplus(self, shade_positions: Dict[Point, Shade], other) -> int:
+        """
+        Vrati pocet dusi z nepriatelskych timov vo vyhlade tejto bodu.
+        """
+        fear = 0
+        for pos in self.get_visibleplus():
+            if pos in shade_positions and shade_positions[pos].owner != other.world.my_id:
+                fear += 1
+        # other.log("calcing")
+        return fear
+
+
+    @cache_on_first_arg
+    def get_enemy_fears_at(self, shade_positions: Dict[Point, Shade], other) -> Dict[Shade, int]:
         """
         Vrati slovnik so strachmi dusi z nepriatelskych timov v dohlade tejto bodu.
         """
         fears = {}
-        for pos in self.get_visibleplus():
-            if pos in shade_positions and shade_positions[pos].owner != id:
+        for pos in self.get_visible():
+            if pos in shade_positions and shade_positions[pos].owner != other.world.my_id:
                 fears[shade_positions[pos]] = shade_positions[pos].get_fear(shade_positions)
         return fears
         
     @cache_on_first_arg
-    def will_i_die_at(self, shade_positions: Dict[Point, Shade], id) -> bool:
-        enemy_fears = self.get_enemy_fears_at(shade_positions, id)
+    def will_i_die_at(self, shade_positions: Dict[Point, Shade], other) -> bool:
+        enemy_fears = self.get_enemy_fears_at(shade_positions, other)
         mn_enemy_fear = min(enemy_fears.values()) if enemy_fears else math.inf
-        return mn_enemy_fear - 1<= self.get_fear_at(shade_positions, id)
+        return mn_enemy_fear <= self.get_fear_at(shade_positions, other)
 
 
 @dataclass(frozen=True)

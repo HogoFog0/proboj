@@ -25,8 +25,8 @@ def A_to_B(self, A, B):
             # if(ngb.will_i_die_at(self.pointshades, world.my_id)): self.log(ngb)
             elif (world.map.can_move_to(self,ngb) 
                   and ngb not in dist 
-                  and not (ngb in self.collisions and dist[X] == 0)):
-                #   and not(ngb.will_i_die_at(self.pointshades, world.my_id) and dist[X]<3)):
+                  and not (ngb in self.collisions and dist[X] == 0)
+                  and not(ngb.will_i_die_at(self.pointshades, self) and dist[X]<3)):
                 dist[ngb] = dist[X]+1
                 q.append(ngb)
                 parent[ngb] = X
