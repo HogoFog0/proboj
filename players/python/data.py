@@ -48,7 +48,26 @@ class Point:
                 if self.dist2(p) <= SHADE_BATTLE_RADIUS2:
                     view.append(p)
         return view
+    
+    def get_fear_at(self, shade_positions: Dict[Point, Shade], id) -> int:
+        """
+        Vrati pocet dusi z nepriatelskych timov vo vyhlade tejto duse.
+        """
+        fear = 0
+        for pos in self.get_visible():
+            if pos in shade_positions and shade_positions[pos].owner != id:
+                fear += 1
+        return fear
 
+    def get_enemy_fears_at(self, shade_positions: Dict[Point, Shade], id) -> Dict[Shade, int]:
+        """
+        Vrati slovnik so strachmi dusi z nepriatelskych timov v dohlade tejto duse.
+        """
+        fears = {}
+        for pos in self.get_visible():
+            if pos in shade_positions and shade_positions[pos].owner != id:
+                fears[shade_positions[pos]] = shade_positions[pos].get_fear(shade_positions)
+        return fears
 
 @dataclass(frozen=True)
 class Move:
@@ -68,7 +87,14 @@ class Map:
 
     def can_move_to(self, p: Point) -> bool:
         return self.is_inside(p) and p not in self.water_tiles
-
+    ###
+    # def can_move_to(self, other, p : Point) -> bool:
+    #     # dicts = p.get_enemy_fears_at(other.world.alive_shades,other.world.my_id)
+    #     # if not dicts:
+    #     #     return self.is_inside(p) and p not in self.water_tiles
+        
+    #     return p.get_fear_at(other.world.alive_shades,other.world.my_id) < 3 and self.is_inside(p) and p not in self.water_tiles
+    
 
 @dataclass(frozen=True)
 class Shade:
@@ -103,7 +129,6 @@ class Shade:
         enemy_fears = self.get_enemy_fears(shade_positions)
         mn_enemy_fear = min(enemy_fears.values()) if enemy_fears else math.inf
         return mn_enemy_fear <= self.get_fear(shade_positions)
-
 
 @dataclass(frozen=True)
 class Tombstone:

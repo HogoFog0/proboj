@@ -8,9 +8,10 @@ from Moving import A_to_B
 from farming import *
 
 def GoTo(self, shade : Shade, end : Point):
-    self.log(shade,end,A_to_B(self,shade.position,end))
-    if(A_to_B(self,shade.position,end) is not None):
-        self.moves.append(Move(shade.id,A_to_B(self,shade.position,end)))
+    move = A_to_B(self,shade.position,end)
+    if(move is not None):
+        self.moves.append(Move(shade.id, move))
+        self.collisions.add(move)
 
 class Player(PlayerInterface):
     @staticmethod
@@ -24,6 +25,7 @@ class Player(PlayerInterface):
     def get_turn(self, world: World) -> List[Move]:
         self.my_shades = [world.alive_shades[i] for i in world.alive_shades if world.alive_shades[i].owner == world.my_id]
         self.moves = []
+        self.collisions = set()
         self.world = world
         # self.log(self.my_shades)
         assignment = singleassign(self)

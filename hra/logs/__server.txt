@@ -3,51 +3,31 @@ STARTING TURN: 1
 STARTING TURN: 2
 STARTING TURN: 3
 STARTING TURN: 4
-Ant 2 tried to move to an invalid position
 STARTING TURN: 5
 STARTING TURN: 6
-Ant 1 tried to move to an invalid position
-Ant 4 tried to move to an invalid position
 STARTING TURN: 7
-Ant 5 tried to move to an invalid position
 STARTING TURN: 8
-Ant 2 tried to move to an invalid position
 STARTING TURN: 9
-Ant 5 tried to move to an invalid position
 STARTING TURN: 10
 STARTING TURN: 11
-Ant 5 tried to move to an invalid position
 STARTING TURN: 12
-Ant 1 tried to move to an invalid position
-Ant 5 tried to move to an invalid position
 STARTING TURN: 13
-Ant 5 tried to move to an invalid position
 STARTING TURN: 14
-Ant 1 tried to move to an invalid position
 STARTING TURN: 15
-Ant 1 tried to move to an invalid position
-Ant 5 tried to move to an invalid position
 STARTING TURN: 16
-Ant 5 tried to move to an invalid position
 STARTING TURN: 17
 STARTING TURN: 18
-Ant 5 tried to move to an invalid position
+Ant 7 tried to move to an invalid position
 STARTING TURN: 19
-Ant 5 tried to move to an invalid position
 STARTING TURN: 20
-Ant 1 tried to move to an invalid position
-Ant 5 tried to move to an invalid position
 STARTING TURN: 21
-Ant 1 tried to move to an invalid position
 STARTING TURN: 22
-Ant 1 tried to move to an invalid position
 STARTING TURN: 23
+Ant 7 tried to move to an invalid position
 STARTING TURN: 24
 STARTING TURN: 25
+Ant 7 tried to move to an invalid position
 STARTING TURN: 26
-Ant 1 tried to move to an invalid position
-Player cpp1 has not enough resources to continue playing
-Player cpp1 has been killed
 STARTING TURN: 27
 STARTING TURN: 28
 STARTING TURN: 29
@@ -60,106 +40,178 @@ STARTING TURN: 35
 STARTING TURN: 36
 STARTING TURN: 37
 STARTING TURN: 38
-Ant 5 tried to move to an invalid position
 STARTING TURN: 39
 STARTING TURN: 40
 STARTING TURN: 41
 STARTING TURN: 42
+Ant 4 tried to move to an invalid position
 STARTING TURN: 43
+Ant 3 tried to move to an invalid position
+Ant 4 tried to move to an invalid position
 STARTING TURN: 44
 STARTING TURN: 45
 STARTING TURN: 46
-Ant 5 tried to move to an invalid position
 STARTING TURN: 47
-Ant 5 tried to move to an invalid position
 STARTING TURN: 48
-Ant 5 tried to move to an invalid position
 STARTING TURN: 49
 STARTING TURN: 50
 STARTING TURN: 51
 STARTING TURN: 52
 STARTING TURN: 53
 STARTING TURN: 54
-Ant 5 tried to move to an invalid position
 STARTING TURN: 55
-Ant 5 tried to move to an invalid position
 STARTING TURN: 56
-Ant 5 tried to move to an invalid position
+Ant 4 tried to move to an invalid position
 STARTING TURN: 57
 STARTING TURN: 58
 STARTING TURN: 59
 STARTING TURN: 60
 STARTING TURN: 61
+Ant 4 tried to move to an invalid position
 STARTING TURN: 62
 STARTING TURN: 63
 STARTING TURN: 64
+Ant 4 tried to move to an invalid position
 STARTING TURN: 65
 STARTING TURN: 66
+Ant 4 tried to move to an invalid position
 STARTING TURN: 67
 STARTING TURN: 68
+Ant 4 tried to move to an invalid position
 STARTING TURN: 69
+Ant 4 tried to move to an invalid position
 STARTING TURN: 70
 STARTING TURN: 71
 STARTING TURN: 72
 STARTING TURN: 73
 STARTING TURN: 74
-Ant 45 tried to move to an invalid position
+Ant 4 tried to move to an invalid position
 STARTING TURN: 75
-Ant 45 tried to move to an invalid position
 STARTING TURN: 76
 STARTING TURN: 77
+Ant 4 tried to move to an invalid position
 STARTING TURN: 78
-Ant 52 tried to move to an invalid position
-Ant 54 tried to move to an invalid position
 STARTING TURN: 79
-Ant 54 tried to move to an invalid position
 STARTING TURN: 80
-Ant 54 tried to move to an invalid position
+Ant 2 tried to move to an invalid position
+Ant 27 tried to move to an invalid position
 STARTING TURN: 81
+Ant 27 tried to move to an invalid position
+Ant 4 tried to move to an invalid position
 STARTING TURN: 82
 STARTING TURN: 83
+Ant 27 tried to move to an invalid position
+Ant 4 tried to move to an invalid position
 STARTING TURN: 84
-Ant 54 tried to move to an invalid position
+Ant 2 tried to move to an invalid position
 STARTING TURN: 85
+Ant 2 tried to move to an invalid position
+Ant 4 tried to move to an invalid position
 STARTING TURN: 86
 STARTING TURN: 87
 STARTING TURN: 88
 STARTING TURN: 89
-Ant 54 tried to move to an invalid position
 STARTING TURN: 90
 STARTING TURN: 91
-Ant 54 tried to move to an invalid position
 STARTING TURN: 92
-Ant 54 tried to move to an invalid position
 STARTING TURN: 93
-Ant 54 tried to move to an invalid position
 STARTING TURN: 94
+Ant 1 tried to move to an invalid position
+Ant 2 tried to move to an invalid position
 STARTING TURN: 95
 STARTING TURN: 96
+Ant 1 tried to move to an invalid position
 STARTING TURN: 97
 STARTING TURN: 98
-Ant 75 tried to move to an invalid position
+Ant 1 tried to move to an invalid position
 STARTING TURN: 99
 STARTING TURN: 100
-Ant 75 tried to move to an invalid position
+Ant 3 tried to move to an invalid position
 STARTING TURN: 101
+Ant 3 tried to move to an invalid position
 STARTING TURN: 102
+Ant 3 tried to move to an invalid position
 STARTING TURN: 103
+Ant 2 tried to move to an invalid position
 STARTING TURN: 104
-Ant 85 tried to move to an invalid position
+Ant 2 tried to move to an invalid position
 STARTING TURN: 105
 STARTING TURN: 106
-Ant 75 tried to move to an invalid position
 STARTING TURN: 107
-Ant 75 tried to move to an invalid position
 STARTING TURN: 108
 STARTING TURN: 109
 STARTING TURN: 110
 STARTING TURN: 111
 STARTING TURN: 112
 STARTING TURN: 113
+Ant 4 tried to move to an invalid position
 STARTING TURN: 114
-Ant 75 tried to move to an invalid position
+STARTING TURN: 115
+STARTING TURN: 116
+Ant 4 tried to move to an invalid position
+Player cpp1 has not enough resources to continue playing
+Player cpp1 has been killed
+STARTING TURN: 117
+STARTING TURN: 118
+STARTING TURN: 119
+Ant 4 tried to move to an invalid position
+STARTING TURN: 120
+STARTING TURN: 121
+STARTING TURN: 122
+STARTING TURN: 123
+STARTING TURN: 124
+Ant 32 tried to move to an invalid position
+STARTING TURN: 125
+STARTING TURN: 126
+STARTING TURN: 127
+STARTING TURN: 128
+STARTING TURN: 129
+Ant 4 tried to move to an invalid position
+STARTING TURN: 130
+STARTING TURN: 131
+STARTING TURN: 132
+STARTING TURN: 133
+STARTING TURN: 134
+STARTING TURN: 135
+STARTING TURN: 136
+STARTING TURN: 137
+STARTING TURN: 138
+STARTING TURN: 139
+Ant 4 tried to move to an invalid position
+STARTING TURN: 140
+Ant 4 tried to move to an invalid position
+STARTING TURN: 141
+STARTING TURN: 142
+STARTING TURN: 143
+STARTING TURN: 144
+STARTING TURN: 145
+STARTING TURN: 146
+STARTING TURN: 147
+STARTING TURN: 148
+STARTING TURN: 149
+STARTING TURN: 150
+STARTING TURN: 151
+STARTING TURN: 152
+STARTING TURN: 153
+STARTING TURN: 154
+Ant 3 tried to move to an invalid position
+STARTING TURN: 155
+STARTING TURN: 156
+STARTING TURN: 157
+STARTING TURN: 158
+STARTING TURN: 159
+STARTING TURN: 160
+STARTING TURN: 161
+STARTING TURN: 162
+STARTING TURN: 163
+STARTING TURN: 164
+STARTING TURN: 165
+STARTING TURN: 166
+STARTING TURN: 167
+STARTING TURN: 168
+STARTING TURN: 169
+STARTING TURN: 170
+Ant 4 tried to move to an invalid position
 Player cpp2 has not enough resources to continue playing
 Player cpp2 has been killed
 Game end: Last player alive

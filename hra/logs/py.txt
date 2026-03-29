@@ -2,1739 +2,516 @@
 init
 [proboj] 
 STARTING TURN: 0
-Shade(position=Point(x=18, y=16), owner=3, id=3) Point(x=1, y=16) Point(x=18, y=17)
 
 [proboj] 
 STARTING TURN: 1
-Shade(position=Point(x=18, y=17), owner=3, id=3) Point(x=15, y=9) Point(x=17, y=17)
 
 [proboj] 
 STARTING TURN: 2
-Shade(position=Point(x=17, y=17), owner=3, id=3) Point(x=9, y=15) Point(x=17, y=18)
 
 [proboj] 
 STARTING TURN: 3
-Shade(position=Point(x=17, y=18), owner=3, id=3) Point(x=18, y=11) Point(x=16, y=18)
 
 [proboj] 
 STARTING TURN: 4
-Shade(position=Point(x=16, y=18), owner=3, id=3) Point(x=11, y=16) Point(x=15, y=18)
 
 [proboj] 
 STARTING TURN: 5
-Shade(position=Point(x=15, y=18), owner=3, id=3) Point(x=11, y=16) Point(x=14, y=18)
 
 [proboj] 
 STARTING TURN: 6
-Shade(position=Point(x=14, y=18), owner=3, id=3) Point(x=11, y=16) Point(x=13, y=18)
 
 [proboj] 
 STARTING TURN: 7
-Shade(position=Point(x=13, y=18), owner=3, id=3) Point(x=11, y=16) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 8
-Shade(position=Point(x=12, y=18), owner=3, id=3) Point(x=11, y=16) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 9
-Shade(position=Point(x=12, y=17), owner=3, id=3) Point(x=11, y=16) Point(x=12, y=16)
 
 [proboj] 
 STARTING TURN: 10
-Shade(position=Point(x=12, y=16), owner=3, id=3) Point(x=12, y=18) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 11
-Shade(position=Point(x=12, y=17), owner=3, id=3) Point(x=10, y=16) Point(x=12, y=16)
-Shade(position=Point(x=18, y=16), owner=3, id=6) Point(x=18, y=11) Point(x=18, y=17)
 
 [proboj] 
 STARTING TURN: 12
-Shade(position=Point(x=12, y=16), owner=3, id=3) Point(x=10, y=16) Point(x=11, y=16)
-Shade(position=Point(x=18, y=16), owner=3, id=7) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=18, y=17), owner=3, id=6) Point(x=9, y=15) Point(x=17, y=17)
 
 [proboj] 
 STARTING TURN: 13
-Shade(position=Point(x=11, y=16), owner=3, id=3) Point(x=9, y=15) Point(x=10, y=16)
-Shade(position=Point(x=18, y=17), owner=3, id=7) Point(x=18, y=11) Point(x=17, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=6) Point(x=7, y=17) Point(x=17, y=18)
 
 [proboj] 
 STARTING TURN: 14
-Shade(position=Point(x=10, y=16), owner=3, id=3) Point(x=9, y=15) Point(x=9, y=16)
-Shade(position=Point(x=18, y=16), owner=3, id=8) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=7) Point(x=7, y=17) Point(x=17, y=18)
-Shade(position=Point(x=17, y=18), owner=3, id=6) Point(x=15, y=9) Point(x=16, y=18)
 
 [proboj] 
 STARTING TURN: 15
-Shade(position=Point(x=9, y=16), owner=3, id=3) Point(x=7, y=17) Point(x=8, y=16)
-Shade(position=Point(x=18, y=17), owner=3, id=8) Point(x=18, y=11) Point(x=17, y=17)
-Shade(position=Point(x=17, y=18), owner=3, id=7) Point(x=17, y=11) Point(x=16, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=6) Point(x=15, y=9) Point(x=15, y=18)
 
 [proboj] 
 STARTING TURN: 16
-Shade(position=Point(x=8, y=16), owner=3, id=3) Point(x=7, y=17) Point(x=7, y=16)
-Shade(position=Point(x=18, y=16), owner=3, id=9) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=8) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=6) Point(x=15, y=9) Point(x=14, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=7) Point(x=3, y=18) Point(x=15, y=18)
 
 [proboj] 
 STARTING TURN: 17
-Shade(position=Point(x=15, y=18), owner=3, id=7) Point(x=15, y=16) Point(x=15, y=17)
-Shade(position=Point(x=7, y=16), owner=3, id=3) Point(x=1, y=16) Point(x=7, y=17)
-Shade(position=Point(x=18, y=17), owner=3, id=9) Point(x=18, y=11) Point(x=17, y=17)
-Shade(position=Point(x=17, y=18), owner=3, id=8) Point(x=17, y=11) Point(x=16, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=6) Point(x=15, y=9) Point(x=13, y=18)
 
 [proboj] 
 STARTING TURN: 18
-Shade(position=Point(x=7, y=17), owner=3, id=3) Point(x=6, y=19) Point(x=7, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=10) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=9) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=15, y=17), owner=3, id=7) Point(x=15, y=9) Point(x=15, y=18)
-Shade(position=Point(x=13, y=18), owner=3, id=6) Point(x=3, y=18) Point(x=12, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=8) Point(x=5, y=12) Point(x=15, y=18)
 
 [proboj] 
 STARTING TURN: 19
-Shade(position=Point(x=7, y=18), owner=3, id=3) Point(x=6, y=19) Point(x=7, y=19)
-Shade(position=Point(x=18, y=16), owner=3, id=11) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=18, y=17), owner=3, id=10) Point(x=17, y=11) Point(x=17, y=17)
-Shade(position=Point(x=12, y=18), owner=3, id=6) Point(x=3, y=18) Point(x=12, y=17)
-Shade(position=Point(x=17, y=18), owner=3, id=9) Point(x=15, y=9) Point(x=16, y=18)
 
 [proboj] 
 STARTING TURN: 20
-Shade(position=Point(x=7, y=19), owner=3, id=3) Point(x=3, y=18) Point(x=6, y=19)
-Shade(position=Point(x=18, y=17), owner=3, id=11) Point(x=18, y=11) Point(x=17, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=10) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=9) Point(x=15, y=9) Point(x=15, y=18)
-Shade(position=Point(x=12, y=17), owner=3, id=6) Point(x=5, y=12) Point(x=12, y=16)
 
 [proboj] 
 STARTING TURN: 21
-Shade(position=Point(x=6, y=19), owner=3, id=3) Point(x=3, y=18) Point(x=5, y=19)
-Shade(position=Point(x=18, y=16), owner=3, id=12) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=11) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=9) Point(x=15, y=9) Point(x=14, y=18)
-Shade(position=Point(x=12, y=16), owner=3, id=6) Point(x=5, y=12) Point(x=11, y=16)
-Shade(position=Point(x=17, y=18), owner=3, id=10) Point(x=18, y=2) Point(x=16, y=18)
 
 [proboj] 
 STARTING TURN: 22
-Shade(position=Point(x=5, y=19), owner=3, id=3) Point(x=3, y=18) Point(x=4, y=19)
-Shade(position=Point(x=18, y=17), owner=3, id=12) Point(x=18, y=11) Point(x=17, y=17)
-Shade(position=Point(x=17, y=18), owner=3, id=11) Point(x=17, y=11) Point(x=16, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=10) Point(x=15, y=9) Point(x=15, y=18)
-Shade(position=Point(x=11, y=16), owner=3, id=6) Point(x=5, y=12) Point(x=10, y=16)
-Shade(position=Point(x=14, y=18), owner=3, id=9) Point(x=1, y=16) Point(x=13, y=18)
 
 [proboj] 
 STARTING TURN: 23
-Shade(position=Point(x=4, y=19), owner=3, id=3) Point(x=3, y=18) Point(x=3, y=19)
-Shade(position=Point(x=17, y=17), owner=3, id=12) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=10) Point(x=15, y=9) Point(x=14, y=18)
-Shade(position=Point(x=10, y=16), owner=3, id=6) Point(x=1, y=16) Point(x=9, y=16)
-Shade(position=Point(x=16, y=18), owner=3, id=11) Point(x=18, y=11) Point(x=15, y=18)
-Shade(position=Point(x=13, y=18), owner=3, id=9) Point(x=5, y=12) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 24
-Shade(position=Point(x=3, y=19), owner=3, id=3) Point(x=1, y=16) Point(x=2, y=19)
-Shade(position=Point(x=17, y=18), owner=3, id=12) Point(x=17, y=11) Point(x=16, y=18)
-Shade(position=Point(x=9, y=16), owner=3, id=6) Point(x=5, y=12) Point(x=8, y=16)
-Shade(position=Point(x=15, y=18), owner=3, id=11) Point(x=15, y=9) Point(x=14, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=10) Point(x=18, y=11) Point(x=13, y=18)
-Shade(position=Point(x=12, y=18), owner=3, id=9) Point(x=6, y=8) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 25
-Shade(position=Point(x=2, y=19), owner=3, id=3) Point(x=1, y=16) Point(x=2, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=13) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=8, y=16), owner=3, id=6) Point(x=5, y=12) Point(x=8, y=15)
-Shade(position=Point(x=16, y=18), owner=3, id=12) Point(x=17, y=11) Point(x=15, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=11) Point(x=15, y=9) Point(x=13, y=18)
-Shade(position=Point(x=12, y=17), owner=3, id=9) Point(x=6, y=8) Point(x=12, y=16)
-Shade(position=Point(x=13, y=18), owner=3, id=10) Point(x=10, y=3) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 26
-Shade(position=Point(x=2, y=18), owner=3, id=3) Point(x=1, y=16) Point(x=2, y=17)
-Shade(position=Point(x=18, y=17), owner=3, id=13) Point(x=18, y=11) Point(x=17, y=17)
-Shade(position=Point(x=8, y=15), owner=3, id=6) Point(x=5, y=12) Point(x=8, y=14)
-Shade(position=Point(x=15, y=18), owner=3, id=12) Point(x=17, y=11) Point(x=14, y=18)
-Shade(position=Point(x=12, y=16), owner=3, id=9) Point(x=15, y=9) Point(x=11, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=10) Point(x=6, y=8) Point(x=12, y=17)
-Shade(position=Point(x=13, y=18), owner=3, id=11) Point(x=5, y=8) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 27
-Shade(position=Point(x=8, y=14), owner=3, id=6) Point(x=5, y=12) Point(x=8, y=13)
-Shade(position=Point(x=17, y=17), owner=3, id=13) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=11, y=16), owner=3, id=9) Point(x=1, y=16) Point(x=10, y=16)
-Shade(position=Point(x=14, y=18), owner=3, id=12) Point(x=15, y=9) Point(x=13, y=18)
-Shade(position=Point(x=12, y=17), owner=3, id=10) Point(x=18, y=11) Point(x=12, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=11) Point(x=6, y=8) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 28
-Shade(position=Point(x=8, y=13), owner=3, id=6) Point(x=5, y=12) Point(x=8, y=12)
-Shade(position=Point(x=17, y=18), owner=3, id=13) Point(x=17, y=11) Point(x=16, y=18)
-Shade(position=Point(x=10, y=16), owner=3, id=9) Point(x=1, y=16) Point(x=9, y=16)
-Shade(position=Point(x=12, y=16), owner=3, id=10) Point(x=15, y=9) Point(x=11, y=16)
-Shade(position=Point(x=12, y=17), owner=3, id=11) Point(x=18, y=11) Point(x=12, y=16)
-Shade(position=Point(x=13, y=18), owner=3, id=12) Point(x=6, y=8) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 29
-Shade(position=Point(x=8, y=12), owner=3, id=6) Point(x=5, y=12) Point(x=8, y=11)
-Shade(position=Point(x=16, y=18), owner=3, id=13) Point(x=17, y=11) Point(x=15, y=18)
-Shade(position=Point(x=9, y=16), owner=3, id=9) Point(x=1, y=16) Point(x=8, y=16)
-Shade(position=Point(x=12, y=16), owner=3, id=11) Point(x=15, y=9) Point(x=11, y=16)
-Shade(position=Point(x=11, y=16), owner=3, id=10) Point(x=18, y=11) Point(x=11, y=15)
-Shade(position=Point(x=12, y=18), owner=3, id=12) Point(x=6, y=8) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 30
-Shade(position=Point(x=8, y=11), owner=3, id=6) Point(x=5, y=12) Point(x=8, y=10)
-Shade(position=Point(x=8, y=16), owner=3, id=9) Point(x=1, y=16) Point(x=7, y=16)
-Shade(position=Point(x=15, y=18), owner=3, id=13) Point(x=15, y=9) Point(x=14, y=18)
-Shade(position=Point(x=11, y=15), owner=3, id=10) Point(x=17, y=11) Point(x=11, y=14)
-Shade(position=Point(x=11, y=16), owner=3, id=11) Point(x=18, y=11) Point(x=11, y=15)
-Shade(position=Point(x=12, y=17), owner=3, id=12) Point(x=6, y=8) Point(x=12, y=16)
 
 [proboj] 
 STARTING TURN: 31
-Shade(position=Point(x=8, y=10), owner=3, id=6) Point(x=6, y=8) Point(x=7, y=10)
-Shade(position=Point(x=7, y=16), owner=3, id=9) Point(x=5, y=12) Point(x=8, y=16)
-Shade(position=Point(x=11, y=14), owner=3, id=10) Point(x=17, y=11) Point(x=11, y=13)
-Shade(position=Point(x=14, y=18), owner=3, id=13) Point(x=15, y=9) Point(x=13, y=18)
-Shade(position=Point(x=12, y=16), owner=3, id=12) Point(x=18, y=11) Point(x=11, y=16)
-Shade(position=Point(x=11, y=15), owner=3, id=11) Point(x=1, y=16) Point(x=11, y=16)
 
 [proboj] 
 STARTING TURN: 32
-Shade(position=Point(x=7, y=10), owner=3, id=6) Point(x=6, y=8) Point(x=6, y=10)
-Shade(position=Point(x=8, y=16), owner=3, id=9) Point(x=1, y=16) Point(x=7, y=16)
-Shade(position=Point(x=11, y=13), owner=3, id=10) Point(x=5, y=12) Point(x=10, y=13)
-Shade(position=Point(x=13, y=18), owner=3, id=13) Point(x=17, y=11) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 33
-Shade(position=Point(x=6, y=10), owner=3, id=6) Point(x=6, y=8) Point(x=6, y=9)
-Shade(position=Point(x=7, y=16), owner=3, id=9) Point(x=1, y=16) Point(x=7, y=17)
-Shade(position=Point(x=10, y=13), owner=3, id=10) Point(x=5, y=12) Point(x=9, y=13)
-Shade(position=Point(x=12, y=18), owner=3, id=13) Point(x=17, y=11) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 34
-Shade(position=Point(x=6, y=9), owner=3, id=6) Point(x=5, y=8) Point(x=5, y=9)
-Shade(position=Point(x=9, y=13), owner=3, id=10) Point(x=5, y=12) Point(x=8, y=13)
-Shade(position=Point(x=7, y=17), owner=3, id=9) Point(x=1, y=16) Point(x=7, y=18)
-Shade(position=Point(x=12, y=17), owner=3, id=13) Point(x=17, y=11) Point(x=12, y=16)
 
 [proboj] 
 STARTING TURN: 35
-Shade(position=Point(x=5, y=9), owner=3, id=6) Point(x=5, y=12) Point(x=5, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=14) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=8, y=13), owner=3, id=10) Point(x=7, y=6) Point(x=9, y=13)
-Shade(position=Point(x=7, y=18), owner=3, id=9) Point(x=1, y=16) Point(x=6, y=18)
-Shade(position=Point(x=12, y=16), owner=3, id=13) Point(x=17, y=11) Point(x=11, y=16)
 
 [proboj] 
 STARTING TURN: 36
-Shade(position=Point(x=5, y=10), owner=3, id=6) Point(x=5, y=12) Point(x=5, y=11)
-Shade(position=Point(x=18, y=16), owner=3, id=15) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=18, y=17), owner=3, id=14) Point(x=17, y=11) Point(x=17, y=17)
-Shade(position=Point(x=6, y=18), owner=3, id=9) Point(x=1, y=16) Point(x=5, y=18)
-Shade(position=Point(x=9, y=13), owner=3, id=10) Point(x=7, y=6) Point(x=9, y=12)
-Shade(position=Point(x=11, y=16), owner=3, id=13) Point(x=15, y=9) Point(x=11, y=15)
 
 [proboj] 
 STARTING TURN: 37
-Shade(position=Point(x=5, y=11), owner=3, id=6) Point(x=3, y=12) Point(x=5, y=12)
-Shade(position=Point(x=17, y=17), owner=3, id=14) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=5, y=18), owner=3, id=9) Point(x=1, y=16) Point(x=4, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=15) Point(x=18, y=11) Point(x=17, y=17)
-Shade(position=Point(x=9, y=12), owner=3, id=10) Point(x=7, y=6) Point(x=9, y=11)
-Shade(position=Point(x=11, y=15), owner=3, id=13) Point(x=15, y=9) Point(x=11, y=14)
 
 [proboj] 
 STARTING TURN: 38
-Shade(position=Point(x=5, y=12), owner=3, id=6) Point(x=3, y=12) Point(x=4, y=12)
-Shade(position=Point(x=4, y=18), owner=3, id=9) Point(x=1, y=16) Point(x=3, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=16) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=15) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=9, y=11), owner=3, id=10) Point(x=7, y=6) Point(x=9, y=10)
-Shade(position=Point(x=11, y=14), owner=3, id=13) Point(x=15, y=9) Point(x=11, y=13)
-Shade(position=Point(x=17, y=18), owner=3, id=14) Point(x=17, y=6) Point(x=16, y=18)
 
 [proboj] 
 STARTING TURN: 39
-Shade(position=Point(x=3, y=18), owner=3, id=9) Point(x=2, y=18) Point(x=2, y=18)
-Shade(position=Point(x=4, y=12), owner=3, id=6) Point(x=1, y=10) Point(x=3, y=12)
-Shade(position=Point(x=18, y=17), owner=3, id=16) Point(x=18, y=11) Point(x=17, y=17)
-Shade(position=Point(x=9, y=10), owner=3, id=10) Point(x=7, y=6) Point(x=9, y=9)
-Shade(position=Point(x=17, y=18), owner=3, id=15) Point(x=17, y=11) Point(x=16, y=18)
-Shade(position=Point(x=11, y=13), owner=3, id=13) Point(x=15, y=9) Point(x=11, y=12)
-Shade(position=Point(x=16, y=18), owner=3, id=14) Point(x=17, y=6) Point(x=15, y=18)
 
 [proboj] 
 STARTING TURN: 40
-Shade(position=Point(x=2, y=18), owner=3, id=9) Point(x=1, y=16) Point(x=2, y=17)
-Shade(position=Point(x=3, y=12), owner=3, id=6) Point(x=1, y=10) Point(x=2, y=12)
-Shade(position=Point(x=15, y=18), owner=3, id=14) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=17) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=9, y=9), owner=3, id=10) Point(x=7, y=6) Point(x=9, y=8)
-Shade(position=Point(x=17, y=17), owner=3, id=16) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=11, y=12), owner=3, id=13) Point(x=15, y=9) Point(x=11, y=11)
-Shade(position=Point(x=16, y=18), owner=3, id=15) Point(x=17, y=6) Point(x=15, y=18)
 
 [proboj] 
 STARTING TURN: 41
-Shade(position=Point(x=2, y=17), owner=3, id=9) Point(x=1, y=16) Point(x=1, y=17)
-Shade(position=Point(x=2, y=12), owner=3, id=6) Point(x=1, y=10) Point(x=1, y=12)
-Shade(position=Point(x=9, y=8), owner=3, id=10) Point(x=7, y=6) Point(x=9, y=7)
-Shade(position=Point(x=18, y=16), owner=3, id=18) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=15, y=18), owner=3, id=15) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=11, y=11), owner=3, id=13) Point(x=17, y=11) Point(x=11, y=10)
-Shade(position=Point(x=14, y=18), owner=3, id=14) Point(x=15, y=9) Point(x=13, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=17) Point(x=17, y=6) Point(x=17, y=17)
-Shade(position=Point(x=17, y=18), owner=3, id=16) Point(x=18, y=2) Point(x=16, y=18)
 
 [proboj] 
 STARTING TURN: 42
-Shade(position=Point(x=1, y=17), owner=3, id=9) Point(x=1, y=16) Point(x=1, y=16)
-Shade(position=Point(x=1, y=12), owner=3, id=6) Point(x=1, y=10) Point(x=1, y=11)
-Shade(position=Point(x=9, y=7), owner=3, id=10) Point(x=7, y=6) Point(x=9, y=6)
-Shade(position=Point(x=11, y=10), owner=3, id=13) Point(x=15, y=9) Point(x=12, y=10)
-Shade(position=Point(x=14, y=18), owner=3, id=15) Point(x=15, y=13) Point(x=13, y=18)
-Shade(position=Point(x=17, y=17), owner=3, id=17) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=18) Point(x=18, y=11) Point(x=17, y=17)
-Shade(position=Point(x=16, y=18), owner=3, id=16) Point(x=17, y=6) Point(x=15, y=18)
-Shade(position=Point(x=13, y=18), owner=3, id=14) Point(x=10, y=3) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 43
-Shade(position=Point(x=9, y=6), owner=3, id=10) Point(x=7, y=6) Point(x=9, y=5)
-Shade(position=Point(x=1, y=11), owner=3, id=6) Point(x=1, y=8) Point(x=1, y=10)
-Shade(position=Point(x=12, y=10), owner=3, id=13) Point(x=15, y=9) Point(x=13, y=10)
-Shade(position=Point(x=15, y=18), owner=3, id=16) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=17, y=17), owner=3, id=18) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=17, y=18), owner=3, id=17) Point(x=18, y=11) Point(x=16, y=18)
-Shade(position=Point(x=1, y=16), owner=3, id=9) Point(x=0, y=3) Point(x=2, y=16)
-Shade(position=Point(x=13, y=18), owner=3, id=15) Point(x=17, y=6) Point(x=12, y=18)
-Shade(position=Point(x=12, y=18), owner=3, id=14) Point(x=10, y=3) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 44
-Shade(position=Point(x=1, y=10), owner=3, id=6) Point(x=1, y=8) Point(x=1, y=9)
-Shade(position=Point(x=9, y=5), owner=3, id=10) Point(x=10, y=3) Point(x=10, y=5)
-Shade(position=Point(x=13, y=10), owner=3, id=13) Point(x=15, y=9) Point(x=14, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=19) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=16, y=18), owner=3, id=17) Point(x=15, y=13) Point(x=15, y=18)
-Shade(position=Point(x=17, y=18), owner=3, id=18) Point(x=17, y=11) Point(x=16, y=18)
-Shade(position=Point(x=12, y=17), owner=3, id=14) Point(x=8, y=8) Point(x=12, y=16)
-Shade(position=Point(x=2, y=16), owner=3, id=9) Point(x=7, y=6) Point(x=3, y=16)
-Shade(position=Point(x=14, y=18), owner=3, id=16) Point(x=17, y=6) Point(x=13, y=18)
-Shade(position=Point(x=12, y=18), owner=3, id=15) Point(x=10, y=3) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 45
-Shade(position=Point(x=15, y=18), owner=3, id=17) Point(x=15, y=17) Point(x=15, y=17)
-Shade(position=Point(x=10, y=5), owner=3, id=10) Point(x=10, y=3) Point(x=10, y=4)
-Shade(position=Point(x=14, y=10), owner=3, id=13) Point(x=15, y=9) Point(x=15, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=20) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=16, y=18), owner=3, id=18) Point(x=15, y=13) Point(x=15, y=18)
-Shade(position=Point(x=1, y=9), owner=3, id=6) Point(x=0, y=3) Point(x=1, y=10)
-Shade(position=Point(x=18, y=17), owner=3, id=19) Point(x=17, y=11) Point(x=17, y=17)
-Shade(position=Point(x=12, y=16), owner=3, id=14) Point(x=8, y=8) Point(x=11, y=16)
-Shade(position=Point(x=3, y=16), owner=3, id=9) Point(x=7, y=6) Point(x=4, y=16)
-Shade(position=Point(x=12, y=17), owner=3, id=15) Point(x=17, y=6) Point(x=12, y=16)
-Shade(position=Point(x=13, y=18), owner=3, id=16) Point(x=10, y=3) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 46
-Shade(position=Point(x=1, y=10), owner=3, id=6) Point(x=0, y=9) Point(x=0, y=10)
-Shade(position=Point(x=10, y=4), owner=3, id=10) Point(x=10, y=2) Point(x=10, y=3)
-Shade(position=Point(x=15, y=10), owner=3, id=13) Point(x=13, y=9) Point(x=14, y=10)
-Shade(position=Point(x=15, y=17), owner=3, id=17) Point(x=15, y=13) Point(x=15, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=21) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=19) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=11, y=16), owner=3, id=14) Point(x=8, y=8) Point(x=10, y=16)
-Shade(position=Point(x=18, y=17), owner=3, id=20) Point(x=17, y=6) Point(x=17, y=17)
-Shade(position=Point(x=4, y=16), owner=3, id=9) Point(x=7, y=6) Point(x=4, y=17)
-Shade(position=Point(x=12, y=16), owner=3, id=15) Point(x=10, y=1) Point(x=11, y=16)
-Shade(position=Point(x=15, y=18), owner=3, id=18) Point(x=18, y=2) Point(x=14, y=18)
-Shade(position=Point(x=12, y=18), owner=3, id=16) Point(x=7, y=1) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 47
-Shade(position=Point(x=10, y=3), owner=3, id=10) Point(x=10, y=1) Point(x=10, y=2)
-Shade(position=Point(x=14, y=10), owner=3, id=13) Point(x=13, y=9) Point(x=13, y=10)
-Shade(position=Point(x=15, y=18), owner=3, id=17) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=22) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=20) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=0, y=10), owner=3, id=6) Point(x=0, y=3) Point(x=1, y=10)
-Shade(position=Point(x=10, y=16), owner=3, id=14) Point(x=8, y=10) Point(x=9, y=16)
-Shade(position=Point(x=11, y=16), owner=3, id=15) Point(x=8, y=8) Point(x=10, y=16)
-Shade(position=Point(x=18, y=17), owner=3, id=21) Point(x=17, y=6) Point(x=17, y=17)
-Shade(position=Point(x=4, y=17), owner=3, id=9) Point(x=7, y=6) Point(x=4, y=18)
-Shade(position=Point(x=17, y=18), owner=3, id=19) Point(x=18, y=2) Point(x=16, y=18)
-Shade(position=Point(x=12, y=17), owner=3, id=16) Point(x=7, y=1) Point(x=12, y=16)
-Shade(position=Point(x=14, y=18), owner=3, id=18) Point(x=18, y=1) Point(x=13, y=18)
 
 [proboj] 
 STARTING TURN: 48
-Shade(position=Point(x=4, y=18), owner=3, id=9) Point(x=3, y=19) Point(x=4, y=19)
-Shade(position=Point(x=10, y=16), owner=3, id=15) Point(x=10, y=13) Point(x=10, y=15)
-Shade(position=Point(x=10, y=2), owner=3, id=10) Point(x=7, y=1) Point(x=9, y=2)
-Shade(position=Point(x=13, y=10), owner=3, id=13) Point(x=8, y=10) Point(x=12, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=23) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=14, y=18), owner=3, id=17) Point(x=15, y=13) Point(x=13, y=18)
-Shade(position=Point(x=17, y=17), owner=3, id=21) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=1, y=10), owner=3, id=6) Point(x=0, y=3) Point(x=1, y=11)
-Shade(position=Point(x=9, y=16), owner=3, id=14) Point(x=8, y=8) Point(x=8, y=16)
-Shade(position=Point(x=17, y=18), owner=3, id=20) Point(x=17, y=6) Point(x=16, y=18)
-Shade(position=Point(x=12, y=16), owner=3, id=16) Point(x=7, y=6) Point(x=11, y=16)
-Shade(position=Point(x=18, y=17), owner=3, id=22) Point(x=18, y=2) Point(x=17, y=17)
-Shade(position=Point(x=16, y=18), owner=3, id=19) Point(x=18, y=1) Point(x=15, y=18)
-Shade(position=Point(x=13, y=18), owner=3, id=18) Point(x=6, y=0) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 49
-Shade(position=Point(x=1, y=11), owner=3, id=6) Point(x=1, y=11) None
-Shade(position=Point(x=18, y=16), owner=3, id=24) Point(x=19, y=16) Point(x=19, y=16)
-Shade(position=Point(x=10, y=15), owner=3, id=15) Point(x=10, y=13) Point(x=10, y=14)
-Shade(position=Point(x=9, y=2), owner=3, id=10) Point(x=7, y=1) Point(x=9, y=1)
-Shade(position=Point(x=12, y=10), owner=3, id=13) Point(x=8, y=10) Point(x=11, y=10)
-Shade(position=Point(x=15, y=18), owner=3, id=19) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=17, y=17), owner=3, id=22) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=23) Point(x=18, y=11) Point(x=17, y=17)
-Shade(position=Point(x=8, y=16), owner=3, id=14) Point(x=8, y=8) Point(x=8, y=15)
-Shade(position=Point(x=17, y=18), owner=3, id=21) Point(x=17, y=6) Point(x=16, y=18)
-Shade(position=Point(x=11, y=16), owner=3, id=16) Point(x=7, y=6) Point(x=10, y=16)
-Shade(position=Point(x=16, y=18), owner=3, id=20) Point(x=18, y=2) Point(x=15, y=18)
-Shade(position=Point(x=4, y=19), owner=3, id=9) Point(x=0, y=3) Point(x=5, y=19)
-Shade(position=Point(x=13, y=18), owner=3, id=17) Point(x=18, y=1) Point(x=12, y=18)
-Shade(position=Point(x=12, y=18), owner=3, id=18) Point(x=6, y=0) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 50
-Shade(position=Point(x=9, y=1), owner=3, id=10) Point(x=7, y=1) Point(x=8, y=1)
-Shade(position=Point(x=11, y=10), owner=3, id=13) Point(x=8, y=10) Point(x=10, y=10)
-Shade(position=Point(x=1, y=11), owner=3, id=6) Point(x=2, y=13) Point(x=2, y=11)
-Shade(position=Point(x=15, y=18), owner=3, id=20) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=25) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=23) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=8, y=15), owner=3, id=14) Point(x=8, y=8) Point(x=8, y=14)
-Shade(position=Point(x=14, y=18), owner=3, id=19) Point(x=14, y=8) Point(x=13, y=18)
-Shade(position=Point(x=10, y=14), owner=3, id=15) Point(x=7, y=6) Point(x=9, y=14)
-Shade(position=Point(x=17, y=18), owner=3, id=22) Point(x=17, y=6) Point(x=16, y=18)
-Shade(position=Point(x=19, y=16), owner=3, id=24) Point(x=18, y=2) Point(x=19, y=17)
-Shade(position=Point(x=16, y=18), owner=3, id=21) Point(x=18, y=1) Point(x=15, y=18)
-Shade(position=Point(x=5, y=19), owner=3, id=9) Point(x=6, y=0) Point(x=6, y=19)
-Shade(position=Point(x=10, y=16), owner=3, id=16) Point(x=6, y=0) Point(x=9, y=16)
-Shade(position=Point(x=12, y=17), owner=3, id=18) Point(x=0, y=3) Point(x=12, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=17) Point(x=0, y=3) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 51
-Shade(position=Point(x=2, y=11), owner=3, id=6) Point(x=2, y=13) Point(x=2, y=12)
-Shade(position=Point(x=10, y=10), owner=3, id=13) Point(x=8, y=10) Point(x=9, y=10)
-Shade(position=Point(x=8, y=1), owner=3, id=10) Point(x=6, y=0) Point(x=7, y=1)
-Shade(position=Point(x=18, y=16), owner=3, id=26) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=15, y=18), owner=3, id=21) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=22) Point(x=16, y=12) Point(x=15, y=18)
-Shade(position=Point(x=8, y=14), owner=3, id=14) Point(x=8, y=8) Point(x=8, y=13)
-Shade(position=Point(x=19, y=17), owner=3, id=24) Point(x=19, y=10) Point(x=18, y=17)
-Shade(position=Point(x=17, y=18), owner=3, id=23) Point(x=17, y=11) Point(x=16, y=18)
-Shade(position=Point(x=9, y=14), owner=3, id=15) Point(x=7, y=6) Point(x=9, y=13)
-Shade(position=Point(x=14, y=18), owner=3, id=20) Point(x=14, y=8) Point(x=13, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=25) Point(x=17, y=6) Point(x=17, y=17)
-Shade(position=Point(x=6, y=19), owner=3, id=9) Point(x=6, y=0) Point(x=7, y=19)
-Shade(position=Point(x=12, y=16), owner=3, id=18) Point(x=18, y=2) Point(x=11, y=16)
-Shade(position=Point(x=9, y=16), owner=3, id=16) Point(x=0, y=3) Point(x=9, y=15)
-Shade(position=Point(x=12, y=17), owner=3, id=17) Point(x=18, y=1) Point(x=12, y=16)
-Shade(position=Point(x=13, y=18), owner=3, id=19) Point(x=0, y=3) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 52
-Shade(position=Point(x=9, y=15), owner=3, id=16) Point(x=9, y=16) Point(x=9, y=16)
-Shade(position=Point(x=7, y=1), owner=3, id=10) Point(x=6, y=0) Point(x=6, y=1)
-Shade(position=Point(x=9, y=10), owner=3, id=13) Point(x=8, y=8) Point(x=8, y=10)
-Shade(position=Point(x=15, y=18), owner=3, id=22) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=27) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=16, y=18), owner=3, id=23) Point(x=16, y=12) Point(x=15, y=18)
-Shade(position=Point(x=17, y=17), owner=3, id=25) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=8, y=13), owner=3, id=14) Point(x=7, y=6) Point(x=9, y=13)
-Shade(position=Point(x=12, y=16), owner=3, id=17) Point(x=14, y=8) Point(x=11, y=16)
-Shade(position=Point(x=2, y=12), owner=3, id=6) Point(x=1, y=2) Point(x=3, y=12)
-Shade(position=Point(x=9, y=13), owner=3, id=15) Point(x=19, y=10) Point(x=10, y=13)
-Shade(position=Point(x=14, y=18), owner=3, id=21) Point(x=17, y=6) Point(x=13, y=18)
-Shade(position=Point(x=7, y=19), owner=3, id=9) Point(x=6, y=0) Point(x=7, y=18)
-Shade(position=Point(x=11, y=16), owner=3, id=18) Point(x=18, y=2) Point(x=10, y=16)
-Shade(position=Point(x=13, y=18), owner=3, id=20) Point(x=18, y=1) Point(x=12, y=18)
-Shade(position=Point(x=12, y=18), owner=3, id=19) Point(x=0, y=3) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 53
-Shade(position=Point(x=8, y=10), owner=3, id=13) Point(x=8, y=8) Point(x=8, y=9)
-Shade(position=Point(x=6, y=1), owner=3, id=10) Point(x=9, y=2) Point(x=7, y=1)
-Shade(position=Point(x=18, y=16), owner=3, id=28) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=15, y=18), owner=3, id=23) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=17, y=18), owner=3, id=25) Point(x=16, y=12) Point(x=16, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=27) Point(x=17, y=11) Point(x=17, y=17)
-Shade(position=Point(x=10, y=13), owner=3, id=15) Point(x=14, y=8) Point(x=11, y=13)
-Shade(position=Point(x=9, y=13), owner=3, id=14) Point(x=7, y=6) Point(x=9, y=12)
-Shade(position=Point(x=3, y=12), owner=3, id=6) Point(x=0, y=5) Point(x=4, y=12)
-Shade(position=Point(x=14, y=18), owner=3, id=22) Point(x=19, y=10) Point(x=13, y=18)
-Shade(position=Point(x=13, y=18), owner=3, id=21) Point(x=17, y=6) Point(x=12, y=18)
-Shade(position=Point(x=12, y=17), owner=3, id=19) Point(x=18, y=2) Point(x=12, y=16)
-Shade(position=Point(x=11, y=16), owner=3, id=17) Point(x=18, y=1) Point(x=10, y=16)
-Shade(position=Point(x=9, y=16), owner=3, id=16) Point(x=0, y=3) Point(x=9, y=15)
-Shade(position=Point(x=7, y=18), owner=3, id=9) Point(x=0, y=3) Point(x=7, y=17)
-Shade(position=Point(x=10, y=16), owner=3, id=18) Point(x=1, y=2) Point(x=9, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=20) Point(x=0, y=2) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 54
-Shade(position=Point(x=7, y=1), owner=3, id=10) Point(x=9, y=2) Point(x=8, y=1)
-Shade(position=Point(x=8, y=9), owner=3, id=13) Point(x=7, y=6) Point(x=9, y=9)
-Shade(position=Point(x=11, y=13), owner=3, id=15) Point(x=15, y=13) Point(x=11, y=12)
-Shade(position=Point(x=18, y=16), owner=3, id=29) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=27) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=25) Point(x=16, y=12) Point(x=15, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=28) Point(x=19, y=10) Point(x=17, y=17)
-Shade(position=Point(x=4, y=12), owner=3, id=6) Point(x=3, y=5) Point(x=5, y=12)
-Shade(position=Point(x=9, y=12), owner=3, id=14) Point(x=14, y=8) Point(x=10, y=12)
-Shade(position=Point(x=12, y=16), owner=3, id=19) Point(x=15, y=8) Point(x=11, y=16)
-Shade(position=Point(x=14, y=18), owner=3, id=23) Point(x=17, y=6) Point(x=13, y=18)
-Shade(position=Point(x=7, y=17), owner=3, id=9) Point(x=0, y=5) Point(x=7, y=16)
-Shade(position=Point(x=12, y=17), owner=3, id=20) Point(x=18, y=2) Point(x=12, y=16)
-Shade(position=Point(x=9, y=15), owner=3, id=16) Point(x=1, y=2) Point(x=9, y=14)
-Shade(position=Point(x=9, y=16), owner=3, id=18) Point(x=0, y=3) Point(x=9, y=15)
-Shade(position=Point(x=13, y=18), owner=3, id=22) Point(x=18, y=1) Point(x=12, y=18)
-Shade(position=Point(x=10, y=16), owner=3, id=17) Point(x=0, y=3) Point(x=9, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=21) Point(x=1, y=1) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 55
-Shade(position=Point(x=12, y=16), owner=3, id=20) Point(x=12, y=15) Point(x=12, y=15)
-Shade(position=Point(x=8, y=1), owner=3, id=10) Point(x=9, y=2) Point(x=9, y=1)
-Shade(position=Point(x=11, y=12), owner=3, id=15) Point(x=15, y=13) Point(x=11, y=11)
-Shade(position=Point(x=9, y=9), owner=3, id=13) Point(x=7, y=6) Point(x=9, y=8)
-Shade(position=Point(x=18, y=16), owner=3, id=30) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=28) Point(x=16, y=12) Point(x=17, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=29) Point(x=17, y=11) Point(x=17, y=17)
-Shade(position=Point(x=10, y=12), owner=3, id=14) Point(x=14, y=8) Point(x=11, y=12)
-Shade(position=Point(x=5, y=12), owner=3, id=6) Point(x=3, y=5) Point(x=6, y=12)
-Shade(position=Point(x=15, y=18), owner=3, id=25) Point(x=15, y=8) Point(x=14, y=18)
-Shade(position=Point(x=17, y=18), owner=3, id=27) Point(x=19, y=10) Point(x=16, y=18)
-Shade(position=Point(x=9, y=14), owner=3, id=16) Point(x=17, y=6) Point(x=10, y=14)
-Shade(position=Point(x=7, y=16), owner=3, id=9) Point(x=0, y=5) Point(x=8, y=16)
-Shade(position=Point(x=12, y=17), owner=3, id=21) Point(x=18, y=2) Point(x=12, y=16)
-Shade(position=Point(x=9, y=15), owner=3, id=18) Point(x=0, y=3) Point(x=9, y=14)
-Shade(position=Point(x=11, y=16), owner=3, id=19) Point(x=18, y=1) Point(x=10, y=16)
-Shade(position=Point(x=9, y=16), owner=3, id=17) Point(x=1, y=2) Point(x=9, y=15)
-Shade(position=Point(x=12, y=18), owner=3, id=22) Point(x=0, y=3) Point(x=12, y=17)
-Shade(position=Point(x=13, y=18), owner=3, id=23) Point(x=1, y=1) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 56
-Shade(position=Point(x=11, y=11), owner=3, id=15) Point(x=11, y=11) None
-Shade(position=Point(x=9, y=8), owner=3, id=13) Point(x=7, y=6) Point(x=9, y=7)
-Shade(position=Point(x=18, y=16), owner=3, id=31) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=12, y=15), owner=3, id=20) Point(x=15, y=13) Point(x=11, y=15)
-Shade(position=Point(x=11, y=12), owner=3, id=14) Point(x=16, y=12) Point(x=11, y=11)
-Shade(position=Point(x=17, y=17), owner=3, id=29) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=9, y=1), owner=3, id=10) Point(x=1, y=1) Point(x=8, y=1)
-Shade(position=Point(x=18, y=17), owner=3, id=30) Point(x=19, y=10) Point(x=17, y=17)
-Shade(position=Point(x=6, y=12), owner=3, id=6) Point(x=3, y=5) Point(x=6, y=11)
-Shade(position=Point(x=10, y=14), owner=3, id=16) Point(x=14, y=8) Point(x=11, y=14)
-Shade(position=Point(x=16, y=18), owner=3, id=27) Point(x=15, y=8) Point(x=15, y=18)
-Shade(position=Point(x=17, y=18), owner=3, id=28) Point(x=17, y=6) Point(x=16, y=18)
-Shade(position=Point(x=9, y=14), owner=3, id=18) Point(x=0, y=5) Point(x=9, y=13)
-Shade(position=Point(x=12, y=16), owner=3, id=21) Point(x=18, y=2) Point(x=11, y=16)
-Shade(position=Point(x=9, y=15), owner=3, id=17) Point(x=1, y=2) Point(x=9, y=14)
-Shade(position=Point(x=14, y=18), owner=3, id=25) Point(x=18, y=1) Point(x=13, y=18)
-Shade(position=Point(x=8, y=16), owner=3, id=9) Point(x=0, y=3) Point(x=9, y=16)
-Shade(position=Point(x=10, y=16), owner=3, id=19) Point(x=0, y=3) Point(x=9, y=16)
-Shade(position=Point(x=12, y=17), owner=3, id=22) Point(x=0, y=2) Point(x=12, y=16)
 
 [proboj] 
 STARTING TURN: 57
-Shade(position=Point(x=11, y=14), owner=3, id=16) Point(x=11, y=11) Point(x=11, y=13)
-Shade(position=Point(x=9, y=7), owner=3, id=13) Point(x=7, y=6) Point(x=9, y=6)
-Shade(position=Point(x=15, y=18), owner=3, id=27) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=32) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=16, y=18), owner=3, id=28) Point(x=16, y=12) Point(x=15, y=18)
-Shade(position=Point(x=17, y=17), owner=3, id=30) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=8, y=1), owner=3, id=10) Point(x=1, y=1) Point(x=7, y=1)
-Shade(position=Point(x=18, y=17), owner=3, id=31) Point(x=19, y=10) Point(x=17, y=17)
-Shade(position=Point(x=6, y=11), owner=3, id=6) Point(x=3, y=5) Point(x=6, y=10)
-Shade(position=Point(x=9, y=13), owner=3, id=18) Point(x=14, y=8) Point(x=10, y=13)
-Shade(position=Point(x=11, y=15), owner=3, id=20) Point(x=15, y=8) Point(x=11, y=14)
-Shade(position=Point(x=17, y=18), owner=3, id=29) Point(x=17, y=6) Point(x=16, y=18)
-Shade(position=Point(x=12, y=16), owner=3, id=22) Point(x=17, y=3) Point(x=11, y=16)
-Shade(position=Point(x=9, y=14), owner=3, id=17) Point(x=0, y=5) Point(x=9, y=13)
-Shade(position=Point(x=13, y=18), owner=3, id=25) Point(x=18, y=2) Point(x=12, y=18)
-Shade(position=Point(x=11, y=16), owner=3, id=21) Point(x=18, y=1) Point(x=10, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=23) Point(x=1, y=2) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 58
-Shade(position=Point(x=11, y=13), owner=3, id=16) Point(x=11, y=11) Point(x=11, y=12)
-Shade(position=Point(x=9, y=6), owner=3, id=13) Point(x=7, y=6) Point(x=9, y=5)
-Shade(position=Point(x=18, y=16), owner=3, id=33) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=15, y=18), owner=3, id=28) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=17, y=17), owner=3, id=31) Point(x=16, y=12) Point(x=17, y=18)
-Shade(position=Point(x=7, y=1), owner=3, id=10) Point(x=1, y=1) Point(x=7, y=2)
-Shade(position=Point(x=17, y=18), owner=3, id=30) Point(x=17, y=11) Point(x=16, y=18)
-Shade(position=Point(x=6, y=10), owner=3, id=6) Point(x=3, y=5) Point(x=7, y=10)
-Shade(position=Point(x=18, y=17), owner=3, id=32) Point(x=19, y=10) Point(x=17, y=17)
-Shade(position=Point(x=11, y=14), owner=3, id=20) Point(x=14, y=8) Point(x=11, y=13)
-Shade(position=Point(x=10, y=13), owner=3, id=18) Point(x=15, y=8) Point(x=11, y=13)
-Shade(position=Point(x=16, y=18), owner=3, id=29) Point(x=17, y=6) Point(x=15, y=18)
-Shade(position=Point(x=9, y=13), owner=3, id=17) Point(x=0, y=5) Point(x=9, y=12)
-Shade(position=Point(x=14, y=18), owner=3, id=27) Point(x=17, y=3) Point(x=13, y=18)
-Shade(position=Point(x=12, y=17), owner=3, id=23) Point(x=18, y=2) Point(x=12, y=16)
-Shade(position=Point(x=11, y=16), owner=3, id=22) Point(x=18, y=1) Point(x=10, y=16)
-Shade(position=Point(x=10, y=16), owner=3, id=21) Point(x=0, y=3) Point(x=9, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=25) Point(x=0, y=3) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 59
-Shade(position=Point(x=9, y=5), owner=3, id=13) Point(x=7, y=6) Point(x=9, y=4)
-Shade(position=Point(x=7, y=10), owner=3, id=6) Point(x=4, y=11) Point(x=6, y=10)
-Shade(position=Point(x=15, y=18), owner=3, id=29) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=11, y=12), owner=3, id=16) Point(x=16, y=12) Point(x=11, y=11)
-Shade(position=Point(x=18, y=16), owner=3, id=34) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=32) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=7, y=2), owner=3, id=10) Point(x=1, y=2) Point(x=7, y=3)
-Shade(position=Point(x=18, y=17), owner=3, id=33) Point(x=19, y=10) Point(x=17, y=17)
-Shade(position=Point(x=9, y=12), owner=3, id=17) Point(x=14, y=8) Point(x=10, y=12)
-Shade(position=Point(x=16, y=18), owner=3, id=30) Point(x=15, y=8) Point(x=15, y=18)
-Shade(position=Point(x=17, y=18), owner=3, id=31) Point(x=17, y=6) Point(x=16, y=18)
-Shade(position=Point(x=9, y=16), owner=3, id=21) Point(x=3, y=5) Point(x=9, y=15)
-Shade(position=Point(x=12, y=16), owner=3, id=23) Point(x=17, y=3) Point(x=11, y=16)
-Shade(position=Point(x=14, y=18), owner=3, id=28) Point(x=18, y=2) Point(x=13, y=18)
-Shade(position=Point(x=10, y=16), owner=3, id=22) Point(x=0, y=5) Point(x=9, y=16)
-Shade(position=Point(x=12, y=17), owner=3, id=25) Point(x=18, y=1) Point(x=12, y=16)
-Shade(position=Point(x=13, y=18), owner=3, id=27) Point(x=0, y=3) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 60
-Shade(position=Point(x=7, y=3), owner=3, id=10) Point(x=7, y=6) Point(x=7, y=4)
-Shade(position=Point(x=6, y=10), owner=3, id=6) Point(x=4, y=11) Point(x=6, y=11)
-Shade(position=Point(x=15, y=18), owner=3, id=30) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=35) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=11, y=11), owner=3, id=16) Point(x=14, y=8) Point(x=11, y=10)
-Shade(position=Point(x=17, y=17), owner=3, id=33) Point(x=16, y=12) Point(x=17, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=34) Point(x=17, y=11) Point(x=17, y=17)
-Shade(position=Point(x=9, y=4), owner=3, id=13) Point(x=3, y=5) Point(x=9, y=3)
-Shade(position=Point(x=10, y=12), owner=3, id=17) Point(x=15, y=8) Point(x=11, y=12)
-Shade(position=Point(x=17, y=18), owner=3, id=32) Point(x=19, y=10) Point(x=16, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=31) Point(x=17, y=6) Point(x=15, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=29) Point(x=17, y=3) Point(x=13, y=18)
-Shade(position=Point(x=9, y=15), owner=3, id=21) Point(x=0, y=5) Point(x=9, y=14)
-Shade(position=Point(x=12, y=16), owner=3, id=25) Point(x=18, y=2) Point(x=11, y=16)
-Shade(position=Point(x=13, y=18), owner=3, id=28) Point(x=18, y=1) Point(x=12, y=18)
-Shade(position=Point(x=9, y=16), owner=3, id=22) Point(x=1, y=2) Point(x=9, y=15)
-Shade(position=Point(x=11, y=16), owner=3, id=23) Point(x=0, y=3) Point(x=10, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=27) Point(x=0, y=3) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 61
-Shade(position=Point(x=6, y=11), owner=3, id=6) Point(x=4, y=11) Point(x=5, y=11)
-Shade(position=Point(x=7, y=4), owner=3, id=10) Point(x=7, y=6) Point(x=7, y=5)
-Shade(position=Point(x=11, y=12), owner=3, id=17) Point(x=16, y=12) Point(x=11, y=11)
-Shade(position=Point(x=11, y=10), owner=3, id=16) Point(x=14, y=8) Point(x=12, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=36) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=15, y=18), owner=3, id=31) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=17, y=17), owner=3, id=34) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=35) Point(x=19, y=10) Point(x=17, y=17)
-Shade(position=Point(x=9, y=3), owner=3, id=13) Point(x=3, y=5) Point(x=9, y=2)
-Shade(position=Point(x=14, y=18), owner=3, id=30) Point(x=15, y=8) Point(x=13, y=18)
-Shade(position=Point(x=17, y=18), owner=3, id=33) Point(x=17, y=6) Point(x=16, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=32) Point(x=17, y=3) Point(x=15, y=18)
-Shade(position=Point(x=9, y=14), owner=3, id=21) Point(x=0, y=5) Point(x=9, y=13)
-Shade(position=Point(x=9, y=15), owner=3, id=22) Point(x=0, y=3) Point(x=9, y=14)
-Shade(position=Point(x=13, y=18), owner=3, id=29) Point(x=18, y=2) Point(x=12, y=18)
-Shade(position=Point(x=11, y=16), owner=3, id=25) Point(x=18, y=1) Point(x=10, y=16)
-Shade(position=Point(x=10, y=16), owner=3, id=23) Point(x=0, y=3) Point(x=9, y=16)
-Shade(position=Point(x=12, y=17), owner=3, id=27) Point(x=1, y=2) Point(x=12, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=28) Point(x=0, y=2) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 62
-Shade(position=Point(x=9, y=13), owner=3, id=21) Point(x=13, y=13) Point(x=10, y=13)
-Shade(position=Point(x=7, y=5), owner=3, id=10) Point(x=3, y=5) Point(x=6, y=5)
-Shade(position=Point(x=12, y=10), owner=3, id=16) Point(x=14, y=8) Point(x=13, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=37) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=15, y=18), owner=3, id=32) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=11, y=11), owner=3, id=17) Point(x=16, y=12) Point(x=11, y=10)
-Shade(position=Point(x=17, y=17), owner=3, id=35) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=9, y=2), owner=3, id=13) Point(x=1, y=2) Point(x=9, y=1)
-Shade(position=Point(x=18, y=17), owner=3, id=36) Point(x=19, y=10) Point(x=17, y=17)
-Shade(position=Point(x=5, y=11), owner=3, id=6) Point(x=0, y=5) Point(x=6, y=11)
-Shade(position=Point(x=14, y=18), owner=3, id=31) Point(x=15, y=8) Point(x=13, y=18)
-Shade(position=Point(x=17, y=18), owner=3, id=34) Point(x=17, y=6) Point(x=16, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=33) Point(x=17, y=3) Point(x=15, y=18)
-Shade(position=Point(x=9, y=14), owner=3, id=22) Point(x=0, y=3) Point(x=9, y=13)
-Shade(position=Point(x=12, y=16), owner=3, id=27) Point(x=18, y=2) Point(x=11, y=16)
-Shade(position=Point(x=12, y=17), owner=3, id=28) Point(x=18, y=1) Point(x=12, y=16)
-Shade(position=Point(x=9, y=16), owner=3, id=23) Point(x=0, y=3) Point(x=9, y=15)
-Shade(position=Point(x=10, y=16), owner=3, id=25) Point(x=1, y=1) Point(x=9, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=29) Point(x=0, y=2) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 63
-Shade(position=Point(x=10, y=13), owner=3, id=21) Point(x=13, y=13) Point(x=11, y=13)
-Shade(position=Point(x=13, y=10), owner=3, id=16) Point(x=14, y=8) Point(x=14, y=10)
-Shade(position=Point(x=6, y=5), owner=3, id=10) Point(x=3, y=5) Point(x=5, y=5)
-Shade(position=Point(x=18, y=16), owner=3, id=38) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=15, y=18), owner=3, id=33) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=17, y=17), owner=3, id=36) Point(x=16, y=12) Point(x=17, y=18)
-Shade(position=Point(x=11, y=10), owner=3, id=17) Point(x=15, y=8) Point(x=12, y=10)
-Shade(position=Point(x=18, y=17), owner=3, id=37) Point(x=17, y=11) Point(x=17, y=17)
-Shade(position=Point(x=9, y=1), owner=3, id=13) Point(x=1, y=1) Point(x=8, y=1)
-Shade(position=Point(x=17, y=18), owner=3, id=35) Point(x=19, y=10) Point(x=16, y=18)
-Shade(position=Point(x=6, y=11), owner=3, id=6) Point(x=0, y=5) Point(x=6, y=10)
-Shade(position=Point(x=16, y=18), owner=3, id=34) Point(x=17, y=6) Point(x=15, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=32) Point(x=18, y=6) Point(x=13, y=18)
-Shade(position=Point(x=12, y=16), owner=3, id=28) Point(x=17, y=3) Point(x=11, y=16)
-Shade(position=Point(x=9, y=13), owner=3, id=22) Point(x=0, y=3) Point(x=9, y=12)
-Shade(position=Point(x=9, y=15), owner=3, id=23) Point(x=1, y=2) Point(x=9, y=14)
-Shade(position=Point(x=11, y=16), owner=3, id=27) Point(x=18, y=2) Point(x=10, y=16)
-Shade(position=Point(x=9, y=16), owner=3, id=25) Point(x=0, y=3) Point(x=9, y=15)
-Shade(position=Point(x=12, y=17), owner=3, id=29) Point(x=18, y=1) Point(x=12, y=16)
 
 [proboj] 
 STARTING TURN: 64
-Shade(position=Point(x=14, y=10), owner=3, id=16) Point(x=14, y=8) Point(x=14, y=9)
-Shade(position=Point(x=11, y=13), owner=3, id=21) Point(x=13, y=13) Point(x=11, y=12)
-Shade(position=Point(x=5, y=5), owner=3, id=10) Point(x=3, y=5) Point(x=4, y=5)
-Shade(position=Point(x=12, y=10), owner=3, id=17) Point(x=15, y=8) Point(x=13, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=39) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=15, y=18), owner=3, id=34) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=35) Point(x=16, y=12) Point(x=15, y=18)
-Shade(position=Point(x=17, y=17), owner=3, id=37) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=8, y=1), owner=3, id=13) Point(x=1, y=1) Point(x=7, y=1)
-Shade(position=Point(x=18, y=17), owner=3, id=38) Point(x=19, y=10) Point(x=17, y=17)
-Shade(position=Point(x=6, y=10), owner=3, id=6) Point(x=0, y=5) Point(x=7, y=10)
-Shade(position=Point(x=17, y=18), owner=3, id=36) Point(x=17, y=6) Point(x=16, y=18)
-Shade(position=Point(x=9, y=12), owner=3, id=22) Point(x=18, y=6) Point(x=10, y=12)
-Shade(position=Point(x=14, y=18), owner=3, id=33) Point(x=17, y=3) Point(x=13, y=18)
-Shade(position=Point(x=12, y=16), owner=3, id=29) Point(x=18, y=2) Point(x=11, y=16)
-Shade(position=Point(x=9, y=14), owner=3, id=23) Point(x=0, y=3) Point(x=9, y=13)
-Shade(position=Point(x=9, y=15), owner=3, id=25) Point(x=1, y=2) Point(x=9, y=14)
-Shade(position=Point(x=13, y=18), owner=3, id=32) Point(x=18, y=1) Point(x=12, y=18)
-Shade(position=Point(x=10, y=16), owner=3, id=27) Point(x=0, y=3) Point(x=9, y=16)
-Shade(position=Point(x=11, y=16), owner=3, id=28) Point(x=0, y=2) Point(x=10, y=16)
 
 [proboj] 
 STARTING TURN: 65
-Shade(position=Point(x=11, y=12), owner=3, id=21) Point(x=11, y=11) Point(x=11, y=11)
-Shade(position=Point(x=14, y=9), owner=3, id=16) Point(x=15, y=8) Point(x=15, y=9)
-Shade(position=Point(x=13, y=10), owner=3, id=17) Point(x=13, y=13) Point(x=13, y=11)
-Shade(position=Point(x=4, y=5), owner=3, id=10) Point(x=0, y=5) Point(x=3, y=5)
-Shade(position=Point(x=18, y=16), owner=3, id=40) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=15, y=18), owner=3, id=35) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=10, y=12), owner=3, id=22) Point(x=16, y=12) Point(x=11, y=12)
-Shade(position=Point(x=17, y=17), owner=3, id=38) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=7, y=1), owner=3, id=13) Point(x=1, y=1) Point(x=7, y=2)
-Shade(position=Point(x=18, y=17), owner=3, id=39) Point(x=19, y=10) Point(x=17, y=17)
-Shade(position=Point(x=17, y=18), owner=3, id=37) Point(x=17, y=6) Point(x=16, y=18)
-Shade(position=Point(x=7, y=10), owner=3, id=6) Point(x=0, y=3) Point(x=8, y=10)
-Shade(position=Point(x=16, y=18), owner=3, id=36) Point(x=18, y=6) Point(x=15, y=18)
-Shade(position=Point(x=9, y=13), owner=3, id=23) Point(x=17, y=3) Point(x=10, y=13)
-Shade(position=Point(x=9, y=14), owner=3, id=25) Point(x=1, y=2) Point(x=9, y=13)
-Shade(position=Point(x=14, y=18), owner=3, id=34) Point(x=18, y=2) Point(x=13, y=18)
-Shade(position=Point(x=13, y=18), owner=3, id=33) Point(x=18, y=1) Point(x=12, y=18)
-Shade(position=Point(x=9, y=16), owner=3, id=27) Point(x=0, y=3) Point(x=9, y=15)
-Shade(position=Point(x=10, y=16), owner=3, id=28) Point(x=0, y=2) Point(x=9, y=16)
 
 [proboj] 
 STARTING TURN: 66
-Shade(position=Point(x=13, y=11), owner=3, id=17) Point(x=13, y=13) Point(x=13, y=12)
-Shade(position=Point(x=15, y=9), owner=3, id=16) Point(x=13, y=9) Point(x=14, y=9)
-Shade(position=Point(x=3, y=5), owner=3, id=10) Point(x=0, y=5) Point(x=2, y=5)
-Shade(position=Point(x=10, y=13), owner=3, id=23) Point(x=15, y=13) Point(x=11, y=13)
-Shade(position=Point(x=11, y=12), owner=3, id=22) Point(x=16, y=12) Point(x=11, y=11)
-Shade(position=Point(x=18, y=16), owner=3, id=41) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=11, y=11), owner=3, id=21) Point(x=17, y=11) Point(x=11, y=10)
-Shade(position=Point(x=7, y=2), owner=3, id=13) Point(x=1, y=2) Point(x=7, y=3)
-Shade(position=Point(x=9, y=16), owner=3, id=28) Point(x=3, y=17) Point(x=8, y=16)
-Shade(position=Point(x=18, y=17), owner=3, id=40) Point(x=19, y=10) Point(x=17, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=39) Point(x=17, y=6) Point(x=17, y=18)
-Shade(position=Point(x=17, y=18), owner=3, id=38) Point(x=18, y=6) Point(x=16, y=18)
-Shade(position=Point(x=8, y=10), owner=3, id=6) Point(x=0, y=3) Point(x=9, y=10)
-Shade(position=Point(x=16, y=18), owner=3, id=37) Point(x=17, y=3) Point(x=15, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=36) Point(x=18, y=2) Point(x=14, y=18)
-Shade(position=Point(x=9, y=13), owner=3, id=25) Point(x=0, y=3) Point(x=9, y=12)
-Shade(position=Point(x=14, y=18), owner=3, id=35) Point(x=18, y=1) Point(x=13, y=18)
-Shade(position=Point(x=9, y=15), owner=3, id=27) Point(x=1, y=1) Point(x=9, y=14)
-Shade(position=Point(x=11, y=16), owner=3, id=29) Point(x=0, y=2) Point(x=10, y=16)
 
 [proboj] 
 STARTING TURN: 67
-Shade(position=Point(x=2, y=5), owner=3, id=10) Point(x=0, y=5) Point(x=1, y=5)
-Shade(position=Point(x=14, y=9), owner=3, id=16) Point(x=12, y=8) Point(x=13, y=9)
-Shade(position=Point(x=13, y=12), owner=3, id=17) Point(x=16, y=12) Point(x=14, y=12)
-Shade(position=Point(x=10, y=16), owner=3, id=29) Point(x=11, y=19) Point(x=11, y=16)
-Shade(position=Point(x=11, y=13), owner=3, id=23) Point(x=15, y=13) Point(x=11, y=12)
-Shade(position=Point(x=18, y=16), owner=3, id=42) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=8, y=16), owner=3, id=28) Point(x=3, y=17) Point(x=7, y=16)
-Shade(position=Point(x=17, y=17), owner=3, id=40) Point(x=17, y=11) Point(x=17, y=18)
-Shade(position=Point(x=7, y=3), owner=3, id=13) Point(x=1, y=2) Point(x=7, y=4)
-Shade(position=Point(x=11, y=10), owner=3, id=21) Point(x=19, y=10) Point(x=12, y=10)
-Shade(position=Point(x=18, y=17), owner=3, id=41) Point(x=18, y=6) Point(x=17, y=17)
-Shade(position=Point(x=11, y=11), owner=3, id=22) Point(x=17, y=6) Point(x=10, y=11)
-Shade(position=Point(x=9, y=10), owner=3, id=6) Point(x=17, y=3) Point(x=10, y=10)
-Shade(position=Point(x=17, y=18), owner=3, id=39) Point(x=18, y=2) Point(x=16, y=18)
-Shade(position=Point(x=9, y=12), owner=3, id=25) Point(x=0, y=3) Point(x=9, y=11)
-Shade(position=Point(x=16, y=18), owner=3, id=38) Point(x=18, y=1) Point(x=15, y=18)
-Shade(position=Point(x=9, y=14), owner=3, id=27) Point(x=0, y=3) Point(x=9, y=13)
-Shade(position=Point(x=14, y=18), owner=3, id=36) Point(x=0, y=2) Point(x=13, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=37) Point(x=1, y=1) Point(x=14, y=18)
 
 [proboj] 
 STARTING TURN: 68
-Shade(position=Point(x=18, y=17), owner=3, id=42) Point(x=18, y=17) None
-Shade(position=Point(x=14, y=12), owner=3, id=17) Point(x=16, y=12) Point(x=15, y=12)
-Shade(position=Point(x=12, y=10), owner=3, id=21) Point(x=12, y=8) Point(x=12, y=9)
-Shade(position=Point(x=1, y=5), owner=3, id=10) Point(x=1, y=2) Point(x=1, y=4)
-Shade(position=Point(x=13, y=18), owner=3, id=36) Point(x=11, y=19) Point(x=13, y=19)
-Shade(position=Point(x=15, y=18), owner=3, id=38) Point(x=15, y=13) Point(x=14, y=18)
-Shade(position=Point(x=7, y=16), owner=3, id=28) Point(x=3, y=17) Point(x=7, y=17)
-Shade(position=Point(x=18, y=16), owner=3, id=43) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=13, y=9), owner=3, id=16) Point(x=17, y=11) Point(x=14, y=9)
-Shade(position=Point(x=7, y=4), owner=3, id=13) Point(x=0, y=3) Point(x=7, y=5)
-Shade(position=Point(x=10, y=10), owner=3, id=6) Point(x=19, y=10) Point(x=11, y=10)
-Shade(position=Point(x=17, y=17), owner=3, id=41) Point(x=17, y=6) Point(x=17, y=18)
-Shade(position=Point(x=10, y=11), owner=3, id=22) Point(x=18, y=6) Point(x=10, y=10)
-Shade(position=Point(x=17, y=18), owner=3, id=40) Point(x=17, y=3) Point(x=16, y=18)
-Shade(position=Point(x=11, y=12), owner=3, id=23) Point(x=18, y=2) Point(x=10, y=12)
-Shade(position=Point(x=9, y=11), owner=3, id=25) Point(x=0, y=3) Point(x=9, y=10)
-Shade(position=Point(x=16, y=18), owner=3, id=39) Point(x=18, y=1) Point(x=15, y=18)
-Shade(position=Point(x=9, y=13), owner=3, id=27) Point(x=0, y=2) Point(x=9, y=12)
-Shade(position=Point(x=11, y=16), owner=3, id=29) Point(x=1, y=1) Point(x=10, y=16)
 
 [proboj] 
 STARTING TURN: 69
-Shade(position=Point(x=13, y=19), owner=3, id=36) Point(x=11, y=19) Point(x=12, y=19)
-Shade(position=Point(x=15, y=12), owner=3, id=17) Point(x=14, y=13) Point(x=15, y=13)
-Shade(position=Point(x=1, y=4), owner=3, id=10) Point(x=0, y=3) Point(x=0, y=4)
-Shade(position=Point(x=7, y=17), owner=3, id=28) Point(x=3, y=17) Point(x=7, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=44) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=14, y=9), owner=3, id=16) Point(x=17, y=11) Point(x=15, y=9)
-Shade(position=Point(x=7, y=5), owner=3, id=13) Point(x=3, y=2) Point(x=6, y=5)
-Shade(position=Point(x=12, y=9), owner=3, id=21) Point(x=19, y=10) Point(x=13, y=9)
-Shade(position=Point(x=11, y=10), owner=3, id=6) Point(x=17, y=6) Point(x=10, y=10)
-Shade(position=Point(x=10, y=10), owner=3, id=22) Point(x=18, y=6) Point(x=10, y=9)
-Shade(position=Point(x=9, y=10), owner=3, id=25) Point(x=0, y=6) Point(x=9, y=9)
-Shade(position=Point(x=17, y=18), owner=3, id=41) Point(x=17, y=3) Point(x=16, y=18)
-Shade(position=Point(x=9, y=12), owner=3, id=27) Point(x=0, y=3) Point(x=9, y=11)
-Shade(position=Point(x=16, y=18), owner=3, id=40) Point(x=18, y=2) Point(x=15, y=18)
-Shade(position=Point(x=10, y=12), owner=3, id=23) Point(x=18, y=1) Point(x=10, y=11)
-Shade(position=Point(x=10, y=16), owner=3, id=29) Point(x=0, y=2) Point(x=9, y=16)
-Shade(position=Point(x=15, y=18), owner=3, id=39) Point(x=1, y=1) Point(x=14, y=18)
 
 [proboj] 
 STARTING TURN: 70
-Shade(position=Point(x=18, y=17), owner=3, id=44) Point(x=18, y=17) None
-Shade(position=Point(x=13, y=9), owner=3, id=21) Point(x=12, y=9) Point(x=12, y=9)
-Shade(position=Point(x=15, y=9), owner=3, id=16) Point(x=17, y=11) Point(x=16, y=9)
-Shade(position=Point(x=7, y=18), owner=3, id=28) Point(x=3, y=17) Point(x=6, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=46) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=6, y=5), owner=3, id=13) Point(x=3, y=2) Point(x=5, y=5)
-Shade(position=Point(x=15, y=13), owner=3, id=17) Point(x=19, y=11) Point(x=16, y=13)
-Shade(position=Point(x=10, y=10), owner=3, id=6) Point(x=19, y=10) Point(x=11, y=10)
-Shade(position=Point(x=10, y=9), owner=3, id=22) Point(x=17, y=6) Point(x=10, y=8)
-Shade(position=Point(x=9, y=9), owner=3, id=25) Point(x=18, y=6) Point(x=10, y=9)
-Shade(position=Point(x=9, y=11), owner=3, id=27) Point(x=0, y=6) Point(x=9, y=10)
-Shade(position=Point(x=10, y=11), owner=3, id=23) Point(x=17, y=3) Point(x=10, y=10)
-Shade(position=Point(x=16, y=18), owner=3, id=41) Point(x=18, y=2) Point(x=15, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=40) Point(x=18, y=1) Point(x=14, y=18)
-Shade(position=Point(x=9, y=16), owner=3, id=29) Point(x=0, y=3) Point(x=9, y=15)
-Shade(position=Point(x=12, y=19), owner=3, id=36) Point(x=0, y=3) Point(x=12, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=39) Point(x=1, y=1) Point(x=13, y=18)
 
 [proboj] 
 STARTING TURN: 71
-Shade(position=Point(x=16, y=9), owner=3, id=16) Point(x=16, y=10) Point(x=16, y=10)
-Shade(position=Point(x=9, y=10), owner=3, id=27) Point(x=8, y=11) Point(x=9, y=11)
-Shade(position=Point(x=16, y=13), owner=3, id=17) Point(x=17, y=11) Point(x=17, y=13)
-Shade(position=Point(x=6, y=18), owner=3, id=28) Point(x=3, y=17) Point(x=5, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=47) Point(x=18, y=11) Point(x=18, y=17)
-Shade(position=Point(x=5, y=5), owner=3, id=13) Point(x=3, y=2) Point(x=4, y=5)
-Shade(position=Point(x=12, y=9), owner=3, id=21) Point(x=17, y=6) Point(x=11, y=9)
-Shade(position=Point(x=11, y=10), owner=3, id=6) Point(x=19, y=10) Point(x=12, y=10)
-Shade(position=Point(x=10, y=10), owner=3, id=23) Point(x=19, y=11) Point(x=11, y=10)
-Shade(position=Point(x=10, y=8), owner=3, id=22) Point(x=18, y=6) Point(x=10, y=7)
-Shade(position=Point(x=10, y=9), owner=3, id=25) Point(x=0, y=6) Point(x=9, y=9)
-Shade(position=Point(x=15, y=18), owner=3, id=41) Point(x=17, y=3) Point(x=14, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=40) Point(x=18, y=2) Point(x=13, y=18)
-Shade(position=Point(x=9, y=15), owner=3, id=29) Point(x=0, y=3) Point(x=9, y=14)
-Shade(position=Point(x=13, y=18), owner=3, id=39) Point(x=18, y=1) Point(x=12, y=18)
-Shade(position=Point(x=12, y=18), owner=3, id=36) Point(x=0, y=3) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 72
-Shade(position=Point(x=16, y=10), owner=3, id=16) Point(x=17, y=11) Point(x=16, y=11)
-Shade(position=Point(x=17, y=13), owner=3, id=17) Point(x=18, y=11) Point(x=18, y=13)
-Shade(position=Point(x=5, y=18), owner=3, id=28) Point(x=3, y=17) Point(x=4, y=18)
-Shade(position=Point(x=4, y=5), owner=3, id=13) Point(x=3, y=2) Point(x=3, y=5)
-Shade(position=Point(x=18, y=16), owner=3, id=48) Point(x=19, y=11) Point(x=18, y=17)
-Shade(position=Point(x=12, y=10), owner=3, id=6) Point(x=19, y=10) Point(x=13, y=10)
-Shade(position=Point(x=10, y=7), owner=3, id=22) Point(x=13, y=3) Point(x=10, y=6)
-Shade(position=Point(x=11, y=9), owner=3, id=21) Point(x=17, y=6) Point(x=10, y=9)
-Shade(position=Point(x=18, y=17), owner=3, id=47) Point(x=18, y=6) Point(x=17, y=17)
-Shade(position=Point(x=9, y=9), owner=3, id=25) Point(x=0, y=6) Point(x=9, y=8)
-Shade(position=Point(x=11, y=10), owner=3, id=23) Point(x=17, y=3) Point(x=10, y=10)
-Shade(position=Point(x=9, y=11), owner=3, id=27) Point(x=17, y=3) Point(x=10, y=11)
-Shade(position=Point(x=9, y=14), owner=3, id=29) Point(x=0, y=3) Point(x=9, y=13)
-Shade(position=Point(x=14, y=18), owner=3, id=41) Point(x=18, y=2) Point(x=13, y=18)
-Shade(position=Point(x=12, y=17), owner=3, id=36) Point(x=18, y=1) Point(x=12, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=39) Point(x=0, y=3) Point(x=12, y=17)
-Shade(position=Point(x=13, y=18), owner=3, id=40) Point(x=1, y=1) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 73
-Shade(position=Point(x=18, y=13), owner=3, id=17) Point(x=18, y=11) Point(x=18, y=12)
-Shade(position=Point(x=4, y=18), owner=3, id=28) Point(x=3, y=17) Point(x=3, y=18)
-Shade(position=Point(x=16, y=11), owner=3, id=16) Point(x=19, y=11) Point(x=17, y=11)
-Shade(position=Point(x=3, y=5), owner=3, id=13) Point(x=3, y=2) Point(x=2, y=5)
-Shade(position=Point(x=10, y=6), owner=3, id=22) Point(x=15, y=6) Point(x=10, y=5)
-Shade(position=Point(x=13, y=10), owner=3, id=6) Point(x=19, y=10) Point(x=14, y=10)
-Shade(position=Point(x=9, y=8), owner=3, id=25) Point(x=13, y=3) Point(x=10, y=8)
-Shade(position=Point(x=10, y=10), owner=3, id=23) Point(x=0, y=10) Point(x=9, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=49) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=10, y=9), owner=3, id=21) Point(x=17, y=6) Point(x=10, y=8)
-Shade(position=Point(x=17, y=17), owner=3, id=47) Point(x=17, y=3) Point(x=17, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=48) Point(x=18, y=2) Point(x=17, y=17)
-Shade(position=Point(x=10, y=11), owner=3, id=27) Point(x=0, y=6) Point(x=9, y=11)
-Shade(position=Point(x=9, y=13), owner=3, id=29) Point(x=17, y=3) Point(x=10, y=13)
-Shade(position=Point(x=12, y=16), owner=3, id=36) Point(x=18, y=1) Point(x=11, y=16)
-Shade(position=Point(x=12, y=17), owner=3, id=39) Point(x=0, y=3) Point(x=12, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=40) Point(x=0, y=3) Point(x=12, y=17)
-Shade(position=Point(x=13, y=18), owner=3, id=41) Point(x=1, y=1) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 74
-Shade(position=Point(x=18, y=16), owner=3, id=51) Point(x=18, y=15) Point(x=18, y=15)
-Shade(position=Point(x=18, y=12), owner=3, id=17) Point(x=19, y=11) Point(x=19, y=12)
-Shade(position=Point(x=2, y=5), owner=3, id=13) Point(x=3, y=6) Point(x=3, y=5)
-Shade(position=Point(x=17, y=17), owner=3, id=48) Point(x=16, y=16) Point(x=16, y=17)
-Shade(position=Point(x=17, y=11), owner=3, id=16) Point(x=19, y=10) Point(x=18, y=11)
-Shade(position=Point(x=10, y=5), owner=3, id=22) Point(x=13, y=3) Point(x=10, y=4)
-Shade(position=Point(x=14, y=10), owner=3, id=6) Point(x=15, y=6) Point(x=13, y=10)
-Shade(position=Point(x=9, y=10), owner=3, id=23) Point(x=0, y=10) Point(x=8, y=10)
-Shade(position=Point(x=18, y=17), owner=3, id=49) Point(x=18, y=6) Point(x=17, y=17)
-Shade(position=Point(x=17, y=18), owner=3, id=47) Point(x=17, y=6) Point(x=16, y=18)
-Shade(position=Point(x=9, y=11), owner=3, id=27) Point(x=0, y=6) Point(x=9, y=10)
-Shade(position=Point(x=3, y=18), owner=3, id=28) Point(x=3, y=2) Point(x=4, y=18)
-Shade(position=Point(x=10, y=13), owner=3, id=29) Point(x=17, y=3) Point(x=10, y=12)
-Shade(position=Point(x=12, y=16), owner=3, id=39) Point(x=17, y=3) Point(x=11, y=16)
-Shade(position=Point(x=12, y=17), owner=3, id=40) Point(x=18, y=2) Point(x=12, y=16)
-Shade(position=Point(x=11, y=16), owner=3, id=36) Point(x=18, y=1) Point(x=10, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=41) Point(x=1, y=1) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 75
-Shade(position=Point(x=16, y=17), owner=3, id=48) Point(x=16, y=17) None
-Shade(position=Point(x=12, y=17), owner=3, id=41) Point(x=13, y=17) Point(x=13, y=17)
-Shade(position=Point(x=18, y=11), owner=3, id=16) Point(x=19, y=10) Point(x=19, y=11)
-Shade(position=Point(x=10, y=16), owner=3, id=36) Point(x=10, y=14) Point(x=10, y=15)
-Shade(position=Point(x=3, y=5), owner=3, id=13) Point(x=3, y=2) Point(x=2, y=5)
-Shade(position=Point(x=10, y=4), owner=3, id=22) Point(x=13, y=3) Point(x=10, y=3)
-Shade(position=Point(x=13, y=10), owner=3, id=6) Point(x=15, y=6) Point(x=12, y=10)
-Shade(position=Point(x=19, y=12), owner=3, id=17) Point(x=18, y=6) Point(x=18, y=12)
-Shade(position=Point(x=8, y=10), owner=3, id=23) Point(x=0, y=10) Point(x=7, y=10)
-Shade(position=Point(x=18, y=15), owner=3, id=51) Point(x=17, y=6) Point(x=18, y=16)
-Shade(position=Point(x=9, y=10), owner=3, id=27) Point(x=0, y=11) Point(x=8, y=10)
-Shade(position=Point(x=17, y=17), owner=3, id=49) Point(x=17, y=3) Point(x=17, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=53) Point(x=18, y=2) Point(x=18, y=17)
-Shade(position=Point(x=10, y=12), owner=3, id=29) Point(x=17, y=3) Point(x=10, y=11)
-Shade(position=Point(x=4, y=18), owner=3, id=28) Point(x=0, y=6) Point(x=5, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=47) Point(x=18, y=1) Point(x=15, y=18)
-Shade(position=Point(x=11, y=16), owner=3, id=39) Point(x=1, y=1) Point(x=10, y=16)
 
 [proboj] 
 STARTING TURN: 76
-Shade(position=Point(x=5, y=18), owner=3, id=28) Point(x=3, y=18) Point(x=4, y=18)
-Shade(position=Point(x=10, y=3), owner=3, id=22) Point(x=13, y=3) Point(x=10, y=2)
-Shade(position=Point(x=2, y=5), owner=3, id=13) Point(x=0, y=6) Point(x=2, y=6)
-Shade(position=Point(x=12, y=10), owner=3, id=6) Point(x=14, y=9) Point(x=13, y=10)
-Shade(position=Point(x=18, y=12), owner=3, id=17) Point(x=18, y=6) Point(x=17, y=12)
-Shade(position=Point(x=7, y=10), owner=3, id=23) Point(x=4, y=13) Point(x=6, y=10)
-Shade(position=Point(x=19, y=11), owner=3, id=16) Point(x=17, y=6) Point(x=18, y=11)
-Shade(position=Point(x=8, y=10), owner=3, id=27) Point(x=0, y=10) Point(x=7, y=10)
-Shade(position=Point(x=10, y=11), owner=3, id=29) Point(x=0, y=11) Point(x=9, y=11)
-Shade(position=Point(x=16, y=17), owner=3, id=48) Point(x=15, y=6) Point(x=16, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=51) Point(x=17, y=3) Point(x=18, y=17)
-Shade(position=Point(x=18, y=17), owner=3, id=53) Point(x=17, y=3) Point(x=17, y=17)
-Shade(position=Point(x=10, y=15), owner=3, id=36) Point(x=1, y=9) Point(x=9, y=15)
-Shade(position=Point(x=17, y=18), owner=3, id=49) Point(x=18, y=2) Point(x=16, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=47) Point(x=18, y=1) Point(x=14, y=18)
-Shade(position=Point(x=10, y=16), owner=3, id=39) Point(x=3, y=2) Point(x=9, y=16)
-Shade(position=Point(x=12, y=16), owner=3, id=40) Point(x=1, y=1) Point(x=11, y=16)
 
 [proboj] 
 STARTING TURN: 77
-Shade(position=Point(x=6, y=10), owner=3, id=23) Point(x=6, y=12) Point(x=6, y=11)
-Shade(position=Point(x=2, y=6), owner=3, id=13) Point(x=0, y=6) Point(x=1, y=6)
-Shade(position=Point(x=13, y=10), owner=3, id=6) Point(x=14, y=9) Point(x=14, y=10)
-Shade(position=Point(x=10, y=2), owner=3, id=22) Point(x=13, y=3) Point(x=10, y=1)
-Shade(position=Point(x=4, y=18), owner=3, id=28) Point(x=4, y=13) Point(x=5, y=18)
-Shade(position=Point(x=18, y=11), owner=3, id=16) Point(x=18, y=6) Point(x=17, y=11)
-Shade(position=Point(x=17, y=12), owner=3, id=17) Point(x=17, y=6) Point(x=16, y=12)
-Shade(position=Point(x=7, y=10), owner=3, id=27) Point(x=1, y=9) Point(x=6, y=10)
-Shade(position=Point(x=9, y=11), owner=3, id=29) Point(x=0, y=11) Point(x=8, y=11)
-Shade(position=Point(x=13, y=17), owner=3, id=41) Point(x=15, y=6) Point(x=12, y=17)
-Shade(position=Point(x=18, y=16), owner=3, id=55) Point(x=19, y=4) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=53) Point(x=17, y=3) Point(x=17, y=18)
-Shade(position=Point(x=9, y=15), owner=3, id=36) Point(x=0, y=10) Point(x=8, y=15)
-Shade(position=Point(x=18, y=17), owner=3, id=51) Point(x=17, y=3) Point(x=17, y=17)
-Shade(position=Point(x=14, y=18), owner=3, id=47) Point(x=18, y=2) Point(x=13, y=18)
-Shade(position=Point(x=9, y=16), owner=3, id=39) Point(x=3, y=2) Point(x=9, y=15)
-Shade(position=Point(x=11, y=16), owner=3, id=40) Point(x=18, y=1) Point(x=10, y=16)
 
 [proboj] 
 STARTING TURN: 78
-Shade(position=Point(x=17, y=18), owner=3, id=53) Point(x=17, y=18) None
-Shade(position=Point(x=14, y=10), owner=3, id=6) Point(x=12, y=10) Point(x=13, y=10)
-Shade(position=Point(x=6, y=11), owner=3, id=23) Point(x=4, y=13) Point(x=6, y=12)
-Shade(position=Point(x=17, y=11), owner=3, id=16) Point(x=17, y=6) Point(x=16, y=11)
-Shade(position=Point(x=10, y=1), owner=3, id=22) Point(x=13, y=3) Point(x=11, y=1)
-Shade(position=Point(x=6, y=10), owner=3, id=27) Point(x=1, y=9) Point(x=6, y=11)
-Shade(position=Point(x=16, y=12), owner=3, id=17) Point(x=15, y=6) Point(x=15, y=12)
-Shade(position=Point(x=8, y=11), owner=3, id=29) Point(x=0, y=11) Point(x=8, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=56) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=8, y=15), owner=3, id=36) Point(x=0, y=10) Point(x=8, y=14)
-Shade(position=Point(x=17, y=17), owner=3, id=51) Point(x=17, y=3) Point(x=17, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=55) Point(x=19, y=4) Point(x=17, y=17)
-Shade(position=Point(x=5, y=18), owner=3, id=28) Point(x=0, y=6) Point(x=6, y=18)
-Shade(position=Point(x=13, y=18), owner=3, id=47) Point(x=17, y=3) Point(x=12, y=18)
-Shade(position=Point(x=9, y=15), owner=3, id=39) Point(x=3, y=2) Point(x=9, y=14)
-Shade(position=Point(x=12, y=17), owner=3, id=41) Point(x=18, y=2) Point(x=12, y=16)
-Shade(position=Point(x=10, y=16), owner=3, id=40) Point(x=18, y=1) Point(x=10, y=15)
 
 [proboj] 
 STARTING TURN: 79
-Shade(position=Point(x=13, y=10), owner=3, id=6) Point(x=11, y=10) Point(x=12, y=10)
-Shade(position=Point(x=6, y=12), owner=3, id=23) Point(x=4, y=13) Point(x=6, y=13)
-Shade(position=Point(x=11, y=1), owner=3, id=22) Point(x=13, y=3) Point(x=12, y=1)
-Shade(position=Point(x=16, y=11), owner=3, id=16) Point(x=17, y=6) Point(x=15, y=11)
-Shade(position=Point(x=6, y=11), owner=3, id=27) Point(x=0, y=11) Point(x=5, y=11)
-Shade(position=Point(x=15, y=12), owner=3, id=17) Point(x=15, y=6) Point(x=14, y=12)
-Shade(position=Point(x=8, y=10), owner=3, id=29) Point(x=1, y=9) Point(x=7, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=57) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=8, y=14), owner=3, id=36) Point(x=0, y=10) Point(x=8, y=13)
-Shade(position=Point(x=17, y=17), owner=3, id=55) Point(x=17, y=3) Point(x=17, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=56) Point(x=19, y=4) Point(x=17, y=17)
-Shade(position=Point(x=9, y=14), owner=3, id=39) Point(x=0, y=6) Point(x=9, y=13)
-Shade(position=Point(x=12, y=16), owner=3, id=41) Point(x=17, y=3) Point(x=11, y=16)
-Shade(position=Point(x=10, y=15), owner=3, id=40) Point(x=17, y=3) Point(x=10, y=14)
-Shade(position=Point(x=6, y=18), owner=3, id=28) Point(x=3, y=2) Point(x=7, y=18)
-Shade(position=Point(x=12, y=18), owner=3, id=47) Point(x=18, y=2) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 80
-Shade(position=Point(x=6, y=13), owner=3, id=23) Point(x=4, y=13) Point(x=5, y=13)
-Shade(position=Point(x=12, y=1), owner=3, id=22) Point(x=13, y=3) Point(x=13, y=1)
-Shade(position=Point(x=15, y=11), owner=3, id=16) Point(x=15, y=6) Point(x=14, y=11)
-Shade(position=Point(x=5, y=11), owner=3, id=27) Point(x=0, y=11) Point(x=4, y=11)
-Shade(position=Point(x=7, y=10), owner=3, id=29) Point(x=0, y=10) Point(x=6, y=10)
-Shade(position=Point(x=12, y=10), owner=3, id=6) Point(x=17, y=6) Point(x=11, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=58) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=14, y=12), owner=3, id=17) Point(x=17, y=5) Point(x=13, y=12)
-Shade(position=Point(x=8, y=13), owner=3, id=36) Point(x=1, y=9) Point(x=8, y=12)
-Shade(position=Point(x=17, y=17), owner=3, id=56) Point(x=17, y=3) Point(x=17, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=57) Point(x=19, y=4) Point(x=17, y=17)
-Shade(position=Point(x=9, y=13), owner=3, id=39) Point(x=6, y=1) Point(x=9, y=12)
-Shade(position=Point(x=17, y=18), owner=3, id=55) Point(x=17, y=3) Point(x=16, y=18)
-Shade(position=Point(x=10, y=14), owner=3, id=40) Point(x=17, y=3) Point(x=10, y=13)
-Shade(position=Point(x=7, y=18), owner=3, id=28) Point(x=0, y=6) Point(x=7, y=17)
-Shade(position=Point(x=11, y=16), owner=3, id=41) Point(x=18, y=2) Point(x=10, y=16)
-Shade(position=Point(x=12, y=17), owner=3, id=47) Point(x=18, y=1) Point(x=12, y=16)
 
 [proboj] 
 STARTING TURN: 81
-Shade(position=Point(x=13, y=1), owner=3, id=22) Point(x=13, y=3) Point(x=13, y=2)
-Shade(position=Point(x=5, y=13), owner=3, id=23) Point(x=4, y=15) Point(x=6, y=13)
-Shade(position=Point(x=4, y=11), owner=3, id=27) Point(x=0, y=11) Point(x=3, y=11)
-Shade(position=Point(x=6, y=10), owner=3, id=29) Point(x=0, y=10) Point(x=6, y=11)
-Shade(position=Point(x=14, y=11), owner=3, id=16) Point(x=15, y=6) Point(x=13, y=11)
-Shade(position=Point(x=11, y=10), owner=3, id=6) Point(x=17, y=6) Point(x=10, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=59) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=8, y=12), owner=3, id=36) Point(x=1, y=9) Point(x=8, y=11)
-Shade(position=Point(x=13, y=12), owner=3, id=17) Point(x=17, y=5) Point(x=13, y=11)
-Shade(position=Point(x=17, y=17), owner=3, id=57) Point(x=17, y=3) Point(x=17, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=58) Point(x=19, y=4) Point(x=17, y=17)
-Shade(position=Point(x=9, y=12), owner=3, id=39) Point(x=6, y=1) Point(x=9, y=11)
-Shade(position=Point(x=17, y=18), owner=3, id=56) Point(x=17, y=3) Point(x=16, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=55) Point(x=17, y=3) Point(x=15, y=18)
-Shade(position=Point(x=10, y=13), owner=3, id=40) Point(x=0, y=6) Point(x=9, y=13)
-Shade(position=Point(x=7, y=17), owner=3, id=28) Point(x=3, y=2) Point(x=7, y=16)
-Shade(position=Point(x=12, y=16), owner=3, id=47) Point(x=18, y=2) Point(x=11, y=16)
-Shade(position=Point(x=10, y=16), owner=3, id=41) Point(x=18, y=1) Point(x=10, y=15)
 
 [proboj] 
 STARTING TURN: 82
-Shade(position=Point(x=3, y=11), owner=3, id=27) Point(x=0, y=11) Point(x=2, y=11)
-Shade(position=Point(x=7, y=16), owner=3, id=28) Point(x=4, y=15) Point(x=7, y=17)
-Shade(position=Point(x=13, y=2), owner=3, id=22) Point(x=17, y=3) Point(x=13, y=3)
-Shade(position=Point(x=6, y=11), owner=3, id=29) Point(x=0, y=10) Point(x=5, y=11)
-Shade(position=Point(x=8, y=11), owner=3, id=36) Point(x=1, y=9) Point(x=8, y=10)
-Shade(position=Point(x=10, y=10), owner=3, id=6) Point(x=15, y=6) Point(x=10, y=9)
-Shade(position=Point(x=18, y=16), owner=3, id=60) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=58) Point(x=17, y=6) Point(x=17, y=18)
-Shade(position=Point(x=6, y=13), owner=3, id=23) Point(x=4, y=3) Point(x=6, y=12)
-Shade(position=Point(x=9, y=11), owner=3, id=39) Point(x=6, y=1) Point(x=9, y=10)
-Shade(position=Point(x=17, y=18), owner=3, id=57) Point(x=17, y=5) Point(x=16, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=59) Point(x=19, y=4) Point(x=17, y=17)
-Shade(position=Point(x=16, y=18), owner=3, id=56) Point(x=17, y=3) Point(x=15, y=18)
-Shade(position=Point(x=9, y=13), owner=3, id=40) Point(x=0, y=6) Point(x=9, y=12)
-Shade(position=Point(x=15, y=18), owner=3, id=55) Point(x=17, y=3) Point(x=14, y=18)
-Shade(position=Point(x=10, y=15), owner=3, id=41) Point(x=3, y=2) Point(x=9, y=15)
-Shade(position=Point(x=11, y=16), owner=3, id=47) Point(x=18, y=2) Point(x=10, y=16)
 
 [proboj] 
 STARTING TURN: 83
-Shade(position=Point(x=7, y=17), owner=3, id=28) Point(x=7, y=16) Point(x=7, y=16)
-Shade(position=Point(x=2, y=11), owner=3, id=27) Point(x=0, y=11) Point(x=1, y=11)
-Shade(position=Point(x=13, y=3), owner=3, id=22) Point(x=17, y=3) Point(x=13, y=4)
-Shade(position=Point(x=9, y=15), owner=3, id=41) Point(x=4, y=15) Point(x=9, y=16)
-Shade(position=Point(x=5, y=11), owner=3, id=29) Point(x=1, y=9) Point(x=4, y=11)
-Shade(position=Point(x=6, y=12), owner=3, id=23) Point(x=0, y=10) Point(x=5, y=12)
-Shade(position=Point(x=10, y=9), owner=3, id=6) Point(x=15, y=6) Point(x=10, y=8)
-Shade(position=Point(x=18, y=16), owner=3, id=61) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=8, y=10), owner=3, id=36) Point(x=6, y=1) Point(x=9, y=10)
-Shade(position=Point(x=17, y=17), owner=3, id=59) Point(x=17, y=6) Point(x=17, y=18)
-Shade(position=Point(x=9, y=10), owner=3, id=39) Point(x=4, y=3) Point(x=9, y=9)
-Shade(position=Point(x=17, y=18), owner=3, id=58) Point(x=17, y=5) Point(x=16, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=60) Point(x=19, y=4) Point(x=17, y=17)
-Shade(position=Point(x=9, y=12), owner=3, id=40) Point(x=0, y=6) Point(x=9, y=11)
-Shade(position=Point(x=16, y=18), owner=3, id=57) Point(x=17, y=3) Point(x=15, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=56) Point(x=17, y=3) Point(x=14, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=55) Point(x=18, y=2) Point(x=13, y=18)
-Shade(position=Point(x=10, y=16), owner=3, id=47) Point(x=3, y=2) Point(x=9, y=16)
 
 [proboj] 
 STARTING TURN: 84
-Shade(position=Point(x=1, y=11), owner=3, id=27) Point(x=1, y=9) Point(x=1, y=10)
-Shade(position=Point(x=13, y=4), owner=3, id=22) Point(x=12, y=2) Point(x=12, y=4)
-Shade(position=Point(x=4, y=11), owner=3, id=29) Point(x=4, y=15) Point(x=5, y=11)
-Shade(position=Point(x=10, y=8), owner=3, id=6) Point(x=15, y=6) Point(x=10, y=7)
-Shade(position=Point(x=5, y=12), owner=3, id=23) Point(x=0, y=10) Point(x=4, y=12)
-Shade(position=Point(x=18, y=16), owner=3, id=62) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=60) Point(x=17, y=6) Point(x=17, y=18)
-Shade(position=Point(x=9, y=9), owner=3, id=39) Point(x=6, y=1) Point(x=9, y=8)
-Shade(position=Point(x=9, y=10), owner=3, id=36) Point(x=4, y=3) Point(x=9, y=9)
-Shade(position=Point(x=18, y=17), owner=3, id=61) Point(x=17, y=5) Point(x=17, y=17)
-Shade(position=Point(x=9, y=11), owner=3, id=40) Point(x=0, y=6) Point(x=9, y=10)
-Shade(position=Point(x=17, y=18), owner=3, id=59) Point(x=17, y=3) Point(x=16, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=58) Point(x=17, y=3) Point(x=15, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=57) Point(x=17, y=3) Point(x=14, y=18)
-Shade(position=Point(x=7, y=16), owner=3, id=28) Point(x=3, y=2) Point(x=8, y=16)
-Shade(position=Point(x=14, y=18), owner=3, id=56) Point(x=19, y=4) Point(x=13, y=18)
-Shade(position=Point(x=13, y=18), owner=3, id=55) Point(x=18, y=2) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 85
-Shade(position=Point(x=12, y=4), owner=3, id=22) Point(x=12, y=2) Point(x=12, y=3)
-Shade(position=Point(x=4, y=12), owner=3, id=23) Point(x=4, y=15) Point(x=5, y=12)
-Shade(position=Point(x=1, y=10), owner=3, id=27) Point(x=0, y=6) Point(x=1, y=11)
-Shade(position=Point(x=10, y=7), owner=3, id=6) Point(x=15, y=6) Point(x=10, y=6)
-Shade(position=Point(x=9, y=8), owner=3, id=39) Point(x=7, y=3) Point(x=9, y=7)
-Shade(position=Point(x=5, y=11), owner=3, id=29) Point(x=4, y=3) Point(x=6, y=11)
-Shade(position=Point(x=18, y=16), owner=3, id=63) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=61) Point(x=17, y=6) Point(x=17, y=18)
-Shade(position=Point(x=9, y=9), owner=3, id=36) Point(x=6, y=1) Point(x=9, y=8)
-Shade(position=Point(x=9, y=10), owner=3, id=40) Point(x=15, y=3) Point(x=10, y=10)
-Shade(position=Point(x=17, y=18), owner=3, id=60) Point(x=17, y=5) Point(x=16, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=62) Point(x=19, y=4) Point(x=17, y=17)
-Shade(position=Point(x=16, y=18), owner=3, id=59) Point(x=17, y=3) Point(x=15, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=58) Point(x=17, y=3) Point(x=14, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=57) Point(x=17, y=3) Point(x=13, y=18)
-Shade(position=Point(x=8, y=16), owner=3, id=28) Point(x=3, y=2) Point(x=9, y=16)
-Shade(position=Point(x=13, y=18), owner=3, id=56) Point(x=18, y=2) Point(x=12, y=18)
-Shade(position=Point(x=12, y=18), owner=3, id=55) Point(x=18, y=1) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 86
-Shade(position=Point(x=12, y=3), owner=3, id=22) Point(x=15, y=3) Point(x=13, y=3)
-Shade(position=Point(x=5, y=12), owner=3, id=23) Point(x=4, y=15) Point(x=6, y=12)
-Shade(position=Point(x=10, y=6), owner=3, id=6) Point(x=15, y=6) Point(x=10, y=5)
-Shade(position=Point(x=1, y=11), owner=3, id=27) Point(x=0, y=6) Point(x=2, y=11)
-Shade(position=Point(x=9, y=7), owner=3, id=39) Point(x=7, y=3) Point(x=9, y=6)
-Shade(position=Point(x=10, y=10), owner=3, id=40) Point(x=15, y=11) Point(x=11, y=10)
-Shade(position=Point(x=9, y=8), owner=3, id=36) Point(x=17, y=6) Point(x=10, y=8)
-Shade(position=Point(x=6, y=11), owner=3, id=29) Point(x=6, y=1) Point(x=6, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=64) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=62) Point(x=17, y=5) Point(x=17, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=63) Point(x=19, y=4) Point(x=17, y=17)
-Shade(position=Point(x=17, y=18), owner=3, id=61) Point(x=17, y=3) Point(x=16, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=60) Point(x=17, y=3) Point(x=15, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=59) Point(x=17, y=3) Point(x=14, y=18)
-Shade(position=Point(x=9, y=16), owner=3, id=28) Point(x=4, y=3) Point(x=9, y=15)
-Shade(position=Point(x=14, y=18), owner=3, id=58) Point(x=18, y=2) Point(x=13, y=18)
-Shade(position=Point(x=12, y=17), owner=3, id=55) Point(x=18, y=1) Point(x=12, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=56) Point(x=3, y=2) Point(x=12, y=17)
-Shade(position=Point(x=13, y=18), owner=3, id=57) Point(x=1, y=1) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 87
-Shade(position=Point(x=13, y=3), owner=3, id=22) Point(x=15, y=3) Point(x=13, y=4)
-Shade(position=Point(x=9, y=15), owner=3, id=28) Point(x=4, y=15) Point(x=9, y=16)
-Shade(position=Point(x=10, y=5), owner=3, id=6) Point(x=7, y=3) Point(x=9, y=5)
-Shade(position=Point(x=11, y=10), owner=3, id=40) Point(x=15, y=11) Point(x=12, y=10)
-Shade(position=Point(x=17, y=17), owner=3, id=63) Point(x=16, y=13) Point(x=17, y=18)
-Shade(position=Point(x=9, y=6), owner=3, id=39) Point(x=15, y=6) Point(x=10, y=6)
-Shade(position=Point(x=2, y=11), owner=3, id=27) Point(x=0, y=6) Point(x=3, y=11)
-Shade(position=Point(x=10, y=8), owner=3, id=36) Point(x=17, y=6) Point(x=10, y=7)
-Shade(position=Point(x=6, y=10), owner=3, id=29) Point(x=4, y=3) Point(x=7, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=65) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=6, y=12), owner=3, id=23) Point(x=6, y=1) Point(x=6, y=11)
-Shade(position=Point(x=18, y=17), owner=3, id=64) Point(x=17, y=5) Point(x=17, y=17)
-Shade(position=Point(x=17, y=18), owner=3, id=62) Point(x=17, y=3) Point(x=16, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=61) Point(x=17, y=3) Point(x=15, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=60) Point(x=17, y=3) Point(x=14, y=18)
-Shade(position=Point(x=12, y=16), owner=3, id=55) Point(x=19, y=4) Point(x=11, y=16)
-Shade(position=Point(x=14, y=18), owner=3, id=59) Point(x=18, y=2) Point(x=13, y=18)
-Shade(position=Point(x=12, y=17), owner=3, id=56) Point(x=18, y=1) Point(x=12, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=57) Point(x=1, y=1) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 88
-Shade(position=Point(x=13, y=4), owner=3, id=22) Point(x=15, y=3) Point(x=13, y=5)
-Shade(position=Point(x=12, y=10), owner=3, id=40) Point(x=15, y=11) Point(x=13, y=10)
-Shade(position=Point(x=9, y=5), owner=3, id=6) Point(x=7, y=3) Point(x=9, y=4)
-Shade(position=Point(x=3, y=11), owner=3, id=27) Point(x=4, y=15) Point(x=4, y=11)
-Shade(position=Point(x=17, y=17), owner=3, id=64) Point(x=16, y=13) Point(x=17, y=18)
-Shade(position=Point(x=10, y=6), owner=3, id=39) Point(x=15, y=6) Point(x=10, y=5)
-Shade(position=Point(x=10, y=7), owner=3, id=36) Point(x=17, y=6) Point(x=10, y=6)
-Shade(position=Point(x=7, y=10), owner=3, id=29) Point(x=4, y=3) Point(x=8, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=67) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=6, y=11), owner=3, id=23) Point(x=0, y=15) Point(x=6, y=10)
-Shade(position=Point(x=17, y=18), owner=3, id=63) Point(x=17, y=5) Point(x=16, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=65) Point(x=19, y=4) Point(x=17, y=17)
-Shade(position=Point(x=16, y=18), owner=3, id=62) Point(x=17, y=3) Point(x=15, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=61) Point(x=17, y=3) Point(x=14, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=60) Point(x=17, y=3) Point(x=13, y=18)
-Shade(position=Point(x=9, y=16), owner=3, id=28) Point(x=6, y=1) Point(x=9, y=15)
-Shade(position=Point(x=12, y=16), owner=3, id=56) Point(x=18, y=2) Point(x=11, y=16)
-Shade(position=Point(x=11, y=16), owner=3, id=55) Point(x=0, y=6) Point(x=10, y=16)
-Shade(position=Point(x=12, y=17), owner=3, id=57) Point(x=18, y=1) Point(x=12, y=16)
 
 [proboj] 
 STARTING TURN: 89
-Shade(position=Point(x=18, y=16), owner=3, id=68) Point(x=17, y=16) Point(x=17, y=16)
-Shade(position=Point(x=9, y=4), owner=3, id=6) Point(x=7, y=3) Point(x=9, y=3)
-Shade(position=Point(x=13, y=10), owner=3, id=40) Point(x=15, y=11) Point(x=14, y=10)
-Shade(position=Point(x=13, y=5), owner=3, id=22) Point(x=15, y=6) Point(x=14, y=5)
-Shade(position=Point(x=4, y=11), owner=3, id=27) Point(x=4, y=15) Point(x=5, y=11)
-Shade(position=Point(x=17, y=17), owner=3, id=65) Point(x=16, y=13) Point(x=17, y=18)
-Shade(position=Point(x=10, y=5), owner=3, id=39) Point(x=15, y=3) Point(x=10, y=4)
-Shade(position=Point(x=10, y=6), owner=3, id=36) Point(x=17, y=6) Point(x=10, y=5)
-Shade(position=Point(x=6, y=10), owner=3, id=23) Point(x=6, y=1) Point(x=7, y=10)
-Shade(position=Point(x=9, y=15), owner=3, id=28) Point(x=0, y=15) Point(x=9, y=16)
-Shade(position=Point(x=18, y=17), owner=3, id=67) Point(x=18, y=6) Point(x=17, y=17)
-Shade(position=Point(x=8, y=10), owner=3, id=29) Point(x=0, y=6) Point(x=9, y=10)
-Shade(position=Point(x=17, y=18), owner=3, id=64) Point(x=17, y=5) Point(x=16, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=63) Point(x=17, y=3) Point(x=15, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=62) Point(x=17, y=3) Point(x=14, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=61) Point(x=17, y=3) Point(x=13, y=18)
-Shade(position=Point(x=12, y=16), owner=3, id=57) Point(x=19, y=4) Point(x=11, y=16)
-Shade(position=Point(x=13, y=18), owner=3, id=60) Point(x=18, y=2) Point(x=12, y=18)
-Shade(position=Point(x=11, y=16), owner=3, id=56) Point(x=18, y=1) Point(x=10, y=16)
-Shade(position=Point(x=10, y=16), owner=3, id=55) Point(x=1, y=1) Point(x=9, y=16)
 
 [proboj] 
 STARTING TURN: 90
-Shade(position=Point(x=9, y=3), owner=3, id=6) Point(x=7, y=3) Point(x=9, y=2)
-Shade(position=Point(x=14, y=5), owner=3, id=22) Point(x=15, y=6) Point(x=15, y=5)
-Shade(position=Point(x=14, y=10), owner=3, id=40) Point(x=15, y=11) Point(x=15, y=10)
-Shade(position=Point(x=17, y=16), owner=3, id=68) Point(x=16, y=13) Point(x=17, y=17)
-Shade(position=Point(x=5, y=11), owner=3, id=27) Point(x=4, y=15) Point(x=6, y=11)
-Shade(position=Point(x=10, y=4), owner=3, id=39) Point(x=15, y=3) Point(x=10, y=3)
-Shade(position=Point(x=10, y=5), owner=3, id=36) Point(x=17, y=5) Point(x=10, y=4)
-Shade(position=Point(x=12, y=18), owner=3, id=60) Point(x=3, y=18) Point(x=12, y=17)
-Shade(position=Point(x=7, y=10), owner=3, id=23) Point(x=6, y=1) Point(x=8, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=70) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=67) Point(x=17, y=6) Point(x=17, y=18)
-Shade(position=Point(x=10, y=16), owner=3, id=56) Point(x=0, y=15) Point(x=9, y=16)
-Shade(position=Point(x=9, y=10), owner=3, id=29) Point(x=0, y=6) Point(x=9, y=9)
-Shade(position=Point(x=17, y=18), owner=3, id=65) Point(x=17, y=3) Point(x=16, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=64) Point(x=17, y=3) Point(x=15, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=63) Point(x=17, y=3) Point(x=14, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=62) Point(x=19, y=4) Point(x=13, y=18)
-Shade(position=Point(x=11, y=16), owner=3, id=57) Point(x=18, y=2) Point(x=10, y=16)
-Shade(position=Point(x=13, y=18), owner=3, id=61) Point(x=18, y=1) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 91
-Shade(position=Point(x=15, y=5), owner=3, id=22) Point(x=15, y=3) Point(x=16, y=5)
-Shade(position=Point(x=9, y=2), owner=3, id=6) Point(x=7, y=3) Point(x=9, y=1)
-Shade(position=Point(x=10, y=4), owner=3, id=36) Point(x=12, y=6) Point(x=10, y=3)
-Shade(position=Point(x=15, y=10), owner=3, id=40) Point(x=16, y=13) Point(x=16, y=10)
-Shade(position=Point(x=6, y=11), owner=3, id=27) Point(x=4, y=15) Point(x=6, y=10)
-Shade(position=Point(x=10, y=3), owner=3, id=39) Point(x=6, y=1) Point(x=9, y=3)
-Shade(position=Point(x=9, y=16), owner=3, id=56) Point(x=3, y=18) Point(x=8, y=16)
-Shade(position=Point(x=18, y=16), owner=3, id=71) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=10, y=16), owner=3, id=57) Point(x=0, y=15) Point(x=9, y=16)
-Shade(position=Point(x=17, y=17), owner=3, id=68) Point(x=17, y=6) Point(x=17, y=18)
-Shade(position=Point(x=9, y=9), owner=3, id=29) Point(x=0, y=6) Point(x=9, y=8)
-Shade(position=Point(x=17, y=18), owner=3, id=67) Point(x=17, y=5) Point(x=16, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=70) Point(x=19, y=4) Point(x=17, y=17)
-Shade(position=Point(x=8, y=10), owner=3, id=23) Point(x=17, y=3) Point(x=9, y=10)
-Shade(position=Point(x=16, y=18), owner=3, id=65) Point(x=17, y=3) Point(x=15, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=64) Point(x=17, y=3) Point(x=14, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=63) Point(x=18, y=2) Point(x=13, y=18)
-Shade(position=Point(x=12, y=17), owner=3, id=60) Point(x=18, y=1) Point(x=12, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=61) Point(x=1, y=1) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 92
-Shade(position=Point(x=9, y=16), owner=3, id=57) Point(x=9, y=16) None
-Shade(position=Point(x=16, y=5), owner=3, id=22) Point(x=17, y=6) Point(x=17, y=5)
-Shade(position=Point(x=9, y=3), owner=3, id=39) Point(x=7, y=3) Point(x=9, y=2)
-Shade(position=Point(x=9, y=1), owner=3, id=6) Point(x=6, y=1) Point(x=8, y=1)
-Shade(position=Point(x=16, y=10), owner=3, id=40) Point(x=16, y=13) Point(x=16, y=11)
-Shade(position=Point(x=8, y=16), owner=3, id=56) Point(x=4, y=15) Point(x=7, y=16)
-Shade(position=Point(x=10, y=3), owner=3, id=36) Point(x=12, y=6) Point(x=10, y=2)
-Shade(position=Point(x=18, y=16), owner=3, id=72) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=6, y=10), owner=3, id=27) Point(x=0, y=6) Point(x=7, y=10)
-Shade(position=Point(x=12, y=17), owner=3, id=61) Point(x=3, y=18) Point(x=12, y=16)
-Shade(position=Point(x=9, y=8), owner=3, id=29) Point(x=15, y=3) Point(x=10, y=8)
-Shade(position=Point(x=12, y=16), owner=3, id=60) Point(x=0, y=15) Point(x=11, y=16)
-Shade(position=Point(x=17, y=17), owner=3, id=70) Point(x=17, y=3) Point(x=17, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=71) Point(x=19, y=4) Point(x=17, y=17)
-Shade(position=Point(x=9, y=10), owner=3, id=23) Point(x=17, y=3) Point(x=10, y=10)
-Shade(position=Point(x=17, y=18), owner=3, id=68) Point(x=17, y=3) Point(x=16, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=67) Point(x=18, y=2) Point(x=15, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=65) Point(x=18, y=1) Point(x=14, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=64) Point(x=1, y=1) Point(x=13, y=18)
 
 [proboj] 
 STARTING TURN: 93
-Shade(position=Point(x=17, y=18), owner=3, id=70) Point(x=17, y=18) None
-Shade(position=Point(x=17, y=5), owner=3, id=22) Point(x=17, y=3) Point(x=18, y=5)
-Shade(position=Point(x=8, y=1), owner=3, id=6) Point(x=6, y=1) Point(x=7, y=1)
-Shade(position=Point(x=16, y=11), owner=3, id=40) Point(x=16, y=13) Point(x=16, y=12)
-Shade(position=Point(x=9, y=2), owner=3, id=39) Point(x=7, y=3) Point(x=9, y=1)
-Shade(position=Point(x=10, y=8), owner=3, id=29) Point(x=12, y=6) Point(x=10, y=7)
-Shade(position=Point(x=7, y=16), owner=3, id=56) Point(x=4, y=15) Point(x=7, y=17)
-Shade(position=Point(x=10, y=2), owner=3, id=36) Point(x=15, y=3) Point(x=10, y=1)
-Shade(position=Point(x=9, y=16), owner=3, id=57) Point(x=3, y=18) Point(x=8, y=16)
-Shade(position=Point(x=18, y=16), owner=3, id=73) Point(x=18, y=6) Point(x=18, y=17)
-Shade(position=Point(x=7, y=10), owner=3, id=27) Point(x=0, y=6) Point(x=8, y=10)
-Shade(position=Point(x=11, y=16), owner=3, id=60) Point(x=0, y=15) Point(x=10, y=16)
-Shade(position=Point(x=10, y=10), owner=3, id=23) Point(x=17, y=3) Point(x=10, y=9)
-Shade(position=Point(x=18, y=17), owner=3, id=72) Point(x=19, y=4) Point(x=17, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=71) Point(x=17, y=3) Point(x=17, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=68) Point(x=18, y=2) Point(x=15, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=67) Point(x=18, y=1) Point(x=14, y=18)
-Shade(position=Point(x=12, y=16), owner=3, id=61) Point(x=1, y=1) Point(x=11, y=16)
-Shade(position=Point(x=13, y=18), owner=3, id=64) Point(x=0, y=1) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 94
-Shade(position=Point(x=7, y=1), owner=3, id=6) Point(x=6, y=0) Point(x=6, y=1)
-Shade(position=Point(x=18, y=5), owner=3, id=22) Point(x=19, y=4) Point(x=19, y=5)
-Shade(position=Point(x=10, y=7), owner=3, id=29) Point(x=12, y=6) Point(x=10, y=6)
-Shade(position=Point(x=9, y=1), owner=3, id=39) Point(x=7, y=3) Point(x=8, y=1)
-Shade(position=Point(x=8, y=16), owner=3, id=57) Point(x=4, y=15) Point(x=7, y=16)
-Shade(position=Point(x=7, y=17), owner=3, id=56) Point(x=3, y=18) Point(x=7, y=18)
-Shade(position=Point(x=10, y=1), owner=3, id=36) Point(x=15, y=3) Point(x=11, y=1)
-Shade(position=Point(x=10, y=9), owner=3, id=23) Point(x=14, y=5) Point(x=10, y=8)
-Shade(position=Point(x=16, y=12), owner=3, id=40) Point(x=17, y=3) Point(x=15, y=12)
-Shade(position=Point(x=10, y=16), owner=3, id=60) Point(x=0, y=15) Point(x=9, y=16)
-Shade(position=Point(x=8, y=10), owner=3, id=27) Point(x=0, y=6) Point(x=9, y=10)
-Shade(position=Point(x=18, y=16), owner=3, id=74) Point(x=17, y=3) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=72) Point(x=17, y=3) Point(x=17, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=73) Point(x=18, y=2) Point(x=17, y=17)
-Shade(position=Point(x=15, y=18), owner=3, id=68) Point(x=18, y=1) Point(x=14, y=18)
-Shade(position=Point(x=11, y=16), owner=3, id=61) Point(x=1, y=1) Point(x=10, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=64) Point(x=0, y=2) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 95
-Shade(position=Point(x=10, y=6), owner=3, id=29) Point(x=12, y=6) Point(x=10, y=5)
-Shade(position=Point(x=6, y=1), owner=3, id=6) Point(x=7, y=3) Point(x=7, y=1)
-Shade(position=Point(x=10, y=8), owner=3, id=23) Point(x=13, y=8) Point(x=11, y=8)
-Shade(position=Point(x=19, y=5), owner=3, id=22) Point(x=18, y=2) Point(x=18, y=5)
-Shade(position=Point(x=7, y=18), owner=3, id=56) Point(x=3, y=18) Point(x=6, y=18)
-Shade(position=Point(x=7, y=16), owner=3, id=57) Point(x=4, y=15) Point(x=7, y=17)
-Shade(position=Point(x=11, y=1), owner=3, id=36) Point(x=15, y=1) Point(x=12, y=1)
-Shade(position=Point(x=8, y=1), owner=3, id=39) Point(x=1, y=1) Point(x=7, y=1)
-Shade(position=Point(x=15, y=12), owner=3, id=40) Point(x=14, y=5) Point(x=14, y=12)
-Shade(position=Point(x=9, y=10), owner=3, id=27) Point(x=13, y=5) Point(x=10, y=10)
-Shade(position=Point(x=9, y=16), owner=3, id=60) Point(x=0, y=15) Point(x=8, y=16)
-Shade(position=Point(x=18, y=16), owner=3, id=76) Point(x=17, y=3) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=73) Point(x=17, y=3) Point(x=17, y=18)
-Shade(position=Point(x=17, y=18), owner=3, id=72) Point(x=17, y=3) Point(x=16, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=74) Point(x=18, y=1) Point(x=17, y=17)
-Shade(position=Point(x=14, y=18), owner=3, id=68) Point(x=15, y=3) Point(x=13, y=18)
-Shade(position=Point(x=10, y=16), owner=3, id=61) Point(x=0, y=6) Point(x=9, y=16)
-Shade(position=Point(x=12, y=17), owner=3, id=64) Point(x=0, y=2) Point(x=12, y=16)
 
 [proboj] 
 STARTING TURN: 96
-Shade(position=Point(x=17, y=18), owner=3, id=73) Point(x=17, y=18) None
-Shade(position=Point(x=11, y=8), owner=3, id=23) Point(x=13, y=8) Point(x=12, y=8)
-Shade(position=Point(x=10, y=5), owner=3, id=29) Point(x=13, y=5) Point(x=10, y=4)
-Shade(position=Point(x=6, y=18), owner=3, id=56) Point(x=3, y=18) Point(x=5, y=18)
-Shade(position=Point(x=18, y=5), owner=3, id=22) Point(x=18, y=2) Point(x=18, y=4)
-Shade(position=Point(x=12, y=1), owner=3, id=36) Point(x=15, y=1) Point(x=13, y=1)
-Shade(position=Point(x=7, y=17), owner=3, id=57) Point(x=4, y=15) Point(x=7, y=18)
-Shade(position=Point(x=10, y=10), owner=3, id=27) Point(x=12, y=6) Point(x=10, y=9)
-Shade(position=Point(x=14, y=12), owner=3, id=40) Point(x=14, y=5) Point(x=13, y=12)
-Shade(position=Point(x=8, y=16), owner=3, id=60) Point(x=0, y=15) Point(x=7, y=16)
-Shade(position=Point(x=18, y=16), owner=3, id=77) Point(x=17, y=3) Point(x=18, y=17)
-Shade(position=Point(x=17, y=17), owner=3, id=74) Point(x=17, y=3) Point(x=17, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=76) Point(x=17, y=3) Point(x=17, y=17)
-Shade(position=Point(x=9, y=16), owner=3, id=61) Point(x=7, y=3) Point(x=9, y=15)
-Shade(position=Point(x=12, y=16), owner=3, id=64) Point(x=15, y=3) Point(x=11, y=16)
-Shade(position=Point(x=16, y=18), owner=3, id=72) Point(x=18, y=1) Point(x=15, y=18)
-Shade(position=Point(x=13, y=18), owner=3, id=68) Point(x=0, y=6) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 97
-Shade(position=Point(x=5, y=18), owner=3, id=56) Point(x=3, y=18) Point(x=4, y=18)
-Shade(position=Point(x=18, y=4), owner=3, id=22) Point(x=17, y=3) Point(x=18, y=3)
-Shade(position=Point(x=12, y=8), owner=3, id=23) Point(x=12, y=6) Point(x=11, y=8)
-Shade(position=Point(x=13, y=1), owner=3, id=36) Point(x=15, y=1) Point(x=13, y=2)
-Shade(position=Point(x=7, y=16), owner=3, id=60) Point(x=4, y=15) Point(x=7, y=17)
-Shade(position=Point(x=10, y=9), owner=3, id=27) Point(x=6, y=9) Point(x=9, y=9)
-Shade(position=Point(x=10, y=4), owner=3, id=29) Point(x=13, y=5) Point(x=10, y=3)
-Shade(position=Point(x=13, y=12), owner=3, id=40) Point(x=14, y=5) Point(x=13, y=11)
-Shade(position=Point(x=9, y=15), owner=3, id=61) Point(x=0, y=15) Point(x=9, y=16)
-Shade(position=Point(x=17, y=17), owner=3, id=76) Point(x=17, y=3) Point(x=17, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=78) Point(x=18, y=2) Point(x=18, y=17)
-Shade(position=Point(x=7, y=18), owner=3, id=57) Point(x=7, y=3) Point(x=7, y=17)
-Shade(position=Point(x=15, y=18), owner=3, id=72) Point(x=15, y=3) Point(x=14, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=77) Point(x=17, y=3) Point(x=17, y=17)
-Shade(position=Point(x=11, y=16), owner=3, id=64) Point(x=0, y=6) Point(x=10, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=68) Point(x=18, y=1) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 98
-Shade(position=Point(x=17, y=17), owner=3, id=77) Point(x=16, y=16) Point(x=16, y=17)
-Shade(position=Point(x=18, y=3), owner=3, id=22) Point(x=18, y=1) Point(x=18, y=2)
-Shade(position=Point(x=4, y=18), owner=3, id=56) Point(x=4, y=15) Point(x=4, y=17)
-Shade(position=Point(x=13, y=2), owner=3, id=36) Point(x=15, y=1) Point(x=13, y=3)
-Shade(position=Point(x=11, y=8), owner=3, id=23) Point(x=12, y=6) Point(x=10, y=8)
-Shade(position=Point(x=10, y=3), owner=3, id=29) Point(x=7, y=3) Point(x=9, y=3)
-Shade(position=Point(x=9, y=9), owner=3, id=27) Point(x=6, y=9) Point(x=8, y=9)
-Shade(position=Point(x=13, y=11), owner=3, id=40) Point(x=13, y=5) Point(x=13, y=10)
-Shade(position=Point(x=9, y=16), owner=3, id=61) Point(x=0, y=15) Point(x=8, y=16)
-Shade(position=Point(x=10, y=16), owner=3, id=64) Point(x=3, y=10) Point(x=9, y=16)
-Shade(position=Point(x=12, y=17), owner=3, id=68) Point(x=12, y=4) Point(x=12, y=16)
-Shade(position=Point(x=14, y=18), owner=3, id=72) Point(x=14, y=5) Point(x=13, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=79) Point(x=15, y=3) Point(x=18, y=17)
-Shade(position=Point(x=17, y=18), owner=3, id=76) Point(x=4, y=8) Point(x=16, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=78) Point(x=0, y=6) Point(x=17, y=17)
 
 [proboj] 
 STARTING TURN: 99
-Shade(position=Point(x=18, y=16), owner=3, id=81) Point(x=17, y=16) Point(x=17, y=16)
-Shade(position=Point(x=4, y=17), owner=3, id=56) Point(x=4, y=15) Point(x=4, y=16)
-Shade(position=Point(x=13, y=3), owner=3, id=36) Point(x=15, y=3) Point(x=13, y=4)
-Shade(position=Point(x=8, y=9), owner=3, id=27) Point(x=6, y=9) Point(x=7, y=9)
-Shade(position=Point(x=9, y=3), owner=3, id=29) Point(x=7, y=3) Point(x=9, y=2)
-Shade(position=Point(x=13, y=18), owner=3, id=72) Point(x=11, y=19) Point(x=13, y=19)
-Shade(position=Point(x=18, y=2), owner=3, id=22) Point(x=15, y=1) Point(x=17, y=2)
-Shade(position=Point(x=10, y=8), owner=3, id=23) Point(x=12, y=6) Point(x=10, y=7)
-Shade(position=Point(x=13, y=10), owner=3, id=40) Point(x=13, y=5) Point(x=12, y=10)
-Shade(position=Point(x=8, y=16), owner=3, id=61) Point(x=4, y=12) Point(x=8, y=15)
-Shade(position=Point(x=9, y=16), owner=3, id=64) Point(x=0, y=15) Point(x=8, y=16)
-Shade(position=Point(x=12, y=16), owner=3, id=68) Point(x=12, y=4) Point(x=11, y=16)
-Shade(position=Point(x=16, y=17), owner=3, id=77) Point(x=14, y=5) Point(x=16, y=18)
-Shade(position=Point(x=17, y=17), owner=3, id=78) Point(x=3, y=10) Point(x=17, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=76) Point(x=4, y=8) Point(x=15, y=18)
-Shade(position=Point(x=18, y=17), owner=3, id=79) Point(x=0, y=6) Point(x=17, y=17)
 
 [proboj] 
 STARTING TURN: 100
-Shade(position=Point(x=17, y=18), owner=3, id=78) Point(x=17, y=18) None
-Shade(position=Point(x=13, y=19), owner=3, id=72) Point(x=11, y=19) Point(x=12, y=19)
-Shade(position=Point(x=13, y=4), owner=3, id=36) Point(x=14, y=5) Point(x=13, y=5)
-Shade(position=Point(x=17, y=2), owner=3, id=22) Point(x=15, y=3) Point(x=17, y=3)
-Shade(position=Point(x=10, y=7), owner=3, id=23) Point(x=12, y=6) Point(x=10, y=6)
-Shade(position=Point(x=4, y=16), owner=3, id=56) Point(x=2, y=15) Point(x=3, y=16)
-Shade(position=Point(x=9, y=2), owner=3, id=29) Point(x=7, y=3) Point(x=9, y=1)
-Shade(position=Point(x=8, y=15), owner=3, id=61) Point(x=9, y=12) Point(x=9, y=15)
-Shade(position=Point(x=7, y=9), owner=3, id=27) Point(x=4, y=8) Point(x=6, y=9)
-Shade(position=Point(x=8, y=16), owner=3, id=64) Point(x=4, y=12) Point(x=8, y=15)
-Shade(position=Point(x=12, y=10), owner=3, id=40) Point(x=3, y=10) Point(x=11, y=10)
-Shade(position=Point(x=11, y=16), owner=3, id=68) Point(x=0, y=15) Point(x=10, y=16)
-Shade(position=Point(x=17, y=16), owner=3, id=81) Point(x=15, y=1) Point(x=17, y=17)
-Shade(position=Point(x=15, y=18), owner=3, id=76) Point(x=6, y=2) Point(x=14, y=18)
-Shade(position=Point(x=17, y=17), owner=3, id=79) Point(x=0, y=6) Point(x=17, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=77) Point(x=1, y=1) Point(x=15, y=18)
 
 [proboj] 
 STARTING TURN: 101
-Shade(position=Point(x=10, y=16), owner=3, id=68) Point(x=10, y=15) Point(x=10, y=15)
-Shade(position=Point(x=10, y=6), owner=3, id=23) Point(x=12, y=6) Point(x=10, y=5)
-Shade(position=Point(x=3, y=16), owner=3, id=56) Point(x=2, y=15) Point(x=2, y=16)
-Shade(position=Point(x=17, y=3), owner=3, id=22) Point(x=15, y=3) Point(x=16, y=3)
-Shade(position=Point(x=6, y=9), owner=3, id=27) Point(x=4, y=8) Point(x=5, y=9)
-Shade(position=Point(x=13, y=5), owner=3, id=36) Point(x=16, y=5) Point(x=14, y=5)
-Shade(position=Point(x=9, y=15), owner=3, id=61) Point(x=9, y=12) Point(x=9, y=14)
-Shade(position=Point(x=9, y=1), owner=3, id=29) Point(x=7, y=3) Point(x=8, y=1)
-Shade(position=Point(x=8, y=15), owner=3, id=64) Point(x=2, y=15) Point(x=8, y=16)
-Shade(position=Point(x=11, y=10), owner=3, id=40) Point(x=3, y=10) Point(x=10, y=10)
-Shade(position=Point(x=12, y=19), owner=3, id=72) Point(x=4, y=12) Point(x=12, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=76) Point(x=0, y=15) Point(x=13, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=77) Point(x=15, y=1) Point(x=14, y=18)
-Shade(position=Point(x=17, y=17), owner=3, id=81) Point(x=6, y=2) Point(x=17, y=18)
-Shade(position=Point(x=18, y=16), owner=3, id=83) Point(x=0, y=6) Point(x=18, y=17)
 
 [proboj] 
 STARTING TURN: 102
-Shade(position=Point(x=13, y=18), owner=3, id=76) Point(x=13, y=18) None
-Shade(position=Point(x=5, y=9), owner=3, id=27) Point(x=5, y=10) Point(x=5, y=10)
-Shade(position=Point(x=14, y=5), owner=3, id=36) Point(x=16, y=5) Point(x=15, y=5)
-Shade(position=Point(x=9, y=14), owner=3, id=61) Point(x=9, y=12) Point(x=9, y=13)
-Shade(position=Point(x=8, y=16), owner=3, id=64) Point(x=7, y=17) Point(x=7, y=16)
-Shade(position=Point(x=14, y=18), owner=3, id=77) Point(x=15, y=17) Point(x=15, y=18)
-Shade(position=Point(x=8, y=1), owner=3, id=29) Point(x=7, y=3) Point(x=7, y=1)
-Shade(position=Point(x=10, y=5), owner=3, id=23) Point(x=12, y=6) Point(x=10, y=4)
-Shade(position=Point(x=2, y=16), owner=3, id=56) Point(x=0, y=15) Point(x=1, y=16)
-Shade(position=Point(x=16, y=3), owner=3, id=22) Point(x=15, y=1) Point(x=15, y=3)
-Shade(position=Point(x=10, y=10), owner=3, id=40) Point(x=3, y=10) Point(x=9, y=10)
-Shade(position=Point(x=10, y=15), owner=3, id=68) Point(x=4, y=12) Point(x=9, y=15)
-Shade(position=Point(x=12, y=18), owner=3, id=72) Point(x=4, y=8) Point(x=12, y=17)
-Shade(position=Point(x=18, y=16), owner=3, id=84) Point(x=6, y=2) Point(x=18, y=17)
-Shade(position=Point(x=18, y=17), owner=3, id=83) Point(x=0, y=6) Point(x=17, y=17)
-Shade(position=Point(x=17, y=18), owner=3, id=81) Point(x=1, y=1) Point(x=16, y=18)
 
 [proboj] 
 STARTING TURN: 103
-Shade(position=Point(x=15, y=3), owner=3, id=22) Point(x=15, y=3) None
-Shade(position=Point(x=9, y=15), owner=3, id=68) Point(x=10, y=15) Point(x=10, y=15)
-Shade(position=Point(x=18, y=16), owner=3, id=86) Point(x=18, y=15) Point(x=18, y=15)
-Shade(position=Point(x=7, y=1), owner=3, id=29) Point(x=6, y=2) Point(x=7, y=2)
-Shade(position=Point(x=5, y=10), owner=3, id=27) Point(x=3, y=10) Point(x=4, y=10)
-Shade(position=Point(x=1, y=16), owner=3, id=56) Point(x=0, y=15) Point(x=0, y=16)
-Shade(position=Point(x=9, y=13), owner=3, id=61) Point(x=11, y=14) Point(x=10, y=13)
-Shade(position=Point(x=10, y=4), owner=3, id=23) Point(x=12, y=6) Point(x=10, y=3)
-Shade(position=Point(x=15, y=5), owner=3, id=36) Point(x=15, y=9) Point(x=14, y=5)
-Shade(position=Point(x=9, y=10), owner=3, id=40) Point(x=4, y=8) Point(x=8, y=10)
-Shade(position=Point(x=7, y=16), owner=3, id=64) Point(x=4, y=12) Point(x=8, y=16)
-Shade(position=Point(x=15, y=18), owner=3, id=77) Point(x=15, y=1) Point(x=14, y=18)
-Shade(position=Point(x=12, y=17), owner=3, id=72) Point(x=7, y=3) Point(x=12, y=16)
-Shade(position=Point(x=13, y=18), owner=3, id=76) Point(x=0, y=6) Point(x=12, y=18)
-Shade(position=Point(x=16, y=18), owner=3, id=81) Point(x=1, y=1) Point(x=15, y=18)
 
 [proboj] 
 STARTING TURN: 104
-Shade(position=Point(x=4, y=10), owner=3, id=27) Point(x=4, y=12) Point(x=4, y=11)
-Shade(position=Point(x=15, y=3), owner=3, id=22) Point(x=15, y=1) Point(x=15, y=2)
-Shade(position=Point(x=15, y=18), owner=3, id=81) Point(x=16, y=19) Point(x=16, y=18)
-Shade(position=Point(x=10, y=15), owner=3, id=68) Point(x=11, y=14) Point(x=11, y=15)
-Shade(position=Point(x=14, y=5), owner=3, id=36) Point(x=12, y=6) Point(x=14, y=6)
-Shade(position=Point(x=10, y=3), owner=3, id=23) Point(x=12, y=1) Point(x=10, y=2)
-Shade(position=Point(x=8, y=10), owner=3, id=40) Point(x=4, y=8) Point(x=7, y=10)
-Shade(position=Point(x=7, y=2), owner=3, id=29) Point(x=13, y=2) Point(x=7, y=1)
-Shade(position=Point(x=18, y=15), owner=3, id=86) Point(x=18, y=9) Point(x=18, y=16)
-Shade(position=Point(x=10, y=13), owner=3, id=61) Point(x=15, y=9) Point(x=11, y=13)
-Shade(position=Point(x=0, y=16), owner=3, id=56) Point(x=0, y=6) Point(x=1, y=16)
-Shade(position=Point(x=18, y=16), owner=3, id=87) Point(x=19, y=5) Point(x=18, y=17)
-Shade(position=Point(x=8, y=16), owner=3, id=64) Point(x=1, y=1) Point(x=9, y=16)
-Shade(position=Point(x=12, y=16), owner=3, id=72) Point(x=0, y=1) Point(x=11, y=16)
 
 [proboj] 
 STARTING TURN: 105
-Shade(position=Point(x=15, y=2), owner=3, id=22) Point(x=13, y=2) Point(x=16, y=2)
-Shade(position=Point(x=14, y=6), owner=3, id=36) Point(x=12, y=6) Point(x=13, y=6)
-Shade(position=Point(x=18, y=16), owner=3, id=86) Point(x=17, y=15) Point(x=17, y=16)
-Shade(position=Point(x=11, y=13), owner=3, id=61) Point(x=13, y=13) Point(x=11, y=12)
-Shade(position=Point(x=9, y=16), owner=3, id=64) Point(x=7, y=17) Point(x=8, y=16)
-Shade(position=Point(x=10, y=2), owner=3, id=23) Point(x=12, y=1) Point(x=10, y=1)
-Shade(position=Point(x=4, y=11), owner=3, id=27) Point(x=4, y=8) Point(x=4, y=10)
-Shade(position=Point(x=7, y=1), owner=3, id=29) Point(x=1, y=1) Point(x=7, y=2)
-Shade(position=Point(x=17, y=17), owner=3, id=83) Point(x=18, y=9) Point(x=17, y=18)
-Shade(position=Point(x=7, y=10), owner=3, id=40) Point(x=15, y=9) Point(x=8, y=10)
-Shade(position=Point(x=1, y=16), owner=3, id=56) Point(x=0, y=6) Point(x=2, y=16)
-Shade(position=Point(x=16, y=18), owner=3, id=81) Point(x=19, y=5) Point(x=15, y=18)
-Shade(position=Point(x=14, y=18), owner=3, id=77) Point(x=16, y=1) Point(x=13, y=18)
-Shade(position=Point(x=11, y=15), owner=3, id=68) Point(x=19, y=2) Point(x=10, y=15)
-Shade(position=Point(x=11, y=16), owner=3, id=72) Point(x=0, y=1) Point(x=10, y=16)
 
 [proboj] 
 STARTING TURN: 106
-Shade(position=Point(x=10, y=1), owner=3, id=23) Point(x=10, y=1) None
-Shade(position=Point(x=4, y=10), owner=3, id=27) Point(x=4, y=8) Point(x=4, y=9)
-Shade(position=Point(x=17, y=16), owner=3, id=86) Point(x=16, y=17) Point(x=17, y=17)
-Shade(position=Point(x=8, y=16), owner=3, id=64) Point(x=7, y=17) Point(x=7, y=16)
-Shade(position=Point(x=16, y=2), owner=3, id=22) Point(x=13, y=2) Point(x=17, y=2)
-Shade(position=Point(x=11, y=12), owner=3, id=61) Point(x=13, y=13) Point(x=11, y=11)
-Shade(position=Point(x=7, y=2), owner=3, id=29) Point(x=11, y=1) Point(x=7, y=1)
-Shade(position=Point(x=13, y=6), owner=3, id=36) Point(x=15, y=9) Point(x=12, y=6)
-Shade(position=Point(x=18, y=16), owner=3, id=88) Point(x=18, y=9) Point(x=18, y=17)
-Shade(position=Point(x=2, y=16), owner=3, id=56) Point(x=0, y=6) Point(x=3, y=16)
-Shade(position=Point(x=8, y=10), owner=3, id=40) Point(x=10, y=0) Point(x=9, y=10)
-Shade(position=Point(x=17, y=18), owner=3, id=83) Point(x=19, y=5) Point(x=16, y=18)
-Shade(position=Point(x=10, y=15), owner=3, id=68) Point(x=12, y=1) Point(x=10, y=14)
-Shade(position=Point(x=15, y=18), owner=3, id=81) Point(x=19, y=2) Point(x=14, y=18)
-Shade(position=Point(x=10, y=16), owner=3, id=72) Point(x=1, y=1) Point(x=9, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=76) Point(x=0, y=1) Point(x=12, y=17)
 
 [proboj] 
 STARTING TURN: 107
-Shade(position=Point(x=7, y=1), owner=3, id=29) Point(x=7, y=0) Point(x=7, y=0)
-Shade(position=Point(x=10, y=1), owner=3, id=23) Point(x=12, y=1) Point(x=11, y=1)
-Shade(position=Point(x=17, y=2), owner=3, id=22) Point(x=19, y=2) Point(x=18, y=2)
-Shade(position=Point(x=12, y=6), owner=3, id=36) Point(x=9, y=6) Point(x=12, y=5)
-Shade(position=Point(x=10, y=14), owner=3, id=68) Point(x=13, y=13) Point(x=11, y=14)
-Shade(position=Point(x=11, y=11), owner=3, id=61) Point(x=15, y=9) Point(x=11, y=10)
-Shade(position=Point(x=4, y=9), owner=3, id=27) Point(x=0, y=6) Point(x=5, y=9)
-Shade(position=Point(x=18, y=16), owner=3, id=89) Point(x=18, y=9) Point(x=18, y=17)
-Shade(position=Point(x=9, y=10), owner=3, id=40) Point(x=7, y=2) Point(x=9, y=9)
-Shade(position=Point(x=18, y=17), owner=3, id=88) Point(x=19, y=5) Point(x=17, y=17)
-Shade(position=Point(x=12, y=17), owner=3, id=76) Point(x=13, y=2) Point(x=12, y=16)
-Shade(position=Point(x=16, y=18), owner=3, id=83) Point(x=15, y=3) Point(x=15, y=18)
-Shade(position=Point(x=3, y=16), owner=3, id=56) Point(x=2, y=1) Point(x=4, y=16)
-Shade(position=Point(x=7, y=16), owner=3, id=64) Point(x=1, y=1) Point(x=8, y=16)
-Shade(position=Point(x=9, y=16), owner=3, id=72) Point(x=0, y=1) Point(x=9, y=15)
 
 [proboj] 
 STARTING TURN: 108
-Shade(position=Point(x=9, y=15), owner=3, id=72) Point(x=10, y=15) Point(x=10, y=15)
-Shade(position=Point(x=18, y=16), owner=3, id=90) Point(x=19, y=16) Point(x=19, y=16)
-Shade(position=Point(x=15, y=18), owner=3, id=83) Point(x=15, y=16) Point(x=15, y=17)
-Shade(position=Point(x=7, y=0), owner=3, id=29) Point(x=7, y=2) Point(x=7, y=1)
-Shade(position=Point(x=11, y=1), owner=3, id=23) Point(x=13, y=2) Point(x=12, y=1)
-Shade(position=Point(x=11, y=14), owner=3, id=68) Point(x=13, y=13) Point(x=11, y=13)
-Shade(position=Point(x=9, y=9), owner=3, id=40) Point(x=9, y=6) Point(x=9, y=8)
-Shade(position=Point(x=18, y=2), owner=3, id=22) Point(x=19, y=5) Point(x=19, y=2)
-Shade(position=Point(x=12, y=5), owner=3, id=36) Point(x=15, y=3) Point(x=13, y=5)
-Shade(position=Point(x=4, y=16), owner=3, id=56) Point(x=0, y=15) Point(x=3, y=16)
-Shade(position=Point(x=11, y=10), owner=3, id=61) Point(x=15, y=9) Point(x=12, y=10)
-Shade(position=Point(x=5, y=9), owner=3, id=27) Point(x=0, y=6) Point(x=6, y=9)
-Shade(position=Point(x=18, y=17), owner=3, id=89) Point(x=18, y=9) Point(x=17, y=17)
-Shade(position=Point(x=8, y=16), owner=3, id=64) Point(x=2, y=1) Point(x=9, y=16)
-Shade(position=Point(x=12, y=16), owner=3, id=76) Point(x=1, y=1) Point(x=11, y=16)
-Shade(position=Point(x=13, y=18), owner=3, id=77) Point(x=0, y=1) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 109
-Shade(position=Point(x=9, y=8), owner=3, id=40) Point(x=9, y=6) Point(x=9, y=7)
-Shade(position=Point(x=17, y=17), owner=3, id=89) Point(x=17, y=15) Point(x=17, y=16)
-Shade(position=Point(x=12, y=10), owner=3, id=61) Point(x=13, y=11) Point(x=13, y=10)
-Shade(position=Point(x=12, y=1), owner=3, id=23) Point(x=13, y=2) Point(x=13, y=1)
-Shade(position=Point(x=11, y=13), owner=3, id=68) Point(x=13, y=13) Point(x=11, y=12)
-Shade(position=Point(x=13, y=5), owner=3, id=36) Point(x=13, y=3) Point(x=13, y=4)
-Shade(position=Point(x=19, y=2), owner=3, id=22) Point(x=19, y=5) Point(x=19, y=3)
-Shade(position=Point(x=3, y=16), owner=3, id=56) Point(x=0, y=15) Point(x=2, y=16)
-Shade(position=Point(x=7, y=1), owner=3, id=29) Point(x=2, y=1) Point(x=7, y=2)
-Shade(position=Point(x=18, y=16), owner=3, id=91) Point(x=18, y=9) Point(x=18, y=17)
-Shade(position=Point(x=15, y=17), owner=3, id=83) Point(x=15, y=9) Point(x=15, y=18)
-Shade(position=Point(x=6, y=9), owner=3, id=27) Point(x=0, y=6) Point(x=7, y=9)
-Shade(position=Point(x=14, y=18), owner=3, id=81) Point(x=15, y=9) Point(x=13, y=18)
-Shade(position=Point(x=10, y=15), owner=3, id=72) Point(x=15, y=3) Point(x=10, y=14)
-Shade(position=Point(x=9, y=16), owner=3, id=64) Point(x=1, y=1) Point(x=9, y=15)
-Shade(position=Point(x=11, y=16), owner=3, id=76) Point(x=0, y=1) Point(x=10, y=16)
 
 [proboj] 
 STARTING TURN: 110
-Shade(position=Point(x=18, y=17), owner=3, id=91) Point(x=18, y=17) None
-Shade(position=Point(x=19, y=3), owner=3, id=22) Point(x=18, y=4) Point(x=19, y=4)
-Shade(position=Point(x=13, y=4), owner=3, id=36) Point(x=15, y=3) Point(x=13, y=5)
-Shade(position=Point(x=13, y=10), owner=3, id=61) Point(x=15, y=9) Point(x=14, y=10)
-Shade(position=Point(x=11, y=12), owner=3, id=68) Point(x=10, y=10) Point(x=10, y=12)
-Shade(position=Point(x=2, y=16), owner=3, id=56) Point(x=0, y=15) Point(x=1, y=16)
-Shade(position=Point(x=10, y=14), owner=3, id=72) Point(x=13, y=13) Point(x=11, y=14)
-Shade(position=Point(x=7, y=2), owner=3, id=29) Point(x=2, y=1) Point(x=7, y=3)
-Shade(position=Point(x=18, y=16), owner=3, id=92) Point(x=18, y=9) Point(x=18, y=17)
-Shade(position=Point(x=9, y=7), owner=3, id=40) Point(x=15, y=9) Point(x=10, y=7)
-Shade(position=Point(x=13, y=1), owner=3, id=23) Point(x=18, y=5) Point(x=13, y=2)
-Shade(position=Point(x=7, y=9), owner=3, id=27) Point(x=0, y=6) Point(x=8, y=9)
-Shade(position=Point(x=19, y=16), owner=3, id=90) Point(x=18, y=6) Point(x=19, y=17)
-Shade(position=Point(x=17, y=16), owner=3, id=89) Point(x=19, y=5) Point(x=17, y=17)
-Shade(position=Point(x=9, y=15), owner=3, id=64) Point(x=1, y=1) Point(x=9, y=14)
-Shade(position=Point(x=10, y=16), owner=3, id=76) Point(x=0, y=1) Point(x=9, y=16)
 
 [proboj] 
 STARTING TURN: 111
-Shade(position=Point(x=13, y=2), owner=3, id=23) Point(x=13, y=2) None
-Shade(position=Point(x=19, y=4), owner=3, id=22) Point(x=18, y=5) Point(x=19, y=5)
-Shade(position=Point(x=9, y=14), owner=3, id=64) Point(x=8, y=13) Point(x=8, y=14)
-Shade(position=Point(x=14, y=10), owner=3, id=61) Point(x=15, y=9) Point(x=15, y=10)
-Shade(position=Point(x=10, y=12), owner=3, id=68) Point(x=10, y=10) Point(x=10, y=11)
-Shade(position=Point(x=1, y=16), owner=3, id=56) Point(x=0, y=15) Point(x=0, y=16)
-Shade(position=Point(x=11, y=14), owner=3, id=72) Point(x=13, y=13) Point(x=11, y=13)
-Shade(position=Point(x=13, y=5), owner=3, id=36) Point(x=13, y=1) Point(x=13, y=4)
-Shade(position=Point(x=7, y=3), owner=3, id=29) Point(x=3, y=1) Point(x=7, y=4)
-Shade(position=Point(x=18, y=16), owner=3, id=93) Point(x=18, y=9) Point(x=18, y=17)
-Shade(position=Point(x=10, y=7), owner=3, id=40) Point(x=15, y=9) Point(x=10, y=8)
-Shade(position=Point(x=8, y=9), owner=3, id=27) Point(x=0, y=6) Point(x=9, y=9)
-Shade(position=Point(x=17, y=17), owner=3, id=89) Point(x=18, y=6) Point(x=17, y=18)
-Shade(position=Point(x=15, y=18), owner=3, id=83) Point(x=15, y=3) Point(x=14, y=18)
-Shade(position=Point(x=9, y=16), owner=3, id=76) Point(x=2, y=1) Point(x=9, y=15)
-Shade(position=Point(x=12, y=18), owner=3, id=77) Point(x=1, y=1) Point(x=12, y=17)
-Shade(position=Point(x=13, y=18), owner=3, id=81) Point(x=0, y=1) Point(x=12, y=18)
 
 [proboj] 
 STARTING TURN: 112
-Shade(position=Point(x=17, y=18), owner=3, id=89) Point(x=17, y=19) Point(x=17, y=19)
-Shade(position=Point(x=10, y=11), owner=3, id=68) Point(x=10, y=12) Point(x=10, y=12)
-Shade(position=Point(x=7, y=4), owner=3, id=29) Point(x=6, y=5) Point(x=7, y=5)
-Shade(position=Point(x=19, y=5), owner=3, id=22) Point(x=18, y=6) Point(x=19, y=6)
-Shade(position=Point(x=11, y=13), owner=3, id=72) Point(x=13, y=13) Point(x=11, y=12)
-Shade(position=Point(x=13, y=2), owner=3, id=23) Point(x=15, y=3) Point(x=13, y=3)
-Shade(position=Point(x=18, y=16), owner=3, id=94) Point(x=18, y=12) Point(x=18, y=17)
-Shade(position=Point(x=15, y=10), owner=3, id=61) Point(x=18, y=9) Point(x=16, y=10)
-Shade(position=Point(x=10, y=8), owner=3, id=40) Point(x=5, y=8) Point(x=9, y=8)
-Shade(position=Point(x=0, y=16), owner=3, id=56) Point(x=0, y=6) Point(x=1, y=16)
-Shade(position=Point(x=13, y=4), owner=3, id=36) Point(x=6, y=1) Point(x=12, y=4)
-Shade(position=Point(x=9, y=9), owner=3, id=27) Point(x=3, y=1) Point(x=9, y=8)
-Shade(position=Point(x=8, y=14), owner=3, id=64) Point(x=2, y=1) Point(x=9, y=14)
-Shade(position=Point(x=9, y=15), owner=3, id=76) Point(x=1, y=1) Point(x=9, y=14)
-Shade(position=Point(x=12, y=17), owner=3, id=77) Point(x=0, y=1) Point(x=12, y=16)
 
 [proboj] 
 STARTING TURN: 113
-Shade(position=Point(x=13, y=3), owner=3, id=23) Point(x=15, y=3) Point(x=13, y=4)
-Shade(position=Point(x=11, y=12), owner=3, id=72) Point(x=13, y=13) Point(x=11, y=11)
-Shade(position=Point(x=16, y=10), owner=3, id=61) Point(x=18, y=9) Point(x=16, y=11)
-Shade(position=Point(x=18, y=16), owner=3, id=95) Point(x=18, y=12) Point(x=18, y=17)
-Shade(position=Point(x=7, y=5), owner=3, id=29) Point(x=8, y=8) Point(x=7, y=4)
-Shade(position=Point(x=12, y=4), owner=3, id=36) Point(x=10, y=7) Point(x=12, y=3)
-Shade(position=Point(x=1, y=16), owner=3, id=56) Point(x=5, y=18) Point(x=2, y=16)
-Shade(position=Point(x=19, y=6), owner=3, id=22) Point(x=17, y=0) Point(x=18, y=6)
-Shade(position=Point(x=10, y=12), owner=3, id=68) Point(x=5, y=8) Point(x=9, y=12)
-Shade(position=Point(x=12, y=16), owner=3, id=77) Point(x=6, y=1) Point(x=11, y=16)
-Shade(position=Point(x=12, y=18), owner=3, id=81) Point(x=6, y=1) Point(x=12, y=17)
-Shade(position=Point(x=14, y=18), owner=3, id=83) Point(x=0, y=6) Point(x=13, y=18)
-Shade(position=Point(x=17, y=19), owner=3, id=89) Point(x=3, y=1) Point(x=16, y=19)
-Shade(position=Point(x=19, y=17), owner=3, id=90) Point(x=2, y=1) Point(x=18, y=17)
 
 [proboj] 
 STARTING TURN: 114
-Shade(position=Point(x=12, y=3), owner=3, id=36) Point(x=15, y=3) Point(x=13, y=3)
-Shade(position=Point(x=18, y=6), owner=3, id=22) Point(x=18, y=9) Point(x=17, y=6)
-Shade(position=Point(x=16, y=11), owner=3, id=61) Point(x=18, y=12) Point(x=17, y=11)
-Shade(position=Point(x=11, y=11), owner=3, id=72) Point(x=12, y=9) Point(x=11, y=10)
-Shade(position=Point(x=7, y=4), owner=3, id=29) Point(x=6, y=1) Point(x=6, y=4)
-Shade(position=Point(x=11, y=16), owner=3, id=77) Point(x=13, y=13) Point(x=11, y=15)
-Shade(position=Point(x=2, y=16), owner=3, id=56) Point(x=5, y=18) Point(x=3, y=16)
-Shade(position=Point(x=9, y=12), owner=3, id=68) Point(x=8, y=8) Point(x=8, y=12)
-Shade(position=Point(x=13, y=4), owner=3, id=23) Point(x=10, y=7) Point(x=12, y=4)
-Shade(position=Point(x=12, y=17), owner=3, id=81) Point(x=6, y=18) Point(x=12, y=16)
-Shade(position=Point(x=18, y=16), owner=3, id=96) Point(x=17, y=0) Point(x=18, y=17)
-Shade(position=Point(x=13, y=18), owner=3, id=83) Point(x=5, y=8) Point(x=12, y=18)
-Shade(position=Point(x=16, y=19), owner=3, id=89) Point(x=6, y=1) Point(x=15, y=19)
+
+[proboj] 
+STARTING TURN: 115
+
+[proboj] 
+STARTING TURN: 116
+
+[proboj] 
+STARTING TURN: 117
+
+[proboj] 
+STARTING TURN: 118
+
+[proboj] 
+STARTING TURN: 119
+
+[proboj] 
+STARTING TURN: 120
+
+[proboj] 
+STARTING TURN: 121
+
+[proboj] 
+STARTING TURN: 122
+
+[proboj] 
+STARTING TURN: 123
+
+[proboj] 
+STARTING TURN: 124
+
+[proboj] 
+STARTING TURN: 125
+
+[proboj] 
+STARTING TURN: 126
+
+[proboj] 
+STARTING TURN: 127
+
+[proboj] 
+STARTING TURN: 128
+
+[proboj] 
+STARTING TURN: 129
+
+[proboj] 
+STARTING TURN: 130
+
+[proboj] 
+STARTING TURN: 131
+
+[proboj] 
+STARTING TURN: 132
+
+[proboj] 
+STARTING TURN: 133
+
+[proboj] 
+STARTING TURN: 134
+
+[proboj] 
+STARTING TURN: 135
+
+[proboj] 
+STARTING TURN: 136
+
+[proboj] 
+STARTING TURN: 137
+
+[proboj] 
+STARTING TURN: 138
+
+[proboj] 
+STARTING TURN: 139
+
+[proboj] 
+STARTING TURN: 140
+
+[proboj] 
+STARTING TURN: 141
+
+[proboj] 
+STARTING TURN: 142
+
+[proboj] 
+STARTING TURN: 143
+
+[proboj] 
+STARTING TURN: 144
+
+[proboj] 
+STARTING TURN: 145
+
+[proboj] 
+STARTING TURN: 146
+
+[proboj] 
+STARTING TURN: 147
+
+[proboj] 
+STARTING TURN: 148
+
+[proboj] 
+STARTING TURN: 149
+
+[proboj] 
+STARTING TURN: 150
+
+[proboj] 
+STARTING TURN: 151
+
+[proboj] 
+STARTING TURN: 152
+
+[proboj] 
+STARTING TURN: 153
+
+[proboj] 
+STARTING TURN: 154
+
+[proboj] 
+STARTING TURN: 155
+
+[proboj] 
+STARTING TURN: 156
+
+[proboj] 
+STARTING TURN: 157
+
+[proboj] 
+STARTING TURN: 158
+
+[proboj] 
+STARTING TURN: 159
+
+[proboj] 
+STARTING TURN: 160
+
+[proboj] 
+STARTING TURN: 161
+
+[proboj] 
+STARTING TURN: 162
+
+[proboj] 
+STARTING TURN: 163
+
+[proboj] 
+STARTING TURN: 164
+
+[proboj] 
+STARTING TURN: 165
+
+[proboj] 
+STARTING TURN: 166
+
+[proboj] 
+STARTING TURN: 167
+
+[proboj] 
+STARTING TURN: 168
+
+[proboj] 
+STARTING TURN: 169
+
+[proboj] 
+STARTING TURN: 170
 
 [proboj] process terminated
  exit: -1

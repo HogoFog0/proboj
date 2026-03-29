@@ -6,6 +6,6 @@
       "cpp2",
       "py"
     ],
-    "args": "../maps/maze.ppm"
+    "args": "../maps/bracket.ppm"
   }
 ]
