@@ -4,20 +4,35 @@ from heapq import *
 import random
 
 
-def eval(objective : Person | Tombstone, shade : Shade): #
-    return 100-objective.position.manhattan_dist(shade.position) + random.random()
+def eval(self,objective : Person | Tombstone, shade : Shade): #
+    if self.closestenemak[objective] < objective.position.manhattan_dist(shade.position):
+        res = 0
+    else:
+        res = 100-objective.position.manhattan_dist(shade.position)
+    return res - random.random()
+
+def calcclosestenemy(self,objective : Person | Tombstone):
+    mn = float('inf')
+    for o in self.enemy_shades:
+        cur = objective.position.manhattan_dist(o.position)
+        if cur<mn:
+                mn = cur
+    self.closestenemak[objective] = mn
+
 
 def assignpeople(self):
 
     world : World = self.world
     heaps = defaultdict(list)
     bigheap = []
+    self.closestenemak = dict()
     
     if(len(self.my_shades)):
         for i in world.alive_people:
+            calcclosestenemy(self,i)
             for j in self.my_shades:
                 if j in self.job: continue
-                heappush(heaps[i],(-eval(i,j),j))
+                heappush(heaps[i],(-eval(self,i,j),j))
             heappush(bigheap,(heappop(heaps[i]),i))
 
         while(len(bigheap)):
@@ -41,7 +56,7 @@ def assigntombs(self):
                 for j in world.alive_tombstones:
                     j : Tombstone
                     if(j.owner == self.world.my_id): continue
-                    val = eval(j,i)
+                    val = j.position.manhattan_dist(i.position)
                     if(val < cur[1]):
                         cur[1] = val
                         cur[0] = j
