@@ -38,6 +38,7 @@ class Player(PlayerInterface):
         self.blocked = set()
         self.blocked.add(i for i in self.my_stones)
         self.job = dict()
+        self.closestenemy = dict()
 
         # self.log(self.my_shades)
         assignpeople(self)
